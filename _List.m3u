@@ -43,7 +43,7 @@ http://185.226.88.3:1036/live/backup/backup/150.m3u8
 http://185.226.88.3:1036/live/backup/backup/151.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Real Time
 http://185.226.88.3:1036/live/backup/backup/154.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",ATV Avrupa
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="",ATV Avrupa
 http://185.226.88.3:1036/live/backup/backup/155.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",D Drama
 http://185.226.88.3:1036/live/backup/backup/157.m3u8
