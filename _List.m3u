@@ -77,6 +77,8 @@ https://abdyli.gjirafa.com/live/r6e3JjXjSjkUCsA7CmdhL8lzM4fGXGz4/yt1q1x.m3u8
 https://srv1.iptviliria.com/TringKids/index.m3u8?token=undefined
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tirana_TV.svg/1200px-Tirana_TV.svg.png",Tirana TV 1
 http://185.226.88.3:1036/live/backup/backup/85.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",BANG BANG
+http://93.157.62.180/BangBang/index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/1krI1VF.png",Bang Bang
 https://list.iptvcat.com/my_list/s/f40e323dbd032468143af33bdc0c1696.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/Nk1C4pC.png",Tring Tring HD
@@ -279,8 +281,6 @@ http://185.226.88.3:1036/live/backup/backup/111.m3u8
 https://moviesphereuk-rakuten.amagi.tv/playlist360p.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",K-PLUS
 http://210.210.155.35/uq2663/h/h08/02.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",BANG BANG
-http://93.157.62.180/BangBang/index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",Happy Kids 1
 https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",JUNIOR TV
