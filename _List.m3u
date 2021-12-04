@@ -43,7 +43,7 @@ http://185.226.88.3:1036/live/backup/backup/150.m3u8
 http://185.226.88.3:1036/live/backup/backup/151.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Real Time
 http://185.226.88.3:1036/live/backup/backup/154.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="",ATV Avrupa
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",ATV Avrupa
 http://185.226.88.3:1036/live/backup/backup/155.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",D Drama
 http://185.226.88.3:1036/live/backup/backup/157.m3u8
@@ -79,49 +79,327 @@ https://srv1.iptviliria.com/TringKids/index.m3u8?token=undefined
 http://185.226.88.3:1036/live/backup/backup/85.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",BANG BANG
 http://93.157.62.180/BangBang/index.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash TV
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash TV
 http://a3.smashmalta.com:82/live/smash/smash/5.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash 7News
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash 7News
 http://a3.smashmalta.com:82/live/smash/smash/29.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash TV Shopping
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash TV Shopping
 http://a3.smashmalta.com:82/live/smash/smash/14.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Food
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Food
 http://a3.smashmalta.com:82/live/smash/smash/15.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Politika
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Politika
 http://a3.smashmalta.com:82/live/smash/smash/19.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Explore
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Explore
 http://a3.smashmalta.com:82/live/smash/smash/23.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Movies
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Movies
 http://a3.smashmalta.com:82/live/smash/smash/27.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Jazz
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Jazz
 http://a3.smashmalta.com:82/live/smash/smash/10.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Music
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Music
 http://a3.smashmalta.com:82/live/smash/smash/8.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Country
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Country
 http://a3.smashmalta.com:82/live/smash/smash/12.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash House of Rock
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash House of Rock
 http://a3.smashmalta.com:82/live/smash/smash/25.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Radio 104.6FM
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Radio 104.6FM
 http://a3.smashmalta.com:82/live/smash/smash/21.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Jazz Notes (Radio)
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Jazz Notes (Radio)
 http://a3.smashmalta.com:82/live/smash/smash/38.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Rock Classics (Radio)
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Rock Classics (Radio)
 http://a3.smashmalta.com:82/live/smash/smash/37.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Bella Italia (Radio)
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Bella Italia (Radio)
 http://a3.smashmalta.com:82/live/smash/smash/36.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Arabija
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Arabija
 http://a3.smashmalta.com:82/live/smash/smash/26.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Libya
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",HBO FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/685038
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",HBO Family HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13741
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",HBO Signature FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/685178
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",HBO Comedy FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4921
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",HBO Comedy HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13762
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",HBO Zone HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/685177
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Showtime HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4926
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Showtime 2 FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677213
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Showtime Showcase HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4891
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Showtime Next FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677206
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Showtime Extreme FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677214
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Starz [West] FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/678450
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Starz Edge FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4897
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Starz Kids & Family FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/678446
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Starz Comedy FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4899
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Starz Cinema FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4898
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Starz Encore FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/685180
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Starz Encore Family HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/685185
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Epix HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677216
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Cinemax [East] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4912
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Action Max FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4869
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",5Star Max HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4911
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TBS FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677201
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TBS HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4908
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",AMC HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684738
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",AMC HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4959
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",AMC US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/6363
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TNT FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4876
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TNT HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/6354
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",LMN/Lifetime Movies HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/676924
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Paramount Network HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677220
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Sony Movie Channel HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677222
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Freeform HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677202
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Hallmark FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/685299
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Hallmark HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/685298
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Hallmark Movies & Mysteries FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13746
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Hallmark Drama FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/683885
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",FX FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13763
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",FX HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4942
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",FXX FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13756
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",FXX HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14353
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",INSP HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/676923
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",IFC HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13739
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TCM HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677203
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Cozi TV US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677207
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Sundance TV FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/676927
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Sundance TV HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684764
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Adult Swim [East] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/676925
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",✽✽⭒ USA Entertainment ⭒✽✽
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677101
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",BBC America HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14392
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Fox FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13757
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",ABC HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4925
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",VH1 HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/6753
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",VH1 US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/11254
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",VH1 [West] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684714
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",VH1 [East] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684715
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",MTV Classic VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/687542
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Comedy Central HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4882
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Comedy Central US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13823
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Syfy HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/648340
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",E! [East] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684728
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",E! [West] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684727
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",POP TV HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684761
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",USA Network HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4901
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Bravo HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/679201
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Bravo HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4883
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Lifetime HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14343
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",A&E FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4960
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",A&E HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14399
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",HGTV HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14348
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",HGTV US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/10218
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",HGTV [East] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684726
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",OutSide TV HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/659779
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",OWN HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13760
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TLC FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13734
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TLC HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14397
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TLC US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4924
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TLC [East] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684769
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TLC [West] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684768
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Fashion TV FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14362
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TRU TV HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677227
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TV Land HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/655120
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Reelz Channel HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/51014
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",WE TV FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677228
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Fuse HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/676921
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Oxygen HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/51015
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Oxygen [West] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684731
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",CBS US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4885
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",BET [West] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684741
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",BET Her HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/683180
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Bet Her HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13764
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",CW HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4955
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",CMT HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14383
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",GSN HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14351
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",✽✽⭒ USA Documentary ⭒✽✽
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677098
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Discovery Channel FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/690787
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Discovery Life HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4933
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Crime & Investigation FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/689255
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Investigation Discovery HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4879
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Discovery Science FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4887
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Discovery Science HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684762
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Destination America FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/17640
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Destination America HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684748
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",History Channel FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14347
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",History Channel HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684749
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",History Channel HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4880
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",National Geographic FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4881
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",National Geographic HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14339
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Nat Geo Wild FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13745
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Animal Planet HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14393
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Animal Planet HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/6362
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",DIY Network HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/675417
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Food Network [East] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14359
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Cooking Channel HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/683443
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Motortrend HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677157
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Outdoor Channel HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14325
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Outdoor Channel HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684730
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Travel Channel FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/32381
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",The Weather Channel HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/683444
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",American Heroes HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677204
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Smithsonian Channel [West] HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684763
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Viceland HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/667813
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Sportsman HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677145
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",✽✽⭒ USA Kids ⭒✽✽
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677102
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Cartoon Network FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/4886
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Cartoon Network HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14387
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Disney Channel HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14369
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Disney Junior HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/675522
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Disney XD FHD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14368
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Nicktoons HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/13744
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Discovery Family HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14396
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Universal Kids HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/677236
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",✽✽⭒ USA Music ⭒✽✽
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/683900
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",MTV Live FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/683372
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",MTV HD US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/14342
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",MTV2 HD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/683899
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",BET Jams VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/684742
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Revolt FHD VIP US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/659781
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",BET Soul US
+http://ipflix.click:8080/6yyevgqfjv/u2kf7n2ynf/661091
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Libya
 http://a3.smashmalta.com:82/live/smash/smash/91.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TVM
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVM
 http://a3.smashmalta.com:82/live/smash/smash/70.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TVM2
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVM2
 http://a3.smashmalta.com:82/live/smash/smash/71.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",ONE
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",ONE
 http://a3.smashmalta.com:82/live/smash/smash/78.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",NET
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",NET
 http://a3.smashmalta.com:82/live/smash/smash/79.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Parlament ta' Malta TV
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Parlament ta' Malta TV
 http://a3.smashmalta.com:82/live/smash/smash/81.ts
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/Nk1C4pC.png",Tring Tring HD
 https://srv1.iptviliria.com/TringTring/tracks-v1a1/mono.m3u8?token=undefined
