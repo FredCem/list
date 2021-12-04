@@ -29,6 +29,8 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 https://srv1.iptviliria.com/TopNews/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://icanlive.tv/pictures/abc-news-al.jpg",ABC News Alb HD
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://antena.al/wp-content/uploads/2021/03/272logo.png",Antena TV
+http://32.shqiptv.org/ANTENA_TV/index.m3u8?token=6050a8408632e5dcd0e2a37c15eab1b218a477ef-ec034f7573feee7b945362f7f9bc1fcd-1638657713-1638650513
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TGCOM24
 http://185.226.88.3:1036/live/backup/backup/146.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",La 7
@@ -399,6 +401,8 @@ https://abdyli.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/ytkt1k360/index
 http://185.226.88.3:1036/live/backup/backup/83.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://zjarr.tv/wp-content/uploads/2021/09/zjarrtvlogo-300x169.png",Zjarr TV
 https://edge01eu.ekranet.com/zjarrtv/index.m3u8?e=4e6720577a8c60b902c6a5a54f244f80&c=zjarrtv&medium=websocket
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://tvtolive.com/wp-content/uploads/TV-Skampa-tvtolive.com_.jpg",Elbasani TV
+http://37.26.87.155:1936/hls/stream1.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/cS0Qe01.png",ZICO HD
 https://srv1.iptviliria.com/ZicoTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/LlapiTv_logo_6086a3de8b30b_thumb.jpg",Llapi Tv
