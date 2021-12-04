@@ -79,8 +79,50 @@ https://srv1.iptviliria.com/TringKids/index.m3u8?token=undefined
 http://185.226.88.3:1036/live/backup/backup/85.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",BANG BANG
 http://93.157.62.180/BangBang/index.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/1krI1VF.png",Smash Country
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash TV
+http://a3.smashmalta.com:82/live/smash/smash/5.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash 7News
+http://a3.smashmalta.com:82/live/smash/smash/29.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash TV Shopping
+http://a3.smashmalta.com:82/live/smash/smash/14.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Food
+http://a3.smashmalta.com:82/live/smash/smash/15.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Politika
+http://a3.smashmalta.com:82/live/smash/smash/19.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Explore
+http://a3.smashmalta.com:82/live/smash/smash/23.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Movies
+http://a3.smashmalta.com:82/live/smash/smash/27.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Jazz
+http://a3.smashmalta.com:82/live/smash/smash/10.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Music
+http://a3.smashmalta.com:82/live/smash/smash/8.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Country
 http://a3.smashmalta.com:82/live/smash/smash/12.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash House of Rock
+http://a3.smashmalta.com:82/live/smash/smash/25.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Radio 104.6FM
+http://a3.smashmalta.com:82/live/smash/smash/21.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Jazz Notes (Radio)
+http://a3.smashmalta.com:82/live/smash/smash/38.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Rock Classics (Radio)
+http://a3.smashmalta.com:82/live/smash/smash/37.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Bella Italia (Radio)
+http://a3.smashmalta.com:82/live/smash/smash/36.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Smash-tv-logo.png/revision/latest/scale-to-width-down/300?cb=20140305183309",Smash Arabija
+http://a3.smashmalta.com:82/live/smash/smash/26.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Libya
+http://a3.smashmalta.com:82/live/smash/smash/91.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TVM
+http://a3.smashmalta.com:82/live/smash/smash/70.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TVM2
+http://a3.smashmalta.com:82/live/smash/smash/71.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",ONE
+http://a3.smashmalta.com:82/live/smash/smash/78.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",NET
+http://a3.smashmalta.com:82/live/smash/smash/79.ts
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Parlament ta' Malta TV
+http://a3.smashmalta.com:82/live/smash/smash/81.ts
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/Nk1C4pC.png",Tring Tring HD
 https://srv1.iptviliria.com/TringTring/tracks-v1a1/mono.m3u8?token=undefined
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/Nk1C4pC.png",Tip Tv
