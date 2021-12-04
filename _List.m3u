@@ -79,8 +79,8 @@ https://srv1.iptviliria.com/TringKids/index.m3u8?token=undefined
 http://185.226.88.3:1036/live/backup/backup/85.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",BANG BANG
 http://93.157.62.180/BangBang/index.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/1krI1VF.png",Bang Bang
-https://list.iptvcat.com/my_list/s/f40e323dbd032468143af33bdc0c1696.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/1krI1VF.png",Smash Country
+http://a3.smashmalta.com:82/live/smash/smash/12.ts
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/Nk1C4pC.png",Tring Tring HD
 https://srv1.iptviliria.com/TringTring/tracks-v1a1/mono.m3u8?token=undefined
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/Nk1C4pC.png",Tip Tv
