@@ -30,7 +30,7 @@ https://srv1.iptviliria.com/TopNews/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1Qi
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://icanlive.tv/pictures/abc-news-al.jpg",ABC News Alb HD
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://antena.al/wp-content/uploads/2021/03/272logo.png",Antena TV
-http://32.shqiptv.org/ANTENA_TV/index.m3u8?token=6050a8408632e5dcd0e2a37c15eab1b218a477ef-ec034f7573feee7b945362f7f9bc1fcd-1638657713-1638650513
+http://32.shqiptv.org/ANTENA_TV/index.m3u8?token=e26b899f25721a5b8bdd8944397609820079e93b-2bc9bbd7922cea8c3d80ebd9e7d855e8-1638995837-1638988637
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TGCOM24
 http://185.226.88.3:1036/live/backup/backup/146.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",La 7
