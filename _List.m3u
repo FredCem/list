@@ -29,8 +29,8 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 https://srv1.iptviliria.com/TopNews/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://icanlive.tv/pictures/abc-news-al.jpg",ABC News Alb HD
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://antena.al/wp-content/uploads/2021/03/272logo.png",Antena TV
-http://32.shqiptv.org/ANTENA_TV/index.m3u8?token=e26b899f25721a5b8bdd8944397609820079e93b-2bc9bbd7922cea8c3d80ebd9e7d855e8-1638995837-1638988637
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="Antena TV",Antena TV
+http://32.shqiptv.org/ANTENA_TV/tracks-v1a1/mono.m3u8?token=05d8d08d985c06f3666108cdb1f243c86d23e1f7-fab35ec02bb8bdd14582f30c98e3491b-1639162288-1639155088
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TGCOM24
 http://185.226.88.3:1036/live/backup/backup/146.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",La 7
@@ -149,7 +149,7 @@ https://srv1.iptviliria.com/FilmHits/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 https://srv1.iptviliria.com/FilmKomedi/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/6jsC67V.png",Film Nje
 https://srv1.iptviliria.com/FilmNje/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.squarespace-cdn.com/content/v1/5eaae2748bac171763980c59/1592671669513-JWRO9BENLGJXSSL2PYJ0/logo-aplo.png",ALPO TV
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://alpomedia.com/wp-content/uploads/2021/03/alporadio-webplayer-e1616181015870.png",ALPO TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/Apollon%20TV.png",Apollon TV HD
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
