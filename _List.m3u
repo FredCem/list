@@ -29,8 +29,6 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 https://srv1.iptviliria.com/TopNews/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://icanlive.tv/pictures/abc-news-al.jpg",ABC News Alb HD
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="Antena TV",Antena TV
-http://32.shqiptv.org/ANTENA_TV/tracks-v1a1/mono.m3u8?token=05d8d08d985c06f3666108cdb1f243c86d23e1f7-fab35ec02bb8bdd14582f30c98e3491b-1639162288-1639155088
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TGCOM24
 http://185.226.88.3:1036/live/backup/backup/146.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",La 7
@@ -72,7 +70,9 @@ https://srv1.iptviliria.com/BBFMusic/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-alb-music-3187.jpg",Akritas TV
 http://akritastv1.flashmediacast.com:1935/akritastv1/livestream/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/O1Zg5iu.png",Arta Tv
-https://abdyli.gjirafa.com/live/r6e3JjXjSjkUCsA7CmdhL8lzM4fGXGz4/yt1q1x.m3u8
+https://naimi.gjirafa.com/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/yt1q1x480/index.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/O1Zg5iu.png",MRT 2 Live
+http://vod-c57.interspace.com/channel_abr/48/receiver/48_p2/chunks.m3u8?nimblesessionid=7906286&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMSA2OjA5OjU0IFBNJmhhc2hfdmFsdWU9VzBWWnM4YVVTZ1hDWW5pNHFlbEZZUT09JnZhbGlkbWludXRlcz0zMCZpZD02MWIzOTdmMjIzMWI3
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/WKKTNYK.png",Tring Kids
 https://srv1.iptviliria.com/TringKids/index.m3u8?token=undefined
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tirana_TV.svg/1200px-Tirana_TV.svg.png",Tirana TV 1
