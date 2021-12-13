@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/1Wo9FQ3.png",Klan HD
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png",Klan HD
 http://185.226.88.3:1036/live/backup/backup/166.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/Klan%20TV%20HD.png",Klan HD
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png",Klan HD
 http://185.226.88.3:1036/live/backup/backup/106.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
 http://185.226.88.3:1036/live/backup/backup/131.m3u8
@@ -55,9 +55,7 @@ https://srv1.iptviliria.com/TVUskana/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TeutaTv_logo_60ea37aaae99c_thumb.jpg",Teuta TV
 http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/6weuwve.png",Tema TV Ferizaj
-https://edge01eu.ekranet.com/tematv/index.m3u8?e=4e6720577a8c60b902c6a5a54f244f80&c=tematv&medium=websocket
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Klan News
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://tvklan.al/repository/klannews-logo.png",Klan News
 http://185.226.88.3:1036/live/backup/backup/167.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Euronews Albania
 http://185.226.88.3:1036/live/backup/backup/164.m3u8
