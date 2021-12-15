@@ -29,6 +29,84 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 http://f4.tvxweb.net:8082/24268/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/film-drame-hd-live.png",Film Drame Hd Live
 http://f4.tvxweb.net:8082/24267/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",AMC Rush
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",An American Christmas Carol
+https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Bumblebee TV PopCornFlix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Charge!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Cine Romantico
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Cinema
+https://sc.id-tv.kz/Cinema.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Cinemax East
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Crackle
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Crackle
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Drama Life
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Dust
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Dust
+https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",DUSTx
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",MovieSphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Multipremier
+http://201.168.205.12:8000/play/a0cp/index.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Mythos
+https://rpn1.bozztv.com/36bay2/gusa-mythos/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",MyTime movie network
+https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",MyTime movie network Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Paramount Movie Channel (684p)  (English)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",SBS World Movies
+https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",The Film Detective
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Thrill
+http://45.126.83.51/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVCine Action
+http://185.236.229.21:9981/play/a04n
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVCine Edition
+http://185.236.229.21:9981/play/a061
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVCine Emotion
+http://185.236.229.21:9981/play/a05z
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVCine Top
+http://185.236.229.21:9981/play/a04w
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVS Drive In Movie
+https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVS Film Noir Network
+https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Victor Valley Movies
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Warner TV
+http://203.154.243.89:11205
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Watch It Scream!
+https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Weyyak Drama (720p)  (Arabic)
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Wild West
+https://localnowwildwest-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60bf9392e4f3185ab165fcc4_localnowwildwest-live/4c446ad0-cba9-41ba-81a7-f127d2ede93a/0.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Xumo Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Xumo Free Westerns (540p)  (English)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/cXMwhPE.png",Top News
 https://srv1.iptviliria.com/TopNews/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/the-vibe-tv-live-hd.png",THEVIBE
