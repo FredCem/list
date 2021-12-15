@@ -69,24 +69,16 @@ http://185.226.88.3:1036/live/backup/backup/167.m3u8
 http://185.226.88.3:1036/live/backup/backup/164.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/AJ472ot.png",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/OhZSE34.png",First Kosovo
-https://srv1.iptviliria.com/FirstTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/ClubTv_logo_6086f14c1c918_thumb.jpg",Club Tv
 http://185.226.88.3:1036/live/backup/backup/92.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.albepg.com/tvlogi/BBF.png",BBF
 https://srv1.iptviliria.com/BBFMusic/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/big-brother-vip-1-live.png",Big Brother Vip 1 Live
 https://sports.cdn-stream.com:30443/live/b1/playlist.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/big-brother-vip-2-live.png",Big Brother Vip 2 Live
-http://164.68.109.23:8000/MetiTV/BB2/index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/rai-3-live-hd.png",Rai 3 Live HD
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-alb-music-3187.jpg",Akritas TV
 http://akritastv1.flashmediacast.com:1935/akritastv1/livestream/playlist.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/O1Zg5iu.png",Arta Tv
-https://abdyli.gjirafa.com/live/6rgklscjRSjkIb3cFcFiyCmOrcQ7AWeB/yt1q1x480/index.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/O1Zg5iu.png",MRT 2 Live
-http://vod-c57.interspace.com/channel_abr/48/receiver/48_p2/chunks.m3u8?nimblesessionid=7906286&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMSA2OjA5OjU0IFBNJmhhc2hfdmFsdWU9VzBWWnM4YVVTZ1hDWW5pNHFlbEZZUT09JnZhbGlkbWludXRlcz0zMCZpZD02MWIzOTdmMjIzMWI3
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/WKKTNYK.png",Tring Kids
 https://srv1.iptviliria.com/TringKids/index.m3u8?token=undefined
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tirana_TV.svg/1200px-Tirana_TV.svg.png",Tirana TV 1
@@ -127,8 +119,6 @@ http://a3.smashmalta.com:82/live/smash/smash/36.ts
 http://a3.smashmalta.com:82/live/smash/smash/26.ts
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/Nk1C4pC.png",Tring Tring HD
 https://srv1.iptviliria.com/TringTring/tracks-v1a1/mono.m3u8?token=undefined
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/Nk1C4pC.png",Tip Tv
-http://us.bestvideostreaming.is/8776/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/lm7Sqmf.png",Junior TV
 https://srv1.iptviliria.com/JuniorTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Sole TV
@@ -168,7 +158,7 @@ https://srv1.iptviliria.com/FilmKomedi/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGci
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/6jsC67V.png",Film Nje
 https://srv1.iptviliria.com/FilmNje/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/6jsC67V.png",Film Gold Live HD
-http://www.shikotv.eu/uploads/tv_image/sm/film-gold-live-hd.jpg
+http://f4.tvxweb.net:8082/24265/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://alpomedia.com/wp-content/uploads/2021/03/alporadio-webplayer-e1616181015870.png",ALPO TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/Apollon%20TV.png",Apollon TV HD
@@ -753,7 +743,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8?p=roku
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/cQZdGc0.png",FilmRise Westerns
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8?p=roku
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wowtv.svg/374px-Wowtv.svg.png",MoviesWOW! TV (720p)
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wowtv.svg/374px-Wowtv.svg.png",WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1  group-title="UK-IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -889,6 +879,8 @@ http://185.226.88.3:1036/live/backup/backup/112.m3u8
 http://185.226.88.3:1036/live/backup/backup/116.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",kohavision
 http://185.226.88.3:1036/live/backup/backup/136.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/AJ472ot.png",Koha TV
+rtmp://live.tvkoha.tv:1935/live/koha/livestream
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",syri tv
 http://185.226.88.3:1036/live/backup/backup/133.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",top news
@@ -911,17 +903,17 @@ http://93.157.62.180/KlanPlus/index.m3u8
 https://tvlive.rtsh.dev/live/adriamed/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.isv.net/logos/arirangtv.png",Arirang (KR) (Opt-1)
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.isv.net/logos/arirangtv.png",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.isv.net/logos/arirangtv.png",Arirang (KR) (Opt-2)
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.isv.net/logos/arirangtv.png",Arirang
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg",BBC World News (GB) (Opt-3)
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg TV Asia (HK)
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg TV Asia
 http://45.126.83.51/uq2663/h/h03/index.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN (CN) (Opt-1)
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN (CN)
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN (CN) (Opt-2)
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -1753,20 +1745,6 @@ http://185.226.88.3:1036/live/backup/backup/55.m3u8
 http://185.226.88.3:1036/live/backup/backup/56.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",shenja tv
 http://185.226.88.3:1036/live/backup/backup/57.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",documentary it
-https://rakuten-documentaries-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",comedy it
-https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",action it
-https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",atv
-https://av.livestreamlive.xyz/hls/atv.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",show
-https://av.livestreamlive.xyz/hls/show.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",star
-https://av.livestreamlive.xyz/hls/star.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",rai 1
-http://e01.plius.tv:64144/l143/video.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Gold TV Italia
