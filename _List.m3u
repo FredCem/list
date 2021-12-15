@@ -245,8 +245,6 @@ http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 http://167.86.125.240:25461/live/kopliku/12/1.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",opoja tv
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",alb music
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",alb uk
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",RTSH 1
@@ -291,8 +289,6 @@ http://185.226.88.3:1036/live/backup/backup/110.m3u8
 https://moviesphereuk-rakuten.amagi.tv/playlist360p.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",K-PLUS
 http://210.210.155.35/uq2663/h/h08/02.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",Happy Kids 1
-https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",JUNIOR TV
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",Klan News Tv
@@ -1937,8 +1933,6 @@ http://212.224.98.196:2200/ALB-EX/Tring_Sport_2_FHD_VIP_AL-alb/index.m3u8?token=
 http://212.224.98.196:2200/ALB-EX/Tring_Sport_3_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport 4
 http://212.224.98.196:2200/ALB-EX/Tring_Sport_4_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",WWE
-http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 1
 http://212.224.98.196:2200/ALB-EX/Super_Sport_1_FHD_VIP_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 2
@@ -1987,12 +1981,6 @@ http://iptv.prosto.tv:7000/ch87/video.m3u8
 https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",My planet
 http://195.26.83.96:7024/play/76
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",My planet
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v2a1/mono.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Pictures hd
-https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",flix hd
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",VIP Comedy
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",VIP Megahit
@@ -2011,193 +1999,11 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",NatGeo_channel
-http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",NatGeo_Wild
-http://87.247.44.26/btv/SWM/NatGeo_Wild/NatGeo_Wild_1080p_5000kbps.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",NatGeo_investigacion
-http://89.17.204.38/ch192/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",AnimalPlanet
-http://87.247.44.26/btv/SWM/Animal_planet/Animal_planet_576p_2000kbps.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Viasat Nature
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Viasat Explore
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png,tvsh",tvsh
-http://us.bestvideostreaming.is/8701/index.m3u8?|User-Agent=stream
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",VizionPlus
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TOP CHANNEL
-http://us.bestvideostreaming.is/8708/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",KLAN
-http://us.bestvideostreaming.is/8704/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",VIZION+
-http://us.bestvideostreaming.is/8703/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",KTV
-http://us.bestvideostreaming.is/8705/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",RTV 21
-http://us.bestvideostreaming.is/8748/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",KLAN KS
-http://us.bestvideostreaming.is/8706/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ALSAT M
-http://us.bestvideostreaming.is/8713/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",RTV21 PLUS
-http://us.bestvideostreaming.is/8750/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",RTV 21MK
-http://us.bestvideostreaming.is/8790/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TV DUKAGJINI
-http://us.bestvideostreaming.is/8788/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRIBUNA CHANNEL
-http://us.bestvideostreaming.is/8791/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ALBTV USA
-http://us.bestvideostreaming.is/8711/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",RROKUM TV
-http://us.bestvideostreaming.is/8849/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",FIRST TV
-http://us.bestvideostreaming.is/8717/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",RTK 3
-http://us.bestvideostreaming.is/8902/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",RTK 4
-http://us.bestvideostreaming.is/8903/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TV TEMA
-http://us.bestvideostreaming.is/8787/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",KELMEN TV
-http://us.bestvideostreaming.is/8794/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ALBANIATV CHICAGO
-http://us.bestvideostreaming.is/8811/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ALB PLUS
-http://us.bestvideostreaming.is/8707/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TOP NEWS
-http://us.bestvideostreaming.is/10025/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ARTA NEWS
-http://us.bestvideostreaming.is/8745/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ABC NEWS
-http://us.bestvideostreaming.is/8709/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",NEWS24
-http://us.bestvideostreaming.is/8715/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",7 NEWS
-http://us.bestvideostreaming.is/8761/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SUPER SPORT NEWS
-http://us.bestvideostreaming.is/10030/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SUPER SPORT 2
-http://us.bestvideostreaming.is/8734/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SUPER SPORT 3
-http://us.bestvideostreaming.is/8741/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SUPER SPORT 4
-http://us.bestvideostreaming.is/8743/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SUPER SPORT KOSOVA
-http://us.bestvideostreaming.is/8783/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SUPER SPORT KOSOVA 2
-http://us.bestvideostreaming.is/8784/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING SPORT NEWS
-http://us.bestvideostreaming.is/8785/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING SPORT 1
-http://us.bestvideostreaming.is/8796/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING SPORT 2
-http://us.bestvideostreaming.is/8797/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING SPORT 3
-http://us.bestvideostreaming.is/8798/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING SPORT 4
-http://us.bestvideostreaming.is/8799/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SPORT PLUS 1
-http://us.bestvideostreaming.is/7001/index.m3u8? |User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SPORT PLUS 2
-http://us.bestvideostreaming.is/7002/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SPORT PLUS 3
-http://us.bestvideostreaming.is/7003/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SPORT PLUS 4
-http://us.bestvideostreaming.is/7004/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING SHQIP
-http://us.bestvideostreaming.is/8762/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",T HD
-http://us.bestvideostreaming.is/8746/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",3 PLUS
-http://us.bestvideostreaming.is/8773/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",STINET
-http://us.bestvideostreaming.is/8751/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",PLUS HD
-http://us.bestvideostreaming.is/8754/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",FILM 1
-http://us.bestvideostreaming.is/8730/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",FILM 2
-http://us.bestvideostreaming.is/8731/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",FILM HITS
-http://us.bestvideostreaming.is/8755/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",FILM AUTOR
-http://us.bestvideostreaming.is/8753/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",FILM AKSION
-http://us.bestvideostreaming.is/8742/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",FILM KOMEDI
-http://us.bestvideostreaming.is/8752/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING COMEDY
-http://us.bestvideostreaming.is/8767/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING ACTION
-http://us.bestvideostreaming.is/8769/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING LIFE
-http://us.bestvideostreaming.is/8768/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING FANTASY
-http://us.bestvideostreaming.is/8766/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING SUPER
-http://us.bestvideostreaming.is/8770/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",JOLLY HD
-http://us.bestvideostreaming.is/8774/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",MUSE
-http://us.bestvideostreaming.is/8778/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRAVEL CHANNEL
-http://us.bestvideostreaming.is/8802/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING LIVING
-http://us.bestvideostreaming.is/8771/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",24KITCHEN
-http://us.bestvideostreaming.is/8803/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Discovery Turbo Xtra
-http://us.bestvideostreaming.is/8740/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING PLANET
-http://us.bestvideostreaming.is/8764/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING WORLD
-http://us.bestvideostreaming.is/8763/index.m3u8? |User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING HISTORI
-http://us.bestvideostreaming.is/8765/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",EXP NATYRA
-http://us.bestvideostreaming.is/8739/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",EXP SHKENCE
-http://us.bestvideostreaming.is/8726/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING SMILE
-http://us.bestvideostreaming.is/8772/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TRING TRING
-http://us.bestvideostreaming.is/8775/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",BANG BANG
-http://us.bestvideostreaming.is/8737/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",BABY TV
-http://us.bestvideostreaming.is/8747/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",CUFO
-http://us.bestvideostreaming.is/8738/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TIP TV
-http://us.bestvideostreaming.is/8776/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",JUNIOR TV
-http://us.bestvideostreaming.is/8744/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SOFIA
-http://us.bestvideostreaming.is/8777/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",TV CEGRANI BERLIN
-http://us.bestvideostreaming.is/8850/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",DASMA TV
-http://us.bestvideostreaming.is/8793/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",RTV21 POPULLORE
-http://us.bestvideostreaming.is/8749/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",DIGI FOLKLORIT
-http://us.bestvideostreaming.is/8735/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",STV FOLK
-http://us.bestvideostreaming.is/8760/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",BBF
-http://us.bestvideostreaming.is/8795/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",FOLK+
-http://us.bestvideostreaming.is/8759/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",CLICK TV
-http://us.bestvideostreaming.is/8779/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",PEACE TV
-http://us.bestvideostreaming.is/8792/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",RTV ISLAM
-http://us.bestvideostreaming.is/8714/index.m3u8?|User-Agent=stream
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",STAR TV HD
-http://us.bestvideostreaming.is/8781/index.m3u8?|User-Agent=stream
