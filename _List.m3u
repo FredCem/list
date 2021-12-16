@@ -45,8 +45,6 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Cinema
 https://sc.id-tv.kz/Cinema.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Cinemax East
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Crackle
@@ -63,34 +61,18 @@ https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Multipremier
-http://201.168.205.12:8000/play/a0cp/index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Mythos
 https://rpn1.bozztv.com/36bay2/gusa-mythos/playlist.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",MyTime movie network
-https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",MyTime movie network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Paramount Movie Channel (684p)  (English)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",SBS World Movies
-https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",The Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",Thrill
 http://45.126.83.51/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVCine Action
-http://185.236.229.21:9981/play/a04n
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVCine Edition
-http://185.236.229.21:9981/play/a061
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVCine Emotion
-http://185.236.229.21:9981/play/a05z
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVCine Top
-http://185.236.229.21:9981/play/a04w
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVS Drive In Movie
 https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="N/A",TVS Film Noir Network
@@ -154,7 +136,7 @@ http://185.226.88.3:1036/live/backup/backup/92.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.albepg.com/tvlogi/BBF.png",BBF
 https://srv1.iptviliria.com/BBFMusic/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/big-brother-vip-1-live.png",Big Brother Vip 1 Live
-https://video-weaver.lhr04.hls.ttvnw.net/v1/playlist/CvMEYC1mA64ABQbYeln-dPVjGQCYo5Hfi-L6Mn8K2RTaAc8x5rwyi_lNOvK32ezzD2czccEzOx4gQk5V6t_vCoDUWUH9cwrQQglo8CGqimvmbCLVAXt_HuqyTrdtRMRsuZ1jyiy_Yh0LxpAaiKVEfPIYkCMq2_6GWEJF1WZkYDHfpBPyj2e2OXqi8mR7eDvT4EjY4czwRmTn_V8VlRbKiXXRuYVRNQNQ7A6II-7MVnWrdOVgPbL5WwsuOBulekqTDcpBWawrVOXNYv5KgLX-dVkiJi4n7845Rz8xX-_3JcqVMGiFIi35sejIyA7V3-XbqFm12kJZRAc2EIxKauKmK7dcCDtU8WOibjY1hbtWttoDfSfud_oODARqTPEvwMqhE2X_voyZfBtTWclOUCY1_EChnIXcj2Urt9ELf_quqX-tAm7UiYqaveJPq5hsD3bsbjCjgPJELi0EOi35eOsBnsTQKAGe5Xs0ZVw2o_3GXgID0fizpPwGMzQcIozrQsyOqvQPbimug2HJiyg60--IPSxtIS8pu0MBbKiLaQJ9dj-XUYLMqawqqu2h8GQngaOh9zKzuMWYawC5jpQqKitmHqJuSMTLR4McuktugV67nZBPgYrKV48x70HEypM_haJKm9xCPv2J8X1TtZlf7XjBkcHpsNqz6ZjlZQrds9GhSnECqBOEI-t2gYblXkoDOXnPt8SZVLXctana4fq2ANi_JzZnYw6Eh8u_1tFwmPzpjOh_e_hH-5PN4jcbqlOolFLkkRzDFUQYiui9bs-GOdJfTxV1p2RMnC7pC2ZzfNCLKmwWA4fqzLUwHQLP2P04Qm5AUncbweEPGgwgCgDnEq5ihm0ODPQgASoJZXUtd2VzdC0yMMUC.m3u8
+https://knaqu.tv/live/bb1.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/big-brother-vip-1-live.png",Big Brother Vip 2 Live
 https://video-weaver.lhr04.hls.ttvnw.net/v1/playlist/CpIFjyUlMG0ZVHGSAVE-wDfYs2_UNJeU6htuDrcrLj6X21C1ojMlsa090Yw3v__FuJ2ddbPKDZXBsGM-CGRahEwckYXITibIVnrlLeNJHshLdtAEMuM0ipRNDCog67azBOauBD_8jkgLd0K0dFW6jVkg0DeyB6CLmSLxlLyEQjPJS8uIYdGiI7tlnyyYHuqZ6NvQektB2jZsaeEBoieBpHdwVm7P04KheBJ9vL-KWOV82RTNJabhnO8QerG7RIXi7bnSndNw_jiyNDog_ULHGKcE8VQ3zbmuMO1NOSLyPDYUi-5FpM9bMRPrtiUF-5Do6MkKEAe1i-nHTzbnrP_0DHNAwRZe3pscDO5oQ6kor6pl3FhiqJgCxsxjnBANltXiLEfqmFJTFFx4L3wZ11Au8esFbTnjEqUzTAY1t7IDniIp3EBZCJ9w2jgwV_YiwGbpDsm94c4D4Woe9KN39Xf3zvKkBKk8Y8IVpTogm8qlJ1JHPU7RTKIq6s1cwbOdpA5DNlt0teDsXRrk_q8-DtzOwYfx3_Avl7nRNJor6_x3PvakQQA2YgRP28HAm9GmWX_WIm7N1yghUUWbfmjR8LDf4dDkdK07EmJ77D3aJm5rkqdPYjzliLN7I2ANFsxz8g-FQ8fYPmh0-M0YIY_DI0IlUbTE3uihqHM_98D1_61RnE40R8rhW5zBJfTNxYUYpVy0kFbaz-g3F8aCxUzgqg_HFxVUnUsZNn787-muhjivz5MM-XJRXWdAKRSjGcSVtY9oDK5Ftgs9jt2B_NCmcWbDyGp5lk4nDnh0jI46q9XKwzYXsQKqXXFx2JQicpKlBBBKCFUKPDHlJsU62jFw0FEBoNqd5vOh8nDsFbqczpXTmWSQu9JLOxoMw0lh4OGzrNwotvFkIAEqCXVzLWVhc3QtMjDDAg.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/rai-3-live-hd.png",Rai 3 Live HD
@@ -243,18 +225,10 @@ http://f4.tvxweb.net:8082/24265/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/Apollon%20TV.png",Apollon TV HD
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/G7fl4KA.png",Alsat M Live
-http://us.bestvideostreaming.is/8713/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/gl3R7Ra.png",Elrodi Tv
 http://79.137.66.111/elroditv_240p/index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.albepg.com/tvlogi/ERA%20TV.png",ERA TV
 https://srv1.iptviliria.com/EraTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/niBskNo.png",Klan Kosova
-http://us.bestvideostreaming.is/8706/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/YZE1K9S.png",Klan MACEDONIA
-http://us.bestvideostreaming.is/8789/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/niBskNo.png",Klan Plus
-http://us.bestvideostreaming.is/8720/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png",Islam Channel UK
 https://live.islamchannel.tv/islamtv_english/1/prog_index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://xpressriyadh.com/wp-content/uploads/2019/11/makkah-riyadh-xpress.jpg",MAKKAH LIVE
@@ -405,8 +379,6 @@ http://ott.iptvshqipott.com:8080/live/rtv/arberia/222.m3u8
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/chunklist_w1719840339.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/aLEWaoS.png",TV Sharri
 https://srv1.iptviliria.com/TVSharri/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TurboChannel_logo_6085163c837cf_thumb.jpg",Turbo Channel Tv
-http://us.bestvideostreaming.is/8839/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TurboChannel_logo_6085163c837cf_thumb.jpg",TopEstrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TVDielli_logo_5a03b5bb7cd4c_thumb.jpg",TV Dielli
@@ -423,8 +395,6 @@ https://nesertv.live/rtvislam988/tracks-v1a1/mono.m3u8
 https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://cdn.teleon.tv/logo/insight-tv-transparent.png",Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/w5x1j4H.png",Iliria Music HD
-https://srv1.iptviliria.com/IliriaMusic/index.m3u8?token=undefined
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/r8nIDbo.png",Iliria Film
 https://srv1.iptviliria.com/IliriaFilm/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://139.59.147.58/storage/uploads/images/channel_logos/FrameTv_logo_6061ce6c50fb9_thumb.jpg",Frame TV
@@ -499,8 +469,6 @@ http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8?e=cd446cdb2a06ace0dfc08ed5798
 https://srv1.iptviliria.com/RTSHPlus/index.m3u8?token=undefined
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/0af306f1b54a4aa487b27b9d5019699c_202010050916.svg",RTSH Shkollë HD
 https://srv1.iptviliria.com/RTSHShkole/index.m3u8?token=undefined
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_(2020_logo).svg/1920px-RTSH_Sport_(2020_logo).svg.png",RTSH Sport HD
-https://srv1.iptviliria.com/RTSHSport/index.m3u8?token=undefined
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/ac/1588812677695.png/revision/latest/scale-to-width-down/340?cb=20200507134908",RTV 1 HD
 https://video.radio1.al/hls/rtvnje/index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/h9nYbeg.png",RTV 21 JUNIOR
@@ -645,8 +613,6 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://13movies.files.wordpress.com/2013/02/redbox-box.jpg",Redbox 3: Rush
 https://rush-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://www.getmemedia.com/public/ideas/Opp/14869/trutv.jpg",TRULY 1
-https://barcroft-truly-1.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://tv.sarcheshmeh.us/thumb.php?w=900&h=506&src=http://tv.sarcheshmeh.us/index_files/channels/portalfoxmix.png",portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://cdn.teleon.tv/logo/popcorn-flix-action-us.png",Popcorn Flix Action
@@ -655,8 +621,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/
 https://broadcast.mytvtogo.net/SciFiTV4u/SciFiTV4u/chunklist_w1630474549.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://vignette4.wikia.nocookie.net/mst3k/images/d/d1/Scifi.jpg/revision/latest?cb=20070220061423",SI-FI MOVIE
 https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1920px-STAR_Movies_logo.svg.png",STAR MOVIEMI HD
-https://sonar.sinclair.wurl.com/manifest/512.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41819x7lL4L.jpg",The First
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://totv.org/img/filmbox.png",DocumentaryLa
@@ -759,8 +723,6 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature TV
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",MBC Action
-https://2202lw.janjua.pw:8088/adfree/mbccactionnnn_111111/playlist.m3u8?vidictid=189213089054&id=105487&pk=44960f5b94f41489c7e9a748865b323766fe193e79f75aa7bf9abb365cf1c5ff
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/eKBXOKd.png",MBC 1 HD
 https://2202lw.janjua.pw:8088/adfree/mbcccnc_1111111/playlist.m3u8?id=106085&pk=2ceca60b659795b7d3c211ad5ddc2869718ad38f40b387461f8e957796456b57
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://mixawy.online:2020/wp-content/uploads/2019/01/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%89-%D8%B3%D9%89-2-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-2-MBC-2.webp",MBC 2
@@ -873,10 +835,6 @@ https://srv1.iptviliria.com/KSport2/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJ
 https://srv1.iptviliria.com/KSport3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  group-title="MIX SPORT" tvg-logo="https://i.imgur.com/vOrhIma.png",K Sport 4
 https://srv1.iptviliria.com/KSport4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  group-title="MIX SPORT" tvg-logo="https://i.imgur.com/HArDg2x.png",Art Sport 1
-https://srv1.iptviliria.com/ArtSport1HD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  group-title="MIX SPORT" tvg-logo="https://i.imgur.com/XYkx5CM.png",Art Sport 2
-https://srv1.iptviliria.com/ArtSport2/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  group-title="MIX SPORT" tvg-logo="https://i.imgur.com/hcmcPhC.png",Art Sport 3
 https://srv1.iptviliria.com/ArtSport3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  group-title="MIX SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ad_sports_new_logo.jpg",SportAbu Dhabi Sports 1 (1080p)
@@ -1767,138 +1725,12 @@ http://185.226.88.3:1036/live/backup/backup/56.m3u8
 http://185.226.88.3:1036/live/backup/backup/57.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Gold TV Italia
-http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",IT: Rete 4
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",IT: Canale 5
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",IT: Italia 1
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Top crim
-https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",RTV Ora
-http://flu.hdtv112.com:8080/Rtv_Ora/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Top Channel
-http://flu.hdtv112.com:8080/Top_Channel/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Klan TV
-http://flu.hdtv112.com:8080/Klan_HD/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Vizion Plus
-http://flu.hdtv112.com:8080/Vision_Plus_HD/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",RTV 21
-http://flu.hdtv112.com:8080/RTV_21_HD/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Alsat M
-http://flu.hdtv112.com:8080/Alsat_M_HD/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Kohavision
-http://flu.hdtv112.com:8080/KTV_HD/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Klan Kosova
-http://flu.hdtv112.com:8080/Klan_Kosova_HD/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Klan Plus
-http://flu.hdtv112.com:8080/Klan_Plus_SD/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ATV
-http://flu.hdtv112.com:8080/ATV_SD/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",T7
-http://flu.hdtv112.com:8080/T7_SD/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Dukagjini TV
-http://flu.hdtv112.com:8080/Dukagjini_TV/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Kanal 10
-http://flu.hdtv112.com:8080/Kanal_10/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Syri TV
-http://flu.hdtv112.com:8080/Syri_TV/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Euronews Albania
-http://flu.hdtv112.com:8080/EuroNews_ALBANIA/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH
-http://flu.hdtv112.com:8080/RTSH/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Top News
-http://flu.hdtv112.com:8080/Top_News/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",News 24
-http://flu.hdtv112.com:8080/News_24/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Report TV
-http://flu.hdtv112.com:8080/Report_TV/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Ora News
-http://flu.hdtv112.com:8080/Ora_News/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Kanali 7
-http://flu.hdtv112.com:8080/Kanal_7/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ABC News
-http://flu.hdtv112.com:8080/Abc_News/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Arta TV
-http://flu.hdtv112.com:8080/Arta_TV/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Jolly HD
-http://flu.hdtv112.com:8080/Jolly_HD/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Living HD
-http://flu.hdtv112.com:8080/Living_HD/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",KanalD Drama
-http://flu.hdtv112.com:8080/Kanal_Drama/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",3 Plus
-http://flu.hdtv112.com:8080/3_Plus/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Smile
-http://flu.hdtv112.com:8080/Tring_Smile/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Shqip
-http://flu.hdtv112.com:8080/Tring_Shqip/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Super
-http://flu.hdtv112.com:8080/Tring_Super/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Summertime
-http://flu.hdtv112.com:8080/Tring_Comedy/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring World
-http://flu.hdtv112.com:8080/Tring_World/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tip TV
-http://flu.hdtv112.com:8080/_Tip_TV_sd/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Tring
-http://flu.hdtv112.com:8080/_Tring_Tring/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Fax News
-http://flu.hdtv112.com:8080/FAX_NEWS/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Supersport 1
-http://flu.hdtv112.com:8080/SPORT:_Super_sport_1/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Supersport 2
-http://flu.hdtv112.com:8080/SPORT:_Super_sport_2/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Supersport 3
-http://flu.hdtv112.com:8080/SPORT:_Super_sport_3/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Supersport 4
-http://flu.hdtv112.com:8080/SPORT:_Super_sport_4/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport News
-http://flu.hdtv112.com:8080/SPORT:_Tring_sport_News/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport 1
-http://flu.hdtv112.com:8080/SPORT:_Tring_sport_1/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport 2
-http://flu.hdtv112.com:8080/SPORT:_Tring_sport_2/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport 3
-http://flu.hdtv112.com:8080/SPORT:_Tring_sport_3/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Elrodi TV
-http://flu.hdtv112.com:8080/Elrodi/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Folk Plus
-http://flu.hdtv112.com:8080/Folk+/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",BBF
-http://flu.hdtv112.com:8080/BBF_Music/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",al sat
-http://212.102.60.40:2200/ALB-EX/Alsat_M_HD_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",klan tv
-http://212.102.60.40:2200/ALB-EX/Klan_HD_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Sole tv
 http://109.69.2.120:8337/tvsole/Stream1_720p/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Arberia muzik
-http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Arbëria 2
-http://rtvarberia1.flashmediacast.com:1935/RtvArberia1/livestream/playlist.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Drita tv
-https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Premium channel
-http://premium-channel.tv:88/live/kali.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Johaniter tv
-https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",start tv
-http://qyshdush.dyndns.info:5500/live/atv1/8888/472.ts
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",GREC MUZIK
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",balkanika tv
-http://46.10.218.219:8000/play/a05h
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Planeta TV
-http://46.10.218.219:8000/play/a03t
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",FEN TV
-http://46.10.218.219:8000/play/a05f
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Frame TV
 http://195.154.252.221:8000/play/a002/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Neser TV
-http://195.154.252.221:8000/play/eeeeeeeeeeeee/index.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",kopliku tv
@@ -1937,54 +1769,6 @@ http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 http://edge01eu.ekranet.com/scantv/index.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",FAX NEWS
 http://edge01eu.ekranet.com/faxnews/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 1
-http://212.224.98.196:2200/ALB-EX/Super_Sport_1_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 2
-http://212.224.98.196:2200/ALB-EX/Super_Sport_2_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 3
-http://212.224.98.196:2200/ALB-EX/Super_Sport_3_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 4
-http://212.224.98.196:2200/ALB-EX/Super_Sport_4_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 5
-http://212.224.98.196:2200/ALB-EX/Super_Sport_5_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 6
-http://212.224.98.196:2200/ALB-EX/Super_Sport_6_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport 1
-http://212.224.98.196:2200/ALB-EX/Tring_Sport_1_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport 2
-http://212.224.98.196:2200/ALB-EX/Tring_Sport_2_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport 3
-http://212.224.98.196:2200/ALB-EX/Tring_Sport_3_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport 4
-http://212.224.98.196:2200/ALB-EX/Tring_Sport_4_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 1
-http://212.224.98.196:2200/ALB-EX/Super_Sport_1_FHD_VIP_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 2
-http://212.224.98.196:2200/ALB-EX/Super_Sport_2_FHD_VIP_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 3
-http://212.224.98.196:2200/ALB-EX/Super_Sport_3_FHD_VIP_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 4
-http://212.224.98.196:2200/ALB-EX/Super_Sport_4_FHD_VIP_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 5
-http://212.224.98.196:2200/ALB-EX/Super_Sport_5_FHD_VIP_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",SuperSport 6
-http://212.224.98.196:2200/ALB-EX/Super_Sport_6_FHD_VIP_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport 1
-http://212.224.98.196:2200/ALB-EX/Tring_Sport_1_FHD_VIP_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport 2
-http://212.224.98.196:2200/ALB-EX/Tring_Sport_2_FHD_VIP_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport 3
-http://212.224.98.196:2200/ALB-EX/Tring_Sport_3_FHD_VIP_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Sport 4
-http://212.224.98.196:2200/ALB-EX/Tring_Sport_4_FHD_VIP_AL-alb/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ss1
-http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ss2
-http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ss3
-http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ss4
-http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ss5
 http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",world planet
