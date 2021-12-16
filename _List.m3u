@@ -504,7 +504,7 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",MBC Action HD
 http://multies.club:8888/live/lIvEmultiESmyhD0621/IekbG5Lllr/78.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/X6EliFm.png",MBC Max (1080p)
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+http://multies.club:8888/live/lIvEmultiESmyhD0621/IekbG5Lllr/79.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://1.bp.blogspot.com/-rjF2k4RAIMY/YL-o154pJJI/AAAAAAAAG6g/UPPRufqeC0MpCRvcW_9l4Heswr4L17IEgCLcBGAsYHQ/s1600-rw/MIX-HOLLYWOOD.png",MIX M
 http://89.179.247.144/mixm.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/daf8b0159ff1ebe628ae.png",MIX Hollywood
