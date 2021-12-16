@@ -1637,52 +1637,6 @@ https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/chunklist_w655046217_b944100
 https://live1.presstv.ir/live/ifilmen_360p/index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/My_Movie_Channel_logo.jpg",Gravitas-Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/aqxCgyG.jpg",ABC 10 Sacramento CA (KXTV) (1080p)
-https://hls.ustream.to/TNT-USA.m3u8?token=a6d-0e0-4ab-aa3-6a5-c52-298-c39-9a4-ec6-bfe-e22-5a9-536-429-e94-231-3eb-4cc-fa6-ada-4-a5d-d1c-e8t-f6c
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/eapvJpP.jpg",ABC 13 Grand Rapids MI (WZZM) (1080p)
-https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/QbkW7zY.png",ABC 13 Las Vegas NV (KTNV) (720p)
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/P5PtUcR.jpg",ABC 13 Norfolk VA (WVEC) (1080p)
-https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png",ABC 15 Phoenix AZ (KNXV-TV) (720p)
-https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/1s3Euh5.jpg",ABC 16 Wilkes Barre PA (WNEP) (1080p)
-https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/HkY10xX.jpg",ABC 2 Atlanta GA (WSB-TV) (720p)
-https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png",ABC 2 Baton Rouge LA (WBRZ) (720p)
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/nLBEhIx.jpg",ABC 24 Austin TX (KVUE) (1080p)
-https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/ukf1WZ0.jpg",ABC 24 Memphis TN (WATN-TV) (1080p)
-https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/svfSv3O.jpg",ABC 3 Corpus Christi TX (KIII) (1080p)
-https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/8vXRrRe.jpg",ABC 4 Seattle WA (KOMO-TV) (720p)
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV) (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV) (1080p)
-https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/1jA3nKg.jpg",ABC 5 Des Moines IA (WOI) (1080p)
-https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/JExsI09.png",ABC 7 Denver CO (KMGH) (720p)
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/8sQ5mfL.png",ABC 7 Detroit MI (WXYZ-TV) (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/raycom/HJ3SAXRMNFAHXOFIRVYCQBIOGM.jpg",ABC 7 Sarasota FL (WWSB) (720p)
-https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/LttuGfq.png",ABC 7 Washington DC (WJLA) (720p)
-https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/0a0FVSv.jpg",ABC 8 Dallas TX (WFAA) (1080p)
-https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/CZZBTGv.jpg",ABC 8 Davenport IA (WQAD) (1080p)
-https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/6oNx5F0.png",ABC 9 Manchester NH (WMUR-TV) (720p)
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg",ABC 9 Orlando FL (WFTV) (540p)
-https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg",Newsmax (1080p)
@@ -1723,6 +1677,8 @@ https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/1MGJg18.jpg",Pinkfong Baby Shark (1080p)
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",topchannal
 http://185.226.88.3:1036/live/backup/backup/131.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",klan tv
