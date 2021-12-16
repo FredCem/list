@@ -135,10 +135,6 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 http://185.226.88.3:1036/live/backup/backup/92.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.albepg.com/tvlogi/BBF.png",BBF
 https://srv1.iptviliria.com/BBFMusic/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/big-brother-vip-1-live.png",Big Brother Vip 1 Live
-https://knaqu.tv/live/bb1.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/big-brother-vip-1-live.png",Big Brother Vip 2 Live
-https://video-weaver.lhr04.hls.ttvnw.net/v1/playlist/CpIFjyUlMG0ZVHGSAVE-wDfYs2_UNJeU6htuDrcrLj6X21C1ojMlsa090Yw3v__FuJ2ddbPKDZXBsGM-CGRahEwckYXITibIVnrlLeNJHshLdtAEMuM0ipRNDCog67azBOauBD_8jkgLd0K0dFW6jVkg0DeyB6CLmSLxlLyEQjPJS8uIYdGiI7tlnyyYHuqZ6NvQektB2jZsaeEBoieBpHdwVm7P04KheBJ9vL-KWOV82RTNJabhnO8QerG7RIXi7bnSndNw_jiyNDog_ULHGKcE8VQ3zbmuMO1NOSLyPDYUi-5FpM9bMRPrtiUF-5Do6MkKEAe1i-nHTzbnrP_0DHNAwRZe3pscDO5oQ6kor6pl3FhiqJgCxsxjnBANltXiLEfqmFJTFFx4L3wZ11Au8esFbTnjEqUzTAY1t7IDniIp3EBZCJ9w2jgwV_YiwGbpDsm94c4D4Woe9KN39Xf3zvKkBKk8Y8IVpTogm8qlJ1JHPU7RTKIq6s1cwbOdpA5DNlt0teDsXRrk_q8-DtzOwYfx3_Avl7nRNJor6_x3PvakQQA2YgRP28HAm9GmWX_WIm7N1yghUUWbfmjR8LDf4dDkdK07EmJ77D3aJm5rkqdPYjzliLN7I2ANFsxz8g-FQ8fYPmh0-M0YIY_DI0IlUbTE3uihqHM_98D1_61RnE40R8rhW5zBJfTNxYUYpVy0kFbaz-g3F8aCxUzgqg_HFxVUnUsZNn787-muhjivz5MM-XJRXWdAKRSjGcSVtY9oDK5Ftgs9jt2B_NCmcWbDyGp5lk4nDnh0jI46q9XKwzYXsQKqXXFx2JQicpKlBBBKCFUKPDHlJsU62jFw0FEBoNqd5vOh8nDsFbqczpXTmWSQu9JLOxoMw0lh4OGzrNwotvFkIAEqCXVzLWVhc3QtMjDDAg.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/rai-3-live-hd.png",Rai 3 Live HD
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-alb-music-3187.jpg",Akritas TV
@@ -506,7 +502,7 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://netmaxtv.com/wp-content/uploads/2020/07/forweb.png",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",MBC Action HD
-https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index.m3u8
+http://multies.club:8888/live/lIvEmultiESmyhD0621/IekbG5Lllr/78.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://i.imgur.com/X6EliFm.png",MBC Max (1080p)
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://1.bp.blogspot.com/-rjF2k4RAIMY/YL-o154pJJI/AAAAAAAAG6g/UPPRufqeC0MpCRvcW_9l4Heswr4L17IEgCLcBGAsYHQ/s1600-rw/MIX-HOLLYWOOD.png",MIX M
