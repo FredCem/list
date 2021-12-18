@@ -101,8 +101,31 @@ http://46.99.146.236/0.m3u8
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://en.wikipedia.org/wiki/TgCom24#/media/File:Mediaset_TGCOM_24_logo.png",TGCOM24
 http://185.226.88.3:1036/live/backup/backup/146.m3u8
-#EXTINF:-1  group-title="Shqipëria" tvg-logo="data:image/png;base64,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",Rai News 24
+#EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rai_News_24.svg/512px-Rai_News_24.svg.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1639409273~exp=1639409423~acl=/*~hmac=00d387b4dfa3b16a0b5876dc3f31b0666ba6cd97f36b4258a2a6288d17f7f38f
+
+#EXTINF:-1  tvg-id="xpremium 11" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",xpremium 11
+http://f4.tvxweb.net:8082/24273/playlist.m3u8
+#EXTINF:-1  tvg-id="xpremium 10" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",xpremium 10
+http://f4.tvxweb.net:8082/24272/playlist.m3u8
+#EXTINF:-1  tvg-id="xpremium 9" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",xpremium 9
+http://f4.tvxweb.net:8082/24271/playlist.m3u8
+#EXTINF:-1  tvg-id="xpremium 8" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",xpremium 8
+http://f4.tvxweb.net:8082/24270/playlist.m3u8
+#EXTINF:-1  tvg-id="xpremium 7" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",xpremium 7
+http://f4.tvxweb.net:8082/24269/playlist.m3u8
+#EXTINF:-1  tvg-id="xpremium 6" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",xpremium 6
+http://f4.tvxweb.net:8082/24268/playlist.m3u8
+#EXTINF:-1  tvg-id="xpremium 5" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",xpremium 5
+http://f4.tvxweb.net:8082/24267/playlist.m3u8
+#EXTINF:-1  tvg-id="xpremium 4" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",xpremium 4
+http://f4.tvxweb.net:8082/24266/playlist.m3u8
+#EXTINF:-1  tvg-id="xpremium 3" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",xpremium 3
+http://f4.tvxweb.net:8082/24265/playlist.m3u8
+#EXTINF:-1  tvg-id="xpremium 2" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",xpremium 2
+http://f4.tvxweb.net:8082/24264/playlist.m3u8
+#EXTINF:-1  tvg-id="xpremium 1" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",xpremium 1
+http://f4.tvxweb.net:8082/24263/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/La7-770x533.jpg/revision/latest/scale-to-width-down/770?cb=20130105121644",La 7
 http://185.226.88.3:1036/live/backup/backup/147.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png",Cartoon Netw
@@ -414,7 +437,7 @@ https://srv1.iptviliria.com/MTVKosova/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciO
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://albkanale.com/images/appicon.png",ALBKANALE Live
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="http://vipotv.com/wp-content/uploads/2019/05/alb-music.png",ALB MUSIC
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/chunklist_w780733665.m3u8
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://th.bing.com/th/id/OIP.TGE0bL2z-hvEnDx-HaZQnQHaH4?w=155&h=180&c=7&o=5&pid=1.7",Zeri TV
 https://abdyli.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/ytkt1k360/index.m3u8
 #EXTINF:-1  group-title="Shqipëria" tvg-logo="https://zjarr.tv/wp-content/uploads/2021/09/zjarrtvlogo-300x169.png",Zjarr TV
@@ -1721,20 +1744,12 @@ http://185.226.88.3:1036/live/backup/backup/56.m3u8
 http://185.226.88.3:1036/live/backup/backup/57.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Sole tv
-http://109.69.2.120:8337/tvsole/Stream1_720p/index.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",GREC MUZIK
-http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",Frame TV
 http://195.154.252.221:8000/play/a002/index.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",kopliku tv
-http://167.86.125.240:25461/live/kopliku/12/1.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",opoja tv
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",alb music
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",alb uk
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1  group-title="ALBANIA TV TEST" tvg-logo="N/A",ARI TV - Zvicer
