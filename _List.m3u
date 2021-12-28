@@ -4,7 +4,7 @@ http://185.226.88.3:1036/live/backup/backup/166.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png",Klan HD
 http://185.226.88.3:1036/live/backup/backup/106.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
-http://link.iptvlogin.com/live/LfPdKKYE9k/yqCMLZS6h5/203669.m3u8
+https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAyMSA2OjEzOjQyIFBNJmhhc2hfdmFsdWU9VGUwQzI5ei9UUVhQZjk0V20zdFVLUT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
 http://185.226.88.3:1036/live/backup/backup/131.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://www.vizionplus.tv/wp-content/uploads/2020/04/og.png",Vizion+ HD
@@ -33,8 +33,8 @@ http://f4.tvxweb.net:8082/24267/playlist.m3u8
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="N/A",AMC Rush
 https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="N/A",An American Christmas Carol
-https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://www.starplus-tv.com/wp-content/uploads/2021/12/logo272.png",STAR-PLUS-SHKODER
+http://32.shqiptv.org/STAR-PLUS-SHKODER/tracks-v1a1/mono.m3u8?token=b74ca517028d8601463ecedba1960949e7d46ae1-36c9e89704b759a5ef04f210dd6a48a0-1640718514-1640711314
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="N/A",Bumblebee TV PopCornFlix Action
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="N/A",Celestial Movies
