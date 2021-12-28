@@ -334,7 +334,7 @@ http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",RTSH Shqip
 http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",RTSH Muzike
-http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
+https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",RTSH FILM
 http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",SCAN 24
@@ -1768,7 +1768,7 @@ http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH Shqip
 http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH Muzike
-http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
+https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH FILM
 http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALBANIA TV TEST" tvg-logo="N/A",Zjarr
