@@ -815,9 +815,9 @@ https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://outsidetv-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://variety.com/wp-content/uploads/2015/03/redbox-logo.jpg",REDBOX
 https://comedy-redbox.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Telemax-Logo-1-7080.jpg",Telemax (720p)
+#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Telemax-Logo-1-7080.jpg",Telemax
 https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="http://telpinteve.com.ar:9090/imagenes/Canal2Logos-06.png",Telpin TV Canal 2 HD (720p)
+#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="http://telpinteve.com.ar:9090/imagenes/Canal2Logos-06.png",Telpin TV Canal 2 HD
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://cdn.teleon.tv/logo/xplore-us.png",Xplore
 https://xplore-plex.amagi.tv/playlist.m3u8
