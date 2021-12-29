@@ -1225,26 +1225,6 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="ARI TV - Zvicer" group-title="ALBANIA TV TEST" tvg-logo="N/A",ARI TV - Zvicer
 http://stream.logic-ks.net:6969/live/ari/tv/1.ts
-#EXTINF:-1  tvg-id="RTSH 1" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH 1
-http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
-#EXTINF:-1  tvg-id="RTSH 2" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH 2
-http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
-#EXTINF:-1  tvg-id="RTSH 3" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH 3
-http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8
-#EXTINF:-1  tvg-id="RTSH 24" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH 24
-http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
-#EXTINF:-1  tvg-id="RTSH Sport" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH Sport
-http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
-#EXTINF:-1  tvg-id="RTSH Kids" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH Kids
-http://edge01eu.ekranet.com:80/rtshfemije_240p/index.m3u8
-#EXTINF:-1  tvg-id="RTSH Film" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH Film
-http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
-#EXTINF:-1  tvg-id="RTSH Shqip" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH Shqip
-http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
-#EXTINF:-1  tvg-id="RTSH Muzike" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH Muzike
-https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
-#EXTINF:-1  tvg-id="RTSH FILM" group-title="ALBANIA TV TEST" tvg-logo="N/A",RTSH FILM
-http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
 #EXTINF:-1  tvg-id="Zjarr" group-title="ALBANIA TV TEST" tvg-logo="N/A",Zjarr
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 #EXTINF:-1  tvg-id="SCAN 24" group-title="ALBANIA TV TEST" tvg-logo="N/A",SCAN 24
