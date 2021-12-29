@@ -1189,14 +1189,8 @@ http://185.226.88.3:1036/live/backup/backup/110.m3u8
 http://185.226.88.3:1036/live/backup/backup/106.m3u8
 #EXTINF:-1  tvg-id="BBF" group-title="ALBANIA TV TEST" tvg-logo="N/A",BBF
 http://185.226.88.3:1036/live/backup/backup/112.m3u8
-#EXTINF:-1  tvg-id="Zjarr TV" group-title="ALBANIA TV TEST" tvg-logo="N/A",Zjarr TV
-http://185.226.88.3:1036/live/backup/backup/83.m3u8
-#EXTINF:-1  tvg-id="ZDF" group-title="ALBANIA TV TEST" tvg-logo="N/A",ZDF
-http://185.226.88.3:1036/live/backup/backup/38.m3u8
 #EXTINF:-1  tvg-id="Tema TV" group-title="ALBANIA TV TEST" tvg-logo="N/A",Tema TV
 http://185.226.88.3:1036/live/backup/backup/93.m3u8
-#EXTINF:-1  tvg-id="TRT World" group-title="ALBANIA TV TEST" tvg-logo="N/A",TRT World
-http://185.226.88.3:1036/live/backup/backup/25.m3u8
 #EXTINF:-1  tvg-id="Tring World" group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring World
 http://185.226.88.3:1036/live/backup/backup/66.m3u8
 #EXTINF:-1  tvg-id="Tring Tring" group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Tring
@@ -1231,12 +1225,6 @@ http://185.226.88.3:1036/live/backup/backup/72.m3u8
 http://185.226.88.3:1036/live/backup/backup/70.m3u8
 #EXTINF:-1  tvg-id="Tring Action" group-title="ALBANIA TV TEST" tvg-logo="N/A",Tring Action
 http://185.226.88.3:1036/live/backup/backup/69.m3u8
-#EXTINF:-1  tvg-id="zdf" group-title="ALBANIA TV TEST" tvg-logo="N/A",zdf
-http://185.226.88.3:1036/live/backup/backup/38.m3u8
-#EXTINF:-1  tvg-id="rtl 2" group-title="ALBANIA TV TEST" tvg-logo="N/A",rtl 2
-http://185.226.88.3:1036/live/backup/backup/41.m3u8
-#EXTINF:-1  tvg-id="rtl" group-title="ALBANIA TV TEST" tvg-logo="N/A",rtl
-http://185.226.88.3:1036/live/backup/backup/42.m3u8
 #EXTINF:-1  tvg-id="report tv" group-title="ALBANIA TV TEST" tvg-logo="N/A",report tv
 http://185.226.88.3:1036/live/backup/backup/52.m3u8
 #EXTINF:-1  tvg-id="21 junior" group-title="ALBANIA TV TEST" tvg-logo="N/A",21 junior
