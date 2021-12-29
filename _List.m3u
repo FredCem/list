@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png",Klan HD
-http://185.226.88.3:1036/live/backup/backup/166.m3u8
+https://kanale.cdn-stream.com:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMSA3OjE1OjM3IFBNJmhhc2hfdmFsdWU9QUw4VVhwc1dFcTNXZXp0TU9UVVNwZz09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png",Klan HD
 http://185.226.88.3:1036/live/backup/backup/106.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
