@@ -66,7 +66,7 @@ https://srv1.iptviliria.com/RTSHKorca/tracks-v1a1/mono.m3u8?token=undefined
 #EXTINF:-1  tvg-id="RTSH Kukësi HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/RTSH_Kukësi_(2020_logo).svg/1920px-RTSH_Kukësi_(2020_logo).svg.png",RTSH Kukësi HD
 https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
 #EXTINF:-1  tvg-id="RTSH Muzike HD" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/RTSH Muzike.png",RTSH Muzike HD
-http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8?e=cd446cdb2a06ace0dfc08ed5798ebbd3&c=rtshmsicweb&medium=websocket
+https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
 #EXTINF:-1  tvg-id="RTSH Plus HD" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/RTSH%20Plus.png",RTSH Plus HD
 https://srv1.iptviliria.com/RTSHPlus/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="RTSH Shkollë HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/0af306f1b54a4aa487b27b9d5019699c_202010050916.svg",RTSH Shkollë HD
