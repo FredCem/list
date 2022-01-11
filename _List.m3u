@@ -32,7 +32,7 @@ http://f4.tvxweb.net:8082/24267/playlist.m3u8
 #EXTINF:-1  tvg-id="DUBAI 'ONE" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/0eb150c87de2d74617e5.jpg",DUBAI 'ONE
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1  tvg-id="STAR-PLUS-SHKODER" group-title="Shqipëria" tvg-logo="https://www.starplus-tv.com/wp-content/uploads/2021/12/logo272.png",STAR-PLUS-SHKODER
-http://32.shqiptv.org/STAR-PLUS-SHKODER/preview.mp4?token=ab3c9dc083d65ae32334d06212a2d996b454249a-c8fe09cfc1d9d681a33a21a3f9351135-1641912679-1641905479
+http://32.shqiptv.org/STAR-PLUS-SHKODER/preview.mp4?token=ed9da138b3509e9e52b6ea27cac2d4e3f74f14c7-3deb06ee8040b6cb67840d9d1712bf64-1641913609-1641906409
 #EXTINF:-1  tvg-id="RTK 1 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png",RTK 1 HD
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist_w1741964410.m3u8
 #EXTINF:-1  tvg-id="RTK 2 HD" group-title="Shqipëria" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png",RTK 2 HD
