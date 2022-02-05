@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="Klan HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png",Klan HD
-https://kanale.cdn-stream.com:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMSA3OjE1OjM3IFBNJmhhc2hfdmFsdWU9QUw4VVhwc1dFcTNXZXp0TU9UVVNwZz09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
+https://kanale.cdn-stream.com:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjIgOTo0MjoxNCBBTSZoYXNoX3ZhbHVlPVdISFh3eTM0SVU1NDJLMEpTZzMwdWc9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1  tvg-id="Klan HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png",Klan HD
 https://bashk.tv/hls/index.m3u8
 #EXTINF:-1  tvg-id="Top Channel HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
 https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAyMSA2OjEzOjQyIFBNJmhhc2hfdmFsdWU9VGUwQzI5ei9UUVhQZjk0V20zdFVLUT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1  tvg-id="Top Channel HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
-http://62.210.152.92:25461/live/kanale2/Ass/8.m3u8
+http://199.127.60.117:8081/live/top/playlist.m3u8
 #EXTINF:-1  tvg-id="Vizion+ HD" group-title="Shqipëria" tvg-logo="https://www.vizionplus.tv/wp-content/uploads/2020/04/og.png",Vizion+ HD
 http://185.226.88.3:1036/live/backup/backup/111.m3u8
 #EXTINF:-1  tvg-id="Vizion+ HD" group-title="Shqipëria" tvg-logo="https://www.vizionplus.tv/wp-content/uploads/2020/04/og.png",Vizion+ HD
