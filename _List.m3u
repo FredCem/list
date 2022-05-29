@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="Klan HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png",Klan HD
-https://kanale.cdn-stream.com:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjIgOTo0MjoxNCBBTSZoYXNoX3ZhbHVlPVdISFh3eTM0SVU1NDJLMEpTZzMwdWc9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
+http://txm.flysat.live:80/152095941314263/152055486013590/207227
 #EXTINF:-1  tvg-id="Klan HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png",Klan HD
-https://bashk.tv/hls/index.m3u8
+http://txm.flysat.live:80/152095941314263/152055486013590/207228
 #EXTINF:-1  tvg-id="Top Channel HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
-https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAyMSA2OjEzOjQyIFBNJmhhc2hfdmFsdWU9VGUwQzI5ei9UUVhQZjk0V20zdFVLUT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
+http://62.210.152.92:25461/live/kanale2/Ass/8.m3u8
 #EXTINF:-1  tvg-id="Top Channel HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
 http://199.127.60.117:8081/live/top/playlist.m3u8
 #EXTINF:-1  tvg-id="Vizion+ HD" group-title="Shqipëria" tvg-logo="https://www.vizionplus.tv/wp-content/uploads/2020/04/og.png",Vizion+ HD
-http://185.226.88.3:1036/live/backup/backup/111.m3u8
+http://txm.flysat.live:80/152095941314263/152055486013590/207223
 #EXTINF:-1  tvg-id="Vizion+ HD" group-title="Shqipëria" tvg-logo="https://www.vizionplus.tv/wp-content/uploads/2020/04/og.png",Vizion+ HD
-https://srv1.iptviliria.com/VizionPlus/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+http://95.107.132.106/out/u/646_6.m3u8
 #EXTINF:-1  tvg-id="Living HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/A65MDRy.png",Living HD
 https://srv1.iptviliria.com/LivingHD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Jolly HD" group-title="Shqipëria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/TringJolly.png",Jolly HD
