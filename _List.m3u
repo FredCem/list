@@ -136,13 +136,13 @@ http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/76.ts
 #EXTINF:-1  tvg-id="STAR-PLUS-SHKODER" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/PrimeTv_logo_61eb329b8ac9f_thumb.jpg",Prime Tv
 https://bashk.tv/hls/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="RTK 1 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png",RTK 1 HD
-http://162.55.88.21/rtk1stream/rtk1.stream/chunklist_w2042961122.m3u8
+http://162.55.88.21/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="RTK 2 HD" group-title="Shqipëria" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png",RTK 2 HD
-http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-#EXTINF:-1  tvg-id="RTK 3 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/RTK3_logo_5ac42bcfd1a4d.png",RTK 3 HD
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+http://162.55.88.21/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="http://162.55.88.21/rtk3stream/rtk3.stream/playlist.m3u8" group-title="http://162.55.88.21/rtk3stream/rtk3.stream/playlist.m3u8" tvg-logo="http://162.55.88.21/rtk3stream/rtk3.stream/playlist.m3u8",http://162.55.88.21/rtk3stream/rtk3.stream/playlist.m3u8
+http://162.55.88.21/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="RTK 4 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/RTK4_logo_5ac42bf221795.png",RTK 4 HD
-http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+http://162.55.88.21/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="RTSH 1 HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/698abd1e20c54a799b58adc401df56a0_202010050920.svg",RTSH 1 HD
 https://srv1.iptviliria.com/RTSH1/tracks-v1a1/mono.m3u8?token=undefined
 #EXTINF:-1  tvg-id="RTSH SHKODRA" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/RtshShkodra_logo_60dcfc17e2370_thumb.jpg",RTSH SHKODRA
