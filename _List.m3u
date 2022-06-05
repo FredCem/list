@@ -463,5 +463,7 @@ https://tvlive.rtsh.dev/live/adriamed/playlist.m3u8
 https://ub1doy938d.gjirafa.net/live/motZvUmyIk9PCPXEf5gwAB1GmIlQTn6b/y1k0kk1080/index.m3u8
 #EXTINF:-1  tvg-id="RTV 1 HD" group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/ac/1588812677695.png/revision/latest/scale-to-width-down/340?cb=20200507134908",RTV 1 HD
 https://video.radio1.al/hls/rtvnje/index.m3u8
+#EXTINF:-1  tvg-id="wow tv" group-title="Shqipëria" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png",WOW  TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1  tvg-id="Tv Arberia 1" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Tv Arberia 1
 https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
