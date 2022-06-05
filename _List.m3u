@@ -84,7 +84,7 @@ https://srv1.iptviliria.com/RTV21Popullore/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJh
 #EXTINF:-1  tvg-id="RTV PENDIMI" group-title="Shqipëria" tvg-logo="https://i.imgur.com/CwesqT7.png",RTV PENDIMI
 http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8
 #EXTINF:-1  tvg-id="Top News" group-title="Shqipëria" tvg-logo="https://i.imgur.com/cXMwhPE.png",Top News
-https://srv1.iptviliria.com/TopNews/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+https://stream-12.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1ircFec402oGSGgHULHZS550nuiXm6I5jkCCtj-_vBCKYw)/dm/3/x6inuzo/s/live-2.m3u8
 #EXTINF:-1  tvg-id="balkanika musik" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",Balkanika Musik
 http://185.226.88.3:1036/live/backup/backup/14.m3u8
 #EXTINF:-1  tvg-id="Albania Culture Tv ALb" group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/albania-culture-tv-alb.jpg",Albania Culture Tv ALb
@@ -352,7 +352,7 @@ https://srv1.iptviliria.com/MTVKosova/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciO
 #EXTINF:-1  tvg-id="ALBKANALE Live" group-title="Shqipëria" tvg-logo="http://albkanale.com/images/appicon.png",ALBKANALE Live
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1  tvg-id="Zjarr TV" group-title="Shqipëria" tvg-logo="https://zjarr.tv/wp-content/uploads/2021/09/zjarrtvlogo-300x169.png",Zjarr TV
-http://185.226.88.3:1036/live/backup/backup/83.m3u8
+https://edge01eu.ekranet.com/zjarrtv/index.m3u8?e=f0e33f81ac653e6502098aeb5e462f13&c=zjarrtv&medium=websocket
 #EXTINF:-1  tvg-id="Elbasani TV" group-title="Shqipëria" tvg-logo="https://tvtolive.com/wp-content/uploads/TV-Skampa-tvtolive.com_.jpg",Elbasani TV
 http://37.26.87.155:1936/hls/stream1.m3u8
 #EXTINF:-1  tvg-id="ZICO HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/cS0Qe01.png",ZICO HD
@@ -4849,5 +4849,3 @@ http://windows.showradyo.com.tr/;
 http://dinle.slowkaradenizfm.com:9578/;
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://1.bp.blogspot.com/-zrnjJIpQsFs/XsZ7hCkgg0I/AAAAAAAAHyU/kwZp4wcqhs8pgpiJJrYL_cu1Tbee9FsJgCK4BGAsYHg/iptv-business.jpg",TURKU RADYO
 http://radyo.turkuradyo.net:4591/;
-#EXTINF:-1  tvg-id="RTK 3 HD" group-title="Shqipëria" tvg-logo="RTK 3 HD",RTK 3 HD
-http://162.55.88.21/rtk3stream/rtk3.stream/playlist.m3u8
