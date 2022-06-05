@@ -101,8 +101,6 @@ http://185.226.88.3:1036/live/backup/backup/79.m3u8
 http://185.226.88.3:1036/live/backup/backup/85.m3u8
 #EXTINF:-1  tvg-id="Club Tv" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/ClubTv_logo_6086f14c1c918_thumb.jpg",Club Tv
 http://185.226.88.3:1036/live/backup/backup/92.m3u8
-#EXTINF:-1  tvg-id="Klan News Tv" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",Klan News Tv
-http://185.226.88.3:1036/live/backup/backup/94.m3u8
 #EXTINF:-1  tvg-id="K-PLUS" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",K-PLUS
 http://210.210.155.35/uq2663/h/h08/02.m3u8
 #EXTINF:-1  tvg-id="Star Movies" group-title="Shqipëria" tvg-logo="",Star Movies
@@ -185,8 +183,6 @@ http://stream.logic-ks.net:6969/live/ari/tv/1.ts
 http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:-1  tvg-id="News 24 HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PWGMnzW.jpg",News 24 HD
 http://tv.balkanweb.com/news24/livestream/chunks.m3u8
-#EXTINF:-1  tvg-id="NEWS24" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",NEWS24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="N/A",TV PLISI HUMOR HD
 http://txm.flysat.live:80/152095941314263/152055486013590/207082
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="N/A",TV PLISI THRILLER HD.
