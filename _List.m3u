@@ -39,34 +39,6 @@ http://162.55.88.21/rtk2stream/rtk2.stream/playlist.m3u8
 http://162.55.88.21/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="RTK 4 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/RTK4_logo_5ac42bf221795.png",RTK 4 HD
 http://162.55.88.21/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1  tvg-id="RTSH 1 HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/698abd1e20c54a799b58adc401df56a0_202010050920.svg",RTSH 1 HD
-
-#EXTINF:-1  tvg-id="RTSH SHKODRA" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/RtshShkodra_logo_60dcfc17e2370_thumb.jpg",RTSH SHKODRA
-
-#EXTINF:-1  tvg-id="RTSH 2 HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/6b837e33bb5b47b680175e4063b81928_202010050920.svg",RTSH 2 HD
-
-#EXTINF:-1  tvg-id="RTSH 24 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/RTSH_24.svg/1200px-RTSH_24.svg.png",RTSH 24 HD
-
-#EXTINF:-1  tvg-id="RTSH 3 HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/519f62f6eccd4d628b3e3e0ab41a16b7_202010050920.svg",RTSH 3 HD
-
-#EXTINF:-1  tvg-id="RTSH AGRO" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/2020/11/bbdd21d26f4944a3b549fb2447c923ed.svg",RTSH AGRO
-
-#EXTINF:-1  tvg-id="RTSH Fëmijë HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/RTSH_Fëmijë_(2020_logo).svg/1920px-RTSH_Fëmijë_(2020_logo).svg.png",RTSH Fëmijë HD
-
-#EXTINF:-1  tvg-id="RTSH Film HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/RTSH_Film_%282020_Logo%29.svg/2560px-RTSH_Film_%282020_Logo%29.svg.png",RTSH Film HD
-
-#EXTINF:-1  tvg-id="RTSH Gjirokaster HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/assets/program_default_photo_vertical.jpg",RTSH Gjirokaster HD
-
-#EXTINF:-1  tvg-id="RTSH Korca" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/0ec9bf29889943838af6c5b8d68abb48_202010050916.svg",RTSH Korca
-
-#EXTINF:-1  tvg-id="RTSH Kukësi HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/RTSH_Kukësi_(2020_logo).svg/1920px-RTSH_Kukësi_(2020_logo).svg.png",RTSH Kukësi HD
-
-#EXTINF:-1  tvg-id="RTSH Muzike HD" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/RTSH Muzike.png",RTSH Muzike HD
-
-#EXTINF:-1  tvg-id="RTSH Plus HD" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/RTSH%20Plus.png",RTSH Plus HD
-
-#EXTINF:-1  tvg-id="RTSH Shkollë HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/0af306f1b54a4aa487b27b9d5019699c_202010050916.svg",RTSH Shkollë HD
-
 #EXTINF:-1  tvg-id="Tv Johaniter live" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvJohaniter_logo_603c41be2e205_thumb.jpg",Tv Johaniter live
 http://185.226.88.3:1036/live/backup/backup/162.m3u8
 #EXTINF:-1  tvg-id="Tring Comedy HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/yOUG2Q9.png",Tring Comedy HD
