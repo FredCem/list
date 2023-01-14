@@ -7,6 +7,8 @@ https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/Cs4E0Akjldlx_oLt0yrh7LFK6dM
 https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/CswEQyc5efpDnhVbnDQSe_DvClGq6TR-MCPcS-awb1BhLslJ9Ahy5tpUmuYsgiryosVRoWo9SvGyiP10HkhRvRuiASIrtpnQhiRqMJ05nNMnQ9alPEsvGZUHgshgLNlMqwIp6OCChV4E2IxEeVbSnwgo7hCcqGqyMpRZfiq1ThlzaEW2vPDe6XWgpHNkBKo2wxodQHwHOJ8m8Rrw0DTfJiTB63Hr_1KclTfqTdS2oTv-n0MrdmHF_hvajXcRQx4wii3T4k27nYejqGihi71OQNomfk9xNSXGdVWsBQqAT3-zjj4TefdoZIXLOCiw8EUFI7YwEvaTP6e_ihQ4w1gt8tC27z74BrgjsnXmMJuAcYTZekIcP64dLRRcWwihYpDsGnNBsF8lXIRknY72rQrHUSRM_rcv1nBuETJg2g7Zi16ZhaRghdbwNuRDDtDNB0VNjKAiuo3r-Xd4o1cuA7XrYtLIU3w1ecBEP8GAildKYAHmMP5XtYXWmMQRwE4a6fUBIz1uBpNYv2fTgtxTiprLRrQIpRnC_zwUGru1r_kW46EUmb_RirNSRtkb47ZlfDFi1pshakkEBRs53kfbVBKDW-ZCmoz7SKdo5ft_JQP0HYuHhirWWUr-28Ai6crDl8p7sOEu5URzwmn2C3eO666Cjf7emNUN4crprJJvfaW59eNhz2pB3IZoMbObd7aMm7PvB-x7_fQMKRMLkhC24voB14stf-DjeilAZJk8Co0nJ6JqPGP3zfD7fpfHu-lPt_ntyJ9fw8br9QACrsXmBws6GgyhtVKKvbbrO_fXAewgASoJZXUtd2VzdC0yMNAF.m3u8
 #EXTINF:-1  tvg-id="A1 Report Live" group-title="Shqipëria" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/al-a1-repor.jpg",A1 Report Live
 https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1  tvg-id="A2 CNN" group-title="Shqipëria" tvg-logo="https://english.a2news.com/wp-content/themes/a2news/assets/images/a2-cnn-logo.png",A2 CNN
+https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/y11g0y1080_60/index.m3u8
 #EXTINF:-1  tvg-id="ABC 2" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",ABC 2
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-id="ABC News Alb HD" group-title="Shqipëria" tvg-logo="https://icanlive.tv/pictures/abc-news-al.jpg",ABC News Alb HD
@@ -208,13 +210,13 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist.m3u8
 #EXTINF:-1  tvg-id="Rai News 24" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rai_News_24.svg/512px-Rai_News_24.svg.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1639409273~exp=1639409423~acl=/*~hmac=00d387b4dfa3b16a0b5876dc3f31b0666ba6cd97f36b4258a2a6288d17f7f38f
 #EXTINF:-1  tvg-id="RTK 1 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png",RTK 1 HD
-http://162.55.88.21/rtk1stream/rtk1.stream/playlist.m3u8
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq1080/index.m3u8
 #EXTINF:-1  tvg-id="RTK 2 HD" group-title="Shqipëria" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png",RTK 2 HD
-http://162.55.88.21/rtk2stream/rtk2.stream/playlist.m3u8
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz01080/index.m3u8
 #EXTINF:-1  tvg-id="RTK 3 HD" group-title="Shqipëria" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png",RTK 3 HD
-http://162.55.88.21/rtk3stream/rtk3.stream/playlist.m3u8
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzk1080/index.m3u8
 #EXTINF:-1  tvg-id="RTK 4 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/RTK4_logo_5ac42bf221795.png",RTK 4 HD
-http://162.55.88.21/rtk4stream/rtk4.stream/playlist.m3u8
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt1080/index.m3u8
 #EXTINF:-1  tvg-id="RTV 1 HD" group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/ac/1588812677695.png/revision/latest/scale-to-width-down/340?cb=20200507134908",RTV 1 HD
 https://video.radio1.al/hls/rtvnje/index.m3u8
 #EXTINF:-1  tvg-id="RTV 21 JUNIOR" group-title="Shqipëria" tvg-logo="https://i.imgur.com/h9nYbeg.png",RTV 21 JUNIOR
@@ -230,11 +232,11 @@ https://t2.tvmak.com/tv/livetvTetove.m3u8?sPR5E2zO1a
 #EXTINF:-1  tvg-id="RTV Ilirida HD" group-title="Shqipëria" tvg-logo="https://www.shkabaj.net/tv/img/tvnew_rtvilirida.png",RTV Ilirida HD
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/chunklist_w1257181104.m3u8
 #EXTINF:-1  tvg-id="RTV ISLAM" group-title="Shqipëria" tvg-logo="https://i.imgur.com/TQPucOK.png",RTV ISLAM
-https://nesertv.live/rtvislam988/index.m3u8
+https://protokolldns.xyz/rtvislam55547/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="RTV PENDIMI" group-title="Shqipëria" tvg-logo="https://i.imgur.com/CwesqT7.png",RTV PENDIMI
 http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8
 #EXTINF:-1  tvg-id="SCAN 24" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",SCAN 24
-http://edge01eu.ekranet.com/scantv/index.m3u8
+https://cdn-225db837-92a1-4310-a8b9-33749f3bbff4-1529414.b-cdn.net/content/hls/live/live_1529414_146hefdi9/hls.m3u8
 #EXTINF:-1  tvg-id="Star Movies" group-title="Shqipëria" tvg-logo="N/A",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Supersonic TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/ThxbPxn.png",Supersonic TV
