@@ -253,6 +253,8 @@ http://62.210.152.92:25461/live/kanale2/Ass/8.m3u8
 http://93.157.62.180/TopChannel/index.m3u8
 #EXTINF:-1  tvg-id="Top News" group-title="Shqipëria" tvg-logo="https://i.imgur.com/cXMwhPE.png",Top News
 https://stream-04.ix7.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irR6bn9199qZx6CUGu0QjsY-K7NO7f6mpphGmqqCTIeFW)/dm/3/x6inuzo/s/live-1.m3u8
+#EXTINF:-1  tvg-id="Turbo Channel" group-title="Shqipëria" tvg-logo="https://reviewaz.com/wp-content/uploads/2021/03/Turbo-TV-300x300.png",Turbo Channel
+https://ub1doy938d.gjirafa.net/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/zy0tzy1080/index.m3u8
 #EXTINF:-1  tvg-id="TopEstrada TV" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TurboChannel_logo_6085163c837cf_thumb.jpg",TopEstrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1  tvg-id="Tring Action" group-title="Shqipëria" tvg-logo="https://i.imgur.com/E4Evdoq.png",Tring Action
@@ -275,8 +277,8 @@ http://rtvarberiafemij.flashmediacast.com:1935/RtvArberiaFemij/livestream/playli
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
 #EXTINF:-1  tvg-id="TV Dielli" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TVDielli_logo_5a03b5bb7cd4c_thumb.jpg",TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:-1  tvg-id="Tv Ilirida" group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/rtv-zeri-i-ilirides.png",Tv Ilirida
-https://5a1178b42cc03.streamlock.net/rtvilirida/rtvilirida/chunklist_w1145905405.m3u8
+#EXTINF:-1  tvg-id="Travelingo TV" group-title="Shqipëria" tvg-logo="https://th.bing.com/th/id/R.5d8267931f9540e911fe47cf54aa386c?rik=GIVJlBduGCYcow&riu=http%3a%2f%2ftravelingo.tv%2fwp-content%2fthemes%2ftravelingo_wp%2fassets%2fimages%2fdefault-logo.png&ehk=WUzWYPJdbdmoJL4CqnQfdFzDCYua8KM9rlsXGk9GYCs%3d&risl=&pid=ImgRaw&r=0",Travelingo TV
+https://ub1doy938d.gjirafa.net/live/mtAOO7iGIzVAs3PFPnAFubierryMwW3V/ytkytq1080/index.m3u8
 #EXTINF:-1  tvg-id="TV PLISI ACTION HD.
 TV PLISI COMEDY HD.
 TV PLISI FANTASY HD.
@@ -361,7 +363,7 @@ http://f4.tvxweb.net:8082/24270/playlist.m3u8
 #EXTINF:-1  tvg-id="xpremium 9" group-title="Shqipëria" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/1f/da/6e/1fda6e93df6c4b6ed2a6deee6b3d8f93.jpg",xpremium 9
 http://f4.tvxweb.net:8082/24271/playlist.m3u8
 #EXTINF:-1  tvg-id="ZICO HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/cS0Qe01.png",ZICO HD
-https://ub1doy938d.gjirafa.net/live/motZvUmyIk9PCPXEf5gwAB1GmIlQTn6b/y1k0kk1080/index.m3u8
+https://ub1doy938d.gjirafa.net/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/y1k0kk1080/index.m3u8
 #EXTINF:-1  tvg-id="Zjarr TV" group-title="Shqipëria" tvg-logo="https://zjarr.tv/wp-content/uploads/2021/09/zjarrtvlogo-300x169.png",Zjarr TV
 https://edge01eu.ekranet.com/zjarrtv/index.m3u8?e=f0e33f81ac653e6502098aeb5e462f13&c=zjarrtv&medium=websocket
 #EXTINF:-1  tvg-id="Abu Dhabi Sports 2" group-title="MIX SPORT" tvg-logo="http://www.maxtvs.net/admin/img/channel/3c74624b6168888ef09c.jpg",Abu Dhabi Sports 2
