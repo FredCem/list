@@ -8,7 +8,7 @@ https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1  tvg-id="ABC 2" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",ABC 2
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-id="ABC News Alb HD" group-title="Shqipëria" tvg-logo="https://icanlive.tv/pictures/abc-news-al.jpg",ABC News Alb HD
-https://tv2.abcnews.al/live/abcnews/chunks.m3u8
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:-1  tvg-id="ADRIA tv" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/AlbdreamsTv_logo_6025b12f8d21d.png",ADRIA tv
 https://tvlive.rtsh.dev/live/adriamed/playlist.m3u8
 #EXTINF:-1  tvg-id="Al Jazeera English" group-title="Shqipëria" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English
@@ -250,7 +250,7 @@ http://62.210.152.92:25461/live/kanale2/Ass/8.m3u8
 #EXTINF:-1  tvg-id="Top Channel HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
 http://93.157.62.180/TopChannel/index.m3u8
 #EXTINF:-1  tvg-id="Top News" group-title="Shqipëria" tvg-logo="https://i.imgur.com/cXMwhPE.png",Top News
-https://stream-12.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1ircFec402oGSGgHULHZS550nuiXm6I5jkCCtj-_vBCKYw)/dm/3/x6inuzo/s/live-2.m3u8
+https://stream-04.ix7.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irR6bn9199qZx6CUGu0QjsY-K7NO7f6mpphGmqqCTIeFW)/dm/3/x6inuzo/s/live-1.m3u8
 #EXTINF:-1  tvg-id="TopEstrada TV" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TurboChannel_logo_6085163c837cf_thumb.jpg",TopEstrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1  tvg-id="Tring Action" group-title="Shqipëria" tvg-logo="https://i.imgur.com/E4Evdoq.png",Tring Action
