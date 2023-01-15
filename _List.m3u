@@ -108,39 +108,9 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",Living HD
 http://txm.flysat.live:80/152095941314263/152055486013590/207106
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MAKKAH LIVE
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+https://rr2---sn-8vq54vox03-aigs.googlevideo.com/videoplayback?expire=1673798407&ei=p87DY4zFFcC4mLAPlZi40AI&ip=84.70.189.130&id=w4Ay4lHpR4o.1&itag=247&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=qI&mm=44%2C29&mn=sn-8vq54vox03-aigs%2Csn-aigl6n6s&ms=lva%2Crdu&mv=m&mvi=2&pl=18&initcwndbps=1878750&spc=zIddbLQAi0dSgezPezO8ZeAYMcdsLqE&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=nKcH8FaWIp1zb7BrfnwUeOAK&gir=yes&mt=1673776353&fvip=2&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=qZnAP-7L9tT8Aw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgfTbrK01cD4Ll1ovQdFVQtzJ2ax4k22LhmmYboxCqlaECIQCP8PrfcoeOW8n99s8DOfVC7JRFTrcYTbSegXT6XgIjJQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIge7dp-TWdvCbb1kelgAY1bomzgpc9l4U5jnE51T12N9MCIF5xjNrMWd7fYPgYxEguIuUXwYSeITA18_OjXAkVx4hy&alr=yes&cpn=S7P8XvwqkBRO95Wt&cver=1.20230111.01.00...
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC 1 HD
 https://2202lw.janjua.pw:8088/adfree/mbcccnc_1111111/playlist.m3u8?id=106085&pk=2ceca60b659795b7d3c211ad5ddc2869718ad38f40b387461f8e957796456b57
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC 2
-https://2205.janjua.pw:8088/adfree/mbcccnc_222222/playlist.m3u8?id=106086&pk=2ceca60b659795b7d3c211ad5ddc2869718ad38f40b387461f8e957796456b57
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC 2
-http://multies.xyz:8000/live/22-5-MbC2-Mx-AcT/G8bwyFcnsM/106.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC 3
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC 3 HD
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC 5 HD
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC Drama
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC Drama HD
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC Drama Plus
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC Iraq
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC Masr 1
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC Masr 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC Masr 2 HD
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MBC Persia
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",MIX ARABIC
-https://freedemo1.xyz:2083/live/7zvSS3VrpRbR/BSFQTccn8nWt/28.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",Movie Kingdom (720p)
