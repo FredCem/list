@@ -19,7 +19,7 @@ http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://f4.tvxweb.net:8082/24268/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",Albania Culture Tv ALb
 http://46.99.146.236/0.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",https://mfe01.tring.al/delta/105/out/u/622_2.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",Albdreams TV
 http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",ALBKANALE Live
 https://albportal.net/albkanalemusic.m3u8
@@ -44,7 +44,7 @@ https://srv1.iptviliria.com/BesaTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJI
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",Cufo TV
 https://srv1.iptviliria.com/Cufo/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",Drita tv
-https://nesertv.live/dritavlivetreamweb/tracks-v1a1/mono.m3u8
+https://bashk.tv/hls/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",DUBAI 'ONE
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",ERA TV
@@ -198,7 +198,7 @@ https://srv1.iptviliria.com/RTV21Popullore/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJh
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",RTV DESHIRA
 https://t2.tvmak.com/tv/livetvTetove.m3u8?sPR5E2zO1a
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",RTV Ilirida HD
-http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/chunklist_w1257181104.m3u8
+https://bashk.tv/hls/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",RTV ISLAM
 https://protokolldns.xyz/rtvislam55547/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",RTV PENDIMI
@@ -244,7 +244,7 @@ http://rtvarberiafemij.flashmediacast.com:1935/RtvArberiaFemij/livestream/playli
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",Tv Arbëria 4-Muzikë
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",TV Dielli
-http://stream.tvdielli.com:8081/dielli/index.m3u8
+https://bashk.tv/hls/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",Travelingo TV
 https://ub1doy938d.gjirafa.net/live/mtAOO7iGIzVAs3PFPnAFubierryMwW3V/ytkytq1080/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SHQIPERIA",TV PLISI ACTION HD.
@@ -2009,135 +2009,135 @@ http://eo49.live:2089/152079181811724/152010864086508/208608
 http://eo49.live:2089/152079181811724/152010864086508/208607
 #EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| CRIME DISTRICT
 http://eo49.live:2089/152079181811724/152010864086508/208606
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",--------------|FR| JEUNESSE FHD ------------
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",
 http://eo49.live:2089/152079181811724/152010864086508/208605
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| NICKELODEON 4 TEEN (FHD|)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| NICKELODEON 4 TEEN (FHD|)
 http://eo49.live:2089/152079181811724/152010864086508/208604
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| NICKELODEON JUNIOR (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| NICKELODEON JUNIOR (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208603
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| NICKELODEON (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| NICKELODEON (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208602
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| PIWI (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| PIWI (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208601
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| DISNEY CHANNEL (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| DISNEY CHANNEL (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208600
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| DISNEY CHANNEL +1 (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| DISNEY CHANNEL +1 (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208599
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| DISNEY JUNIOR (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| DISNEY JUNIOR (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208598
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| BOING (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| BOING (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208597
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| CANAL J (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| CANAL J (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208596
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| TELETOON+ (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| TELETOON+ (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208595
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| TELE TOON 1 (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| TELE TOON 1 (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208594
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| TOONAMI (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| TOONAMI (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208593
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| CARTOON NETWORK (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| CARTOON NETWORK (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208592
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| BOOMERANG (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| BOOMERANG (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208591
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| TIJI (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| TIJI (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208590
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| BABY TV (FHD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------|FR| JEUNESSE FHD ------------",|FR| BABY TV (FHD)
 http://eo49.live:2089/152079181811724/152010864086508/208589
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",--------------- |FR| MUSIQUE FHD -------------------
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",--------------- |FR| MUSIQUE FHD -------------------
 http://eo49.live:2089/152079181811724/152010864086508/208588
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| M6 MUSIC
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| M6 MUSIC
 http://eo49.live:2089/152079181811724/152010864086508/208587
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| TRACE URBAN
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| TRACE URBAN
 http://eo49.live:2089/152079181811724/152010864086508/208586
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| MEZZO LIVE
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| MEZZO LIVE
 http://eo49.live:2089/152079181811724/152010864086508/208585
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| MCM
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| MCM
 http://eo49.live:2089/152079181811724/152010864086508/208584
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| MCM TOP
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| MCM TOP
 http://eo49.live:2089/152079181811724/152010864086508/208583
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| LFM TV
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| LFM TV
 http://eo49.live:2089/152079181811724/152010864086508/208582
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| MELODY TV
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| MELODY TV
 http://eo49.live:2089/152079181811724/152010864086508/208581
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| NRJ HITS
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| NRJ HITS
 http://eo49.live:2089/152079181811724/152010864086508/208580
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| RFM TV
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| RFM TV
 http://eo49.live:2089/152079181811724/152010864086508/208579
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| MTV
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| MTV
 http://eo49.live:2089/152079181811724/152010864086508/208578
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| MTV LIVE
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| MTV LIVE
 http://eo49.live:2089/152079181811724/152010864086508/208577
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| MTV HITS
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| MTV HITS
 http://eo49.live:2089/152079181811724/152010864086508/208576
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| TVM3
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| TVM3
 http://eo49.live:2089/152079181811724/152010864086508/208575
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| C STAR HIT
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| C STAR HIT
 http://eo49.live:2089/152079181811724/152010864086508/208574
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR|FHD| C STAR HITS
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR|FHD| C STAR HITS
 http://eo49.live:2089/152079181811724/152010864086508/208573
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| BOING (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| BOING (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198689
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| BOOMERANG (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| BOOMERANG (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198688
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| CANAL J (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| CANAL J (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198687
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| CARTOON NETWORK (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| CARTOON NETWORK (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198686
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| DISNEY JUNIOR (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| DISNEY JUNIOR (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198685
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| DISNEY CHANNEL +1 (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| DISNEY CHANNEL +1 (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198684
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| DISNEY CHANNEL (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| DISNEY CHANNEL (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198683
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| NICKELODEON (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| NICKELODEON (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198682
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| NICKELODEON 4 TEEN (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| NICKELODEON 4 TEEN (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198681
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| NICKELODEON JUNIOR (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| NICKELODEON JUNIOR (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198680
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| PIWI (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| PIWI (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198679
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| TIJI (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| TIJI (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198678
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| TOONAMI (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| TOONAMI (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198677
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| TELE TOON 1 (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| TELE TOON 1 (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198676
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| TELETOON+ (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| TELETOON+ (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198675
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| BABY TV
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| BABY TV
 http://eo49.live:2089/152079181811724/152010864086508/198674
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| BOING
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| BOING
 http://eo49.live:2089/152079181811724/152010864086508/198673
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| BOOMERANG
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| BOOMERANG
 http://eo49.live:2089/152079181811724/152010864086508/198672
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| CANAL J
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| CANAL J
 http://eo49.live:2089/152079181811724/152010864086508/198671
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| CARTOON NETWORK
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| CARTOON NETWORK
 http://eo49.live:2089/152079181811724/152010864086508/198670
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| DISNEY JUNIOR
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| DISNEY JUNIOR
 http://eo49.live:2089/152079181811724/152010864086508/198669
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| DISNEY CHANNEL +1
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| DISNEY CHANNEL +1
 http://eo49.live:2089/152079181811724/152010864086508/198668
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| DISNEY CHANNEL
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| DISNEY CHANNEL
 http://eo49.live:2089/152079181811724/152010864086508/198667
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| TIJI
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| TIJI
 http://eo49.live:2089/152079181811724/152010864086508/198666
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| GULLI (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| GULLI (HD)
 http://eo49.live:2089/152079181811724/152010864086508/198665
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| NICKELODEON
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| NICKELODEON
 http://eo49.live:2089/152079181811724/152010864086508/198664
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| NICKELODEON JUNIOR
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| NICKELODEON JUNIOR
 http://eo49.live:2089/152079181811724/152010864086508/198663
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| NICKELODEON 4 TEEN
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| NICKELODEON 4 TEEN
 http://eo49.live:2089/152079181811724/152010864086508/198662
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| PIWI
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| PIWI
 http://eo49.live:2089/152079181811724/152010864086508/198661
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| TOONAMI
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| TOONAMI
 http://eo49.live:2089/152079181811724/152010864086508/198660
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| TELETOON+
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| TELETOON+
 http://eo49.live:2089/152079181811724/152010864086508/198659
-#EXTINF:-1  tvg-id="N/A" group-title="N/A",|FR| TELE TOON 1
+#EXTINF:-1  tvg-id="N/A" group-title="--------------- |FR| MUSIQUE FHD -------------------",|FR| TELE TOON 1
 http://eo49.live:2089/152079181811724/152010864086508/198658
 #EXTINF:-1  tvg-id="N/A" group-title="N/A",LA QUE SE AVECINA 24/7
 http://eo49.live:2089/152079181811724/152010864086508/268491
