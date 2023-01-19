@@ -1083,9 +1083,9 @@ http://185.226.88.3:1036/live/backup/backup/116.m3u8
 http://185.226.88.3:1036/live/backup/backup/136.m3u8
 #EXTINF:-1  tvg-id="Koha TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/AJ472ot.png",Koha TV
 rtmp://live.tvkoha.tv:1935/live/koha/livestream
-#EXTINF:-1  tvg-id="syri tv" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",syri tv
-http://185.226.88.3:1036/live/backup/backup/133.m3u8
-#EXTINF:-1  tvg-id="top news" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",top news
+#EXTINF:-1  tvg-id="SYRI TV" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",SYRI TV
+https://ub1doy938d.gjirafa.net/live/motZvUmyIk9PCPXEf5gwAB1GmIlQTn6b/y10z1k1080/index.m3u8
+#EXTINF:-1  tvg-id="TOP NEWS" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",TOP NEWS
 http://93.157.62.180/TopNews/index.m3u8
 #EXTINF:-1  tvg-id="Action" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Action
 http://93.157.62.180/TringAction/index.m3u8
