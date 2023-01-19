@@ -459,8 +459,8 @@ http://210.210.155.35/uq2663/h/h08/02.m3u8
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="Klan News Tv" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",Klan News Tv
 http://185.226.88.3:1036/live/backup/backup/94.m3u8
-#EXTINF:-1  tvg-id="Tring 3 Plus HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/nkRjL2n.png",Tring 3 Plus HD
-http://185.226.88.3:1036/live/backup/backup/76.m3u8
+#EXTINF:-1  tvg-id="Tring 3 Plus HD" group-title="Shqipëria" tvg-logo="https://livetvcentral.com/imgs/tvs/6593.jpg",TV Arta Live
+https://ub1doy938d.gjirafa.net/media/zyxxtg/hls/index.m3u8
 #EXTINF:-1  tvg-id="Tring Fantasy HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/8wKoTV0.png",Tring Fantasy HD
 https://srv1.iptviliria.com/TringFantasy/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Tring History HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/ulE5UUi.png",Tring History HD
