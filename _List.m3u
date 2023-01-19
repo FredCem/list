@@ -25,6 +25,8 @@ https://srv1.iptviliria.com/TringShqip/index.m3u8?token=undefined
 https://srv1.iptviliria.com/RTSHShqip/tracks-v1a1/mono.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Korça +" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Kor%C3%A7a+_logo_6025a41ad25de_thumb.jpg",Korça +
 http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:-1  tvg-id="Korça +" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Kor%C3%A7a+_logo_6025a41ad25de_thumb.jpg",Korça + BackUp
+http://32.shqiptv.org:8080/korca/albplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Alb Film 2 HD" group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/alb-film-2-hd.png",Alb Film 2 HD
 http://f4.tvxweb.net:8082/24268/playlist.m3u8
 #EXTINF:-1  tvg-id="Film Drame Hd Live" group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/film-drame-hd-live.png",Film Drame Hd Live
@@ -439,9 +441,9 @@ http://edge01eu.ekranet.com/scantv/index.m3u8
 http://edge01eu.ekranet.com/faxnews/index.m3u8
 #EXTINF:-1  tvg-id="VizionPlus" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",VizionPlus
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
-#EXTINF:-1  tvg-id="Italia Uno" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",Italia Uno
-http://185.226.88.3:1036/live/backup/backup/102.m3u8
-#EXTINF:-1  tvg-id="Canale 5" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",Canale 5
+#EXTINF:-1  tvg-id="Elbasani TV " group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ElbasaniTV_logo_623264aada12b.png",Elbasani TV 
+http://tvskampa.duckdns.org:1936/hls/stream1.m3u8
+#EXTINF:-1  tvg-id="Canale 5" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",Live
 http://185.226.88.3:1036/live/backup/backup/103.m3u8
 #EXTINF:-1  tvg-id="Rai Uno" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",Rai Uno
 http://185.226.88.3:1036/live/backup/backup/105.m3u8
@@ -1086,7 +1088,7 @@ rtmp://live.tvkoha.tv:1935/live/koha/livestream
 #EXTINF:-1  tvg-id="SYRI TV" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",SYRI TV
 https://ub1doy938d.gjirafa.net/live/motZvUmyIk9PCPXEf5gwAB1GmIlQTn6b/y10z1k1080/index.m3u8
 #EXTINF:-1  tvg-id="TOP NEWS" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",TOP NEWS
-http://93.157.62.180/TopNews/index.m3u8
+https://stream-07.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irXptok1hPtnfgYGEBuROL31rANPtZVc57pqeEY_lx88n)/dm/3/x6inuzo/s/live-0.m3u8
 #EXTINF:-1  tvg-id="Action" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Action
 http://93.157.62.180/TringAction/index.m3u8
 #EXTINF:-1  tvg-id="super" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",super
@@ -1095,13 +1097,13 @@ http://93.157.62.180/TringSuper/index.m3u8
 http://93.157.62.180/JollyHD/index.m3u8
 #EXTINF:-1  tvg-id="Atd hd" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Atd hd
 http://46.99.146.236/0.m3u8
-#EXTINF:-1  tvg-id="Alsat M" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Alsat M
+#EXTINF:-1  tvg-id="ALSAT M" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",ALSAT M
 http://93.157.62.180/AlsatM/index.m3u8
 #EXTINF:-1  tvg-id="Vizion Plus" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Vizion Plus
 http://93.157.62.180/VizionPlus/index.m3u8
 #EXTINF:-1  tvg-id="Klan Plus" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Klan Plus
 http://93.157.62.180/KlanPlus/index.m3u8
-#EXTINF:-1  tvg-id="ADRIA tv" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/AlbdreamsTv_logo_6025b12f8d21d.png",ADRIA tv
+#EXTINF:-1  tvg-id="ADRIA TV" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/AlbdreamsTv_logo_6025b12f8d21d.png",ADRIA TV
 https://tvlive.rtsh.dev/live/adriamed/playlist.m3u8
 #EXTINF:-1  tvg-id="Al Jazeera English" group-title="Shqipëria" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/index.m3u8
