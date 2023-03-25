@@ -37,8 +37,8 @@ https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1
 https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://www.starplus-tv.com/wp-content/uploads/2021/12/logo272.png",STAR-PLUS-SHKODER
 http://32.shqiptv.org/STAR-PLUS-SHKODER/tracks-v1a1/mono.m3u8?token=b74ca517028d8601463ecedba1960949e7d46ae1-36c9e89704b759a5ef04f210dd6a48a0-1640718514-1640711314
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="N/A",Bumblebee TV PopCornFlix Action
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1  tvg-id="ISLAM CHANNEL TV" group-title="Shqipëria" tvg-logo="https://portal.simplestreamcdn.com/172/642f780c-islamtv.png",ISLAM CHANNEL TV
+https://live.islamchannel.tv/islamtv_english/live.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="N/A",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="N/A",Charge!
@@ -441,7 +441,7 @@ http://edge01eu.ekranet.com/scantv/index.m3u8
 http://edge01eu.ekranet.com/faxnews/index.m3u8
 #EXTINF:-1  tvg-id="VizionPlus" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",VizionPlus
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
-#EXTINF:-1  tvg-id="Elbasani TV " group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ElbasaniTV_logo_623264aada12b.png",Elbasani TV 
+#EXTINF:-1  tvg-id="Elbasani TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ElbasaniTV_logo_623264aada12b.png",Elbasani TV
 http://tvskampa.duckdns.org:1936/hls/stream1.m3u8
 #EXTINF:-1  tvg-id="Canale 5" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",Live
 http://185.226.88.3:1036/live/backup/backup/103.m3u8
@@ -519,8 +519,6 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 https://srv1.iptviliria.com/FolkPlus/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Flutura TV" group-title="Shqipëria" tvg-logo="https://tvmak.com/img/tv/fluturatv.png",Flutura TV
 https://t2.tvmak.com/tv/fluturatv.m3u8?bVHWfYt4Oz
-#EXTINF:-1  tvg-id="Syri Blue" group-title="Shqipëria" tvg-logo="http://syri.tv/wp-content/uploads/2017/12/logo.png",Syri Blue
-TV 7 Albania Live
 #EXTINF:-1  tvg-id="Supersonic TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/ThxbPxn.png",Supersonic TV
 https://srv1.iptviliria.com/SupersonicTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="AlbSe" group-title="Shqipëria" tvg-logo="https://albse.tv/wp-content/uploads/2020/10/1.png",AlbSe
