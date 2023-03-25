@@ -35,8 +35,8 @@ http://32.shqiptv.org:8080/korca/albplus/tracks-v1a1/mono.m3u8
 http://f4.tvxweb.net:8082/24268/playlist.m3u8
 #EXTINF:-1  tvg-id="Film Drame Hd Live" group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/film-drame-hd-live.png",Film Drame Hd Live
 http://f4.tvxweb.net:8082/24267/playlist.m3u8
-#EXTINF:-1  tvg-id="AMC Rush" group-title="Shqipëria" tvg-logo="https://heavy.com/wp-content/uploads/2017/12/amc_logo_2016-svg-e1513362681543.png",AMC Rush
-https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="RTV Dukagjini HD" group-title="Shqipëria" tvg-logo="https://telegrafi.com/wp-content/uploads/2016/07/RTV-Dukagjini-150x150.jpg",RTV Dukagjini HD
+https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/zztyzt480/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="N/A",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="N/A",Charge!
@@ -354,7 +354,7 @@ https://premiummedia.al/stream/premium-channel/live.m3u8
 #EXTINF:-1  tvg-id="IGN TV" group-title="Shqipëria" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/ign-logo.png",IGN TV
 https://ign-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="BESA-RTV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/L3sBZoh.png",BESA-RTV
-https://srv1.iptviliria.com/BesaTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/zztyzt480/index.m3u8
 #EXTINF:-1  tvg-id="ABC 2" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",ABC 2
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-id="Tring World" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",Tring World
