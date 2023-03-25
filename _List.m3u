@@ -22,7 +22,7 @@ https://srv1.iptviliria.com/LivingHD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 #EXTINF:-1  tvg-id="Jolly HD" group-title="Shqipëria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/TringJolly.png",Jolly HD
 https://srv1.iptviliria.com/JollyHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Ora News" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Ora-news.png",Ora News
-http://185.226.88.3:1036/live/backup/backup/113.m3u8
+https://live1.mediadesk.al/oranews.php
 #EXTINF:-1  tvg-id="T HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/xcQHpQI.png",T HD
 https://srv1.iptviliria.com/THD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Tring Shqip HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/9Vtib66.png",Tring Shqip HD
