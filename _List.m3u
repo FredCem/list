@@ -329,8 +329,6 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 http://185.226.88.3:1036/live/backup/backup/164.m3u8
 #EXTINF:-1  tvg-id="EXPLORE" group-title="Shqipëria" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrqnkCUydJWdANDhNfbn63xI0KN5oiQ4RrrWi-=s900-c-k-c0x00ffffff-no-rj",EXPLORE
 https://outbound-production.explore.org/stream-production-221/.m3u8
-#EXTINF:-1  tvg-id="FailArmy" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1  tvg-id="FailArmy (Opt-2)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy (Opt-2)
 http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1  tvg-id="Family Feud" group-title="Shqipëria" tvg-logo="https://i.imgur.com/GWvAALD.png",Family Feud
@@ -553,7 +551,7 @@ http://89.179.247.144/mixm.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1681510122~acl=/hls-p/ingest_206_*/*~hmac=df9a49408be5b1ce4c0d62da97b5dfea59dbff57313d1be8b0ead73f48fb2335/hls-p/ingest_206_720p/index.m3u8
 #EXTINF:-1  tvg-id="Movie Kingdom" group-title="Shqipëria" tvg-logo="N/A",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1  tvg-id="Movie Kingdom" group-title="Shqipëria" tvg-logo="N/A",Movie Kingdom
+#EXTINF:-1  tvg-id="Movie Kingdom" group-title="Shqipëria" tvg-logo="N/A",FailArmy
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1  tvg-id="Movie Kingdom" group-title="Shqipëria" tvg-logo="N/A",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
