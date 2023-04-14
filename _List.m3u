@@ -11,14 +11,12 @@ https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1
 http://32.shqiptv.org/STAR-PLUS-SHKODER/tracks-v1a1/mono.m3u8?token=62d83ec71ab3fccbf80ca8b16f1576a169109846-b9fc3d772588c0c2485d9ccd40a435a8-1679752099-1679744899
 #EXTINF:-1  tvg-id="T7 HD" group-title="Shqipëria" tvg-logo="https://yt3.googleusercontent.com/BkP1Eec99cD887-7J0jQSKpyiZBsOmjmfqxHjvHQZMrDcM3beTJzwx_ySW5zXqcagOC_e1r6FQ=s176-c-k-c0x00ffffff-no-rj",T7 HD
 https://ub1doy938d.gjirafa.net/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/yzg0yt480/index.m3u8
-#EXTINF:-1  tvg-id="Makkah TV" group-title="Shqipëria" tvg-logo="https://thumbor.prod.vidiocdn.com/yYNc22e0kxGO04WuAYnSaboBOUM=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg",Makkah TV
-https://live-production.secureswiftcontent.com/exp=1679766151~acl=/hls-p/ingest_6852_*/*~hmac=a7504aa9dc7bef39b885d855dc9cf147c8cd9f88f9f430d10d6906d304a45f79/hls-p/ingest_6852_720p/index.m3u8
+#EXTINF:-1  tvg-id="Mecca TV Live" group-title="Shqipëria" tvg-logo="https://thumbor.prod.vidiocdn.com/yYNc22e0kxGO04WuAYnSaboBOUM=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg",Mecca TV Live
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1  tvg-id="Vizion+ HD" group-title="Shqipëria" tvg-logo="https://www.vizionplus.tv/wp-content/uploads/2020/04/og.png",Vizion+ HD
 https://bashk.tv/hls/646_3.m3u8
 #EXTINF:-1  tvg-id="Ora News" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Ora-news.png",Ora News
 https://live1.mediadesk.al/oranews.php
-#EXTINF:-1  tvg-id="Korça +" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Kor%C3%A7a+_logo_6025a41ad25de_thumb.jpg",Korça + BackUp
-http://32.shqiptv.org:8080/korca/albplus/index.m3u8
 #EXTINF:-1  tvg-id="Real RTV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/66bb487ad6_logo_61d9ebddd4a3f_thumb.jpg",Real RTV
 https://bashk.tv/hls/index.m3u8
 #EXTINF:-1  tvg-id="TV Dielli" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TVDielli_logo_5a03b5bb7cd4c_thumb.jpg",TV Dielli
