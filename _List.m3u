@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="ISLAM CHANNEL TV" group-title="Shqipëria" tvg-logo="https://portal.simplestreamcdn.com/172/642f780c-islamtv.png",ISLAM CHANNEL TV
-https://live.islamchannel.tv/islamtv_english/live.m3u8
+https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
 #EXTINF:-1  tvg-id="Vizion+ HD" group-title="Shqipëria" tvg-logo="https://www.vizionplus.tv/wp-content/uploads/2020/04/og.png",Vizion+ HD
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 #EXTINF:-1  tvg-id="Korça +" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Kor%C3%A7a+_logo_6025a41ad25de_thumb.jpg",Korça +
@@ -19,7 +19,7 @@ https://bashk.tv/hls/646_3.m3u8
 https://live1.mediadesk.al/oranews.php
 #EXTINF:-1  tvg-id="Korça +" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Kor%C3%A7a+_logo_6025a41ad25de_thumb.jpg",Korça + BackUp
 http://32.shqiptv.org:8080/korca/albplus/index.m3u8
-#EXTINF:-1  tvg-id="Real RTV " group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/66bb487ad6_logo_61d9ebddd4a3f_thumb.jpg",Real RTV 
+#EXTINF:-1  tvg-id="Real RTV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/66bb487ad6_logo_61d9ebddd4a3f_thumb.jpg",Real RTV
 https://bashk.tv/hls/index.m3u8
 #EXTINF:-1  tvg-id="TV Dielli" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TVDielli_logo_5a03b5bb7cd4c_thumb.jpg",TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
@@ -546,7 +546,7 @@ http://185.226.88.3:1036/live/backup/backup/136.m3u8
 #EXTINF:-1  tvg-id="Atd hd" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Atd hd
 http://46.99.146.236/0.m3u8
 #EXTINF:-1  tvg-id="Al Jazeera English" group-title="Shqipëria" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1  tvg-id="Arirang" group-title="Shqipëria" tvg-logo="http://www.isv.net/logos/arirangtv.png",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="Arirang" group-title="Shqipëria" tvg-logo="http://www.isv.net/logos/arirangtv.png",Arirang
