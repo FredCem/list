@@ -879,6 +879,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-id="The Film Detective" group-title="Shqipëria" tvg-logo="N/A",The Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1  tvg-id="Insight TV" group-title="Shqipëria" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/b2a1a9f0-c735-4c8e-99d2-febad143b04c.png",Insight TV
+https://streamstat.net/videoplayer.cgi?sid=434939766&ext=.m3u8
 #EXTINF:-1  tvg-id="PIX11 New York NY" group-title="Shqipëria" tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png",PIX11 New York NY
 https://streamstat.net/videoplayer.cgi?sid=434940643&ext=.m3u8
 #EXTINF:-1  tvg-id="The First" group-title="Shqipëria" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41819x7lL4L.jpg",The First
