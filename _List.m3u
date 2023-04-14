@@ -561,8 +561,8 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1  tvg-id="MovieSphere" group-title="Shqipëria" tvg-logo="N/A",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="MovieSphere" group-title="Shqipëria" tvg-logo="N/A",MovieSphere
-https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="Local Now Drama" group-title="Shqipëria" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/608a0e28a918527ee77eabe8",Local Now Drama
+https://streamstat.net/videoplayer.cgi?sid=434937339&ext=.m3u8
 #EXTINF:-1  tvg-id="MTV Biggest Pop" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1  tvg-id="MTV Block Party" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Block Party
