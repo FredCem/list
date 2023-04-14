@@ -883,6 +883,8 @@ https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 https://streamstat.net/videoplayer.cgi?sid=434940643&ext=.m3u8
 #EXTINF:-1  tvg-id="The First" group-title="Shqipëria" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41819x7lL4L.jpg",The First
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
+#EXTINF:-1  tvg-id="Family Flix" group-title="Shqipëria" tvg-logo="https://images.squarespace-cdn.com/content/v1/631e0d89c001211985b877cd/c02483bf-0fba-4b8f-9b5e-6c95528c987e/familyflix-white.png",Family Flix
+https://streamstat.net/videoplayer.cgi?sid=434938925&ext=.m3u8
 #EXTINF:-1  tvg-id="TNTSPORTS 1[1280*720]" group-title="Shqipëria" tvg-logo="N/A",TNTSPORTS 1[1280*720]
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1  tvg-id="TNTSPORTS 2[1280*720]" group-title="Shqipëria" tvg-logo="N/A",TNTSPORTS 2[1280*720]
