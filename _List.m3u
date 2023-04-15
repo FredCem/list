@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1  tvg-id="ISLAM CHANNEL TV" group-title="Shqipëria" tvg-logo="https://portal.simplestreamcdn.com/172/642f780c-islamtv.png",ISLAM CHANNEL TV
+https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
+#EXTINF:-1  tvg-id="Dubai One" group-title="Shqipëria" tvg-logo="https://i.imgur.com/WjJ8MHC.png",Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="1Limburg" group-title="Shqipëria" tvg-logo="https://i.imgur.com/rdGg9lP.png",1Limburg
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1  tvg-id="24 Hour Free Movies" group-title="Shqipëria" tvg-logo="https://cdn.teleon.tv/logo/24-hour-free-movies-us.png",24 Hour Free Movies
@@ -283,8 +287,6 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662beb
 http://185.226.88.3:1036/live/backup/backup/163.m3u8
 #EXTINF:-1  tvg-id="DRITA TV BackUp" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",DRITA TV BackUp
 http://185.226.88.3:1036/live/backup/backup/163.m3u8
-#EXTINF:-1  tvg-id="Dubai One" group-title="Shqipëria" tvg-logo="https://i.imgur.com/WjJ8MHC.png",Dubai One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="DUBAI 'ONE" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/0eb150c87de2d74617e5.jpg",DUBAI 'ONE
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1  tvg-id="Dubai Racing 2" group-title="Shqipëria" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 2
@@ -465,8 +467,6 @@ https://streamstat.net/videoplayer.cgi?sid=434939766&ext=.m3u8
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="Iqraa Europe Africa" group-title="Shqipëria" tvg-logo="https://i.imgur.com/3bug9dU.png",Iqraa Europe Africa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="ISLAM CHANNEL TV" group-title="Shqipëria" tvg-logo="https://portal.simplestreamcdn.com/172/642f780c-islamtv.png",ISLAM CHANNEL TV
-https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
 #EXTINF:-1  tvg-id="Jawhara FM" group-title="Shqipëria" tvg-logo="https://i.imgur.com/a0tgQJE.png",Jawhara FM
 https://streaming.toutech.net/live/jfm/index.m3u8
 #EXTINF:-1  tvg-id="JUNIOR HD" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshkE3YMWGxlBTgWFVQrzmufv1LK7JsSa_zi1jVnXouMCIUUBWbfYRQPS1SX7APzzRGmk&usqp=CAU",JUNIOR HD
