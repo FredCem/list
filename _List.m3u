@@ -90,7 +90,7 @@ https://mfe01.tring.al/delta/105/out/u/618_13.m3u8
 #EXTINF:-1  tvg-id="WeatherSpy Europe (720p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/KIEKOt1.png",WeatherSpy Europe (720p)
 https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="Zjarr TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/hNuWZWe.png",Zjarr TV
-https://mfe01.tring.al/delta/106/out/u/284_1.m3u8
+https://zjarr.develop.al/hls/playlist.m3u8
 #EXTINF:-1  tvg-id="ISLAM CHANNEL TV" group-title="Shqipëria" tvg-logo="https://portal.simplestreamcdn.com/172/642f780c-islamtv.png",ISLAM CHANNEL TV
 https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
 #EXTINF:-1  tvg-id="Dubai One" group-title="Shqipëria" tvg-logo="https://i.imgur.com/WjJ8MHC.png",Dubai One
