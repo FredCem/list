@@ -19,16 +19,18 @@ https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1  tvg-id="AlbKanale Music TV" group-title="Shqipëria" tvg-logo="https://albportal.net/images/albkanalemusictv3.png",AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1  tvg-id="Panorama TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/PanoramaTv_logo_647f67e2e3f53_thumb.jpg",Panorama TV
-Tropoja Televizion
 #EXTINF:-1  tvg-id="7" group-title="Shqipëria" tvg-logo="https://tv7.al/wp-content/uploads/2018/02/Logo-83Heigh.png",7
 https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
 #EXTINF:-1  tvg-id="ADN HD" group-title="Shqipëria" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zzqt1t/thumbnails/standart.jpg",ADN HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/trw-ffi-21k-buh/tracks-v4a1/mono.m3u8
 #EXTINF:-1  tvg-id="Tropoja TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TropojaTv_logo_6633e0572e449_thumb.jpg",Tropoja TV
 https://live.prostream.al/al/smil:tropojatv.smil/chunklist_w995027007_b162800_sleng.m3u8
-#EXTINF:-1  tvg-id="BBC World News (480p)" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png",BBC World News (480p)
-http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1  tvg-id="Fieri TV" group-title="Group Title" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FieriTv_logo_66d22a142029c_thumb.jpg",Fieri TV
+https://fl1002.bozztv.com/ssh101/nakotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="Flutura Tv " group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FluturaTv_logo_6081f2aa4ecc1_thumb.jpg",Flutura Tv 
+https://ssh101-fl.bozztv.com/ssh101/fluturatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="Dukagjini TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RadioDukagjini_logo_5ac42b695d3bf_thumb.jpg",Dukagjini TV
+http://157.90.135.165:8081/yWbXvr1S/dukagjini_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="Antena 1 Vushtrri" group-title="Shqipëria" tvg-logo="https://antena-vushtrri.com/wp-content/uploads/2024/03/A1-Logo-kryesore-1536x468.png",Antena 1 Vushtrri
 https://65f16f0fdfc51.streamlock.net/contactvision/livestream/chunklist_w1204908302.m3u8
 #EXTINF:-1  tvg-id="Antena 2 Vushtrri" group-title="Shqipëria" tvg-logo="https://antena-vushtrri.com/wp-content/uploads/2024/03/A2-Logo-Kryesore-1536x468.png",Antena 2 Vushtrri
@@ -37,25 +39,25 @@ https://65f16f0fdfc51.streamlock.net/AntenaVUSHTRRI/livestream/playlist.m3u8
 http://tvskampa.duckdns.org:1936/hls/stream1.m3u8
 #EXTINF:-1  tvg-id="Tv Prizreni" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvPrizreni_logo_6472a11e028a7_thumb.jpg",Tv Prizreni
 https://bashk.tv/hls/index.m3u8
-#EXTINF:-1  tvg-id="CNN International Germany (720p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Germany (720p)
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="Teuta TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TeutaTv_logo_60ea37aaae99c_thumb.jpg",Teuta TV
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Topestrada TV Live" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TopestradaTv_logo_5ac42e64d79bf_thumb.jpg",Topestrada TV Live
-https://bashk.tv/hls/tracks-v1a1/mono.m3u8
+http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1  tvg-id="Folklorit TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FolkloritTv_logo_65c50ad860458_thumb.jpg",Folklorit TV
 https://bashk.tv/hls/chunklist_w1376885922.m3u8
 #EXTINF:-1  tvg-id="Zjarr TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/hNuWZWe.png",Zjarr TV
 https://zjarr.develop.al/hls/playlist.m3u8
 #EXTINF:-1  tvg-id="Euronews Albania (1080p) [Not 24/7]" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Skf6vdi.png",Euronews Albania (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
-#EXTINF:-1  tvg-id="EWTN Europe (720p) [Not 24/7]" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",EWTN Europe (720p) [Not 24/7]
-https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1  tvg-id="Ilirida TV Femije" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/IliridaTvFemije_logo_6274207ea2145_thumb.jpg",Ilirida TV Femije
+http://144.76.100.109/femije/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Fashion TV (1080p)" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",Fashion TV (1080p)
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="Galicia TV Europa (720p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/AZBod7u.png",Galicia TV Europa (720p)
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1  tvg-id="Atv Chicago" group-title="Shqipëria" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zyq001/thumbnails/standart.jpg",Atv Chicago
+#EXTINF:-1  tvg-id="RTV Zik TV Live" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RTVZik_logo_5ac430053dbba_thumb.jpg",RTV Zik TV Live
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/tracks-v4a1/mono.m3u8
+#EXTINF:-1  tvg-id="ATV Chicago" group-title="Shqipëria" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zyq001/thumbnails/standart.jpg",ATV Chicago
 https://glb.bozztv.com/glb/ssh101/atvchicago/playlist.m3u8
-#EXTINF:-1  tvg-id="News 24 (392p) [Not 24/7]" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PWGMnzW.jpg",News 24 (392p) [Not 24/7]
+#EXTINF:-1  tvg-id="News 24" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PWGMnzW.jpg",News 24
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1  tvg-id="NTV Europe (720p) [Not 24/7]" group-title="Shqipëria" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png",NTV Europe (720p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
@@ -65,8 +67,8 @@ https://live1.mediadesk.al/oranews.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1  tvg-id="Report TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/C9lM1KP.png",Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1  tvg-id="RT en Español (1080p) [Geo-blocked]" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT en Español (1080p) [Geo-blocked]
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1  tvg-id="Tirana TV " group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TiranaTv_logo_667dbce0506c3_thumb.jpg",Tirana TV 
+http://mku0414.oknirvana.club:8880/live/29ca01293n03/rw32er23/30479.m3u8
 #EXTINF:-1  tvg-id="RTV Arberia Musik" group-title="Shqipëria" tvg-logo="http://vip.worldlivetv.stream/images/blank_square.png",RTV Arberia Musik
 https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
 #EXTINF:-1  tvg-id="TV Arberia Retro Hits" group-title="Shqipëria" tvg-logo="http://vip.worldlivetv.stream/images/blank_square.png",TV Arberia Retro Hits
@@ -77,7 +79,7 @@ http://live.syri.tv:6969/live/syriblue/hd/23.ts
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/tracks-v4a1/mono.m3u8
 #EXTINF:-1  tvg-id="Three Angels Broadcasting Network International (3ABN) (720p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/8YMLPA3.png",Three Angels Broadcasting Network International (3ABN) (720p)
 https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
-#EXTINF:-1  tvg-id="TV Prizreni" group-title="Shqipëria" tvg-logo="N/A",TV Prizreni
+#EXTINF:-1  tvg-id="TV Prizreni" group-title="Shqipëria" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zy1ztx/thumbnails/retina.jpg",TV Prizreni
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/tracks-v4a1/mono.m3u8
 #EXTINF:-1  tvg-id="Tring Classic" group-title="Shqipëria" tvg-logo="https://i.imgur.com/TsaxrnX.png",Tring Classic
 https://mfe01.tring.al/delta/106/out/u/1114_3.m3u8
@@ -105,8 +107,8 @@ https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1  tvg-id="30A Darcizzle Offshore (720p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/l2O0fY1.png",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1  tvg-id="30A Music" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music
-https://30a-tv.com/music.m3u8?fluxustv.m3u8
+#EXTINF:-1  tvg-id="TV Kopliku" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvKopliku_logo_5ac42f31d5d00_thumb.jpg",TV Kopliku
+http://157.90.135.165:8081/yWbXvr1S/kopliku/playlist.m3u8
 #EXTINF:-1  tvg-id="3ABN KIDS HD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/VWthhcm/unnamed-1.jpg",3ABN KIDS HD
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1  tvg-id="A1 Report Live" group-title="Shqipëria" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/al-a1-repor.jpg",A1 Report Live
