@@ -10,7 +10,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/o9w-k53-7pb-m78/index.
 #EXTINF:-1  tvg-id="Korça +" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Kor%C3%A7a+_logo_6025a41ad25de_thumb.jpg",Korça +
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1  tvg-id="ABC News (720p)" group-title="Shqipëria" tvg-logo="https://abcnews.al/wp-content/uploads/2023/12/cropped-logo-festa-1024.png",ABC News (720p)
-https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/CuEF6lKGq00MLP4n7AtxU59dF8ODNdLFfL7bj85vhewK-Ur71HmHtf3wK7aB99y0j3BehOPOvGrI7hRJ4eRvw3-xEdZYigWYqp2cUb3MIV0V4RmkwXs4bzUuHe617b7oL8MX2fesEGepHUUFH79CL-r9TPVjq2YdY1U_T3iqpDs69yUNdRa_Keoo9m5NYJkJ9O-iNgGcdHKoaMazaEudtxtP2Il03leTEUvCevQ5LTDLq6KnQ3BjY-JhrmRDbWsKCutRI0RVLd1xpjRMHWfE4ziDNcm9jSqjbdDMvOGIe36bhJWSAljHIqK_fvV3jLW8m2U4WZGLvWAvHgEYIVAgIgExkHC_X3thf5k_342DI5rKwlxTNcsS1Ao4LOA0zlre8VmhRd0K5praDzo21TaShHjqe00dfGj9DsBPw2YWJPRrkpHnHzquTFcAoiO1aLvWQTHHho1IYMoh1Dj1RxWgu7abMAYrRBvJFAwigkVohJUM9fNe1gxnz7pvNF1S1v-Hjtw3teOwYl3ajE6tWjUAREERzdl6eDh4y4rjDmdfyN57iyNmmAUz6bsKaMrtW3TbT5Bjtqmr5Ud1a_RPFCzk-84aIXTuGyivSGMMVM9I7zNK2GVrxR5gY522KM6n4vuAQ6W1SR0mYWCanR17zLSaJW_QCssGqZFPTpFUP2Dih_5dYi9JBWaVYjSOiKpX-g4UhU5ah8dfJQcmpG4pD-KEXzCh17ruVKTQcsrd9WaFpzf7lJ24M0JkwMRmrfTTcMpgPRcKTIVKbnVJauk6PTaUG1yGcBKL9aRCD436UgsIS8tREfJQDTSc-kBhZNhpZaDQBsIj1GyTQDQtvO3TrgYEdEjvmcXYJdO7dyIYBFcDuBC6tRQQCz9sEew3VzpqB9u4x2sr-_039o9QpBfbFd7SN-rCDBBZgqEw6w8o4lC-NPENPbz450Yo185MLBSZk6WS_iRJt-xDhtyuLiVdMm8OsGrd7ewaDKwzgN8wizdbYuEx7CABKglldS13ZXN0LTEw3AU.m3u8
+https://usher.ttvnw.net/api/channel/hls/abcnewsal.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=128.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=118216&parent_domains=twitchplayer&platform=web&play_session_id=1c905a9356f45f951823fd680d19ba97&player_backend=mediaplayer&player_version=1.32.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=40269efc9811b1a266434197eb511f7e28a3672d&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22abcnewsal%22%2C%22channel_id%22%3A897294670%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e886b1b559ab4e2d%22%2C%22expires%22%3A1725618375%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22185.241.164.100%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:-1  tvg-id="Al Jazeera Documentary (270p) [Geo-blocked]" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png",Al Jazeera Documentary (270p) [Geo-blocked]
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1  tvg-id="AlbDreams TV (720p)" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/AlbdreamsTv_logo_6025b12f8d21d_thumb.jpg",AlbDreams TV (720p)
@@ -23,7 +23,7 @@ http://198.244.188.94/panorama/livestream/chunks.m3u8?nimblesessionid=21434948
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1  tvg-id="ADN HD" group-title="Shqipëria" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zzqt1t/thumbnails/standart.jpg",ADN HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/trw-ffi-21k-buh/tracks-v4a1/mono.m3u8
-#EXTINF:-1  tvg-id="Tropoja TV " group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TropojaTv_logo_6633e0572e449_thumb.jpg",Tropoja TV 
+#EXTINF:-1  tvg-id="Tropoja TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TropojaTv_logo_6633e0572e449_thumb.jpg",Tropoja TV
 https://bashk.tv/hls/chunklist_w985119699_b97800_sleng.m3u8
 #EXTINF:-1  tvg-id="BBC World News (480p)" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png",BBC World News (480p)
 http://ott-cdn.ucom.am/s24/index.m3u8
@@ -31,15 +31,15 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 https://65f16f0fdfc51.streamlock.net/contactvision/livestream/chunklist_w1204908302.m3u8
 #EXTINF:-1  tvg-id="Antena 2 Vushtrri" group-title="Shqipëria" tvg-logo="https://antena-vushtrri.com/wp-content/uploads/2024/03/A2-Logo-Kryesore-1536x468.png",Antena 2 Vushtrri
 https://65f16f0fdfc51.streamlock.net/AntenaVUSHTRRI/livestream/playlist.m3u8
-#EXTINF:-1  tvg-id="Elbasani TV " group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ElbasaniTV_logo_623264aada12b_thumb.jpg",Elbasani TV 
+#EXTINF:-1  tvg-id="Elbasani TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ElbasaniTV_logo_623264aada12b_thumb.jpg",Elbasani TV
 http://tvskampa.duckdns.org:1936/hls/stream1.m3u8
-#EXTINF:-1  tvg-id="Tv Prizreni " group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvPrizreni_logo_6472a11e028a7_thumb.jpg",Tv Prizreni 
+#EXTINF:-1  tvg-id="Tv Prizreni" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvPrizreni_logo_6472a11e028a7_thumb.jpg",Tv Prizreni
 https://bashk.tv/hls/index.m3u8
 #EXTINF:-1  tvg-id="CNN International Germany (720p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Germany (720p)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="Topestrada TV Live" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TopestradaTv_logo_5ac42e64d79bf_thumb.jpg",Topestrada TV Live
 https://bashk.tv/hls/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="Folklorit TV " group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FolkloritTv_logo_65c50ad860458_thumb.jpg",Folklorit TV 
+#EXTINF:-1  tvg-id="Folklorit TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FolkloritTv_logo_65c50ad860458_thumb.jpg",Folklorit TV
 https://bashk.tv/hls/chunklist_w1376885922.m3u8
 #EXTINF:-1  tvg-id="Euronews Albania (1080p) [Not 24/7]" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Skf6vdi.png",Euronews Albania (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
@@ -247,8 +247,8 @@ https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-id="Canal Savoir" group-title="Shqipëria" tvg-logo="https://i.imgur.com/VIzWMIp.png",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1  tvg-id="cartoon" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",cartoon
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1  tvg-id="Clarity 4K" group-title="Shqipëria" tvg-logo="https://artv.watch/cdn/channel/Clarity4K.us?width=50",Clarity 4K
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1  tvg-id="Cartoon Netw" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png",Cartoon Netw
 http://185.226.88.3:1036/live/backup/backup/149.m3u8
 #EXTINF:-1  tvg-id="CBS News" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Qu9NAwe.png",CBS News
@@ -257,12 +257,23 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-id="CGTN" group-title="Shqipëria" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1  tvg-id="CGTN (CN)" group-title="Shqipëria" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN (CN)
-http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1  tvg-id="Amazing Discoveries TV" group-title="Shqipëria" tvg-logo="https://artv.watch/cdn/channel/AmazingDiscoveriesTV.ca?width=50",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1  tvg-id="Chaîne Nord Africaine" group-title="Shqipëria" tvg-logo="https://i.imgur.com/BB7h5QR.png",Chaîne Nord Africaine
 https://live.creacast.com/cna/smil:cna.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="Top News LIVE" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQosb0cHo_2sBJ1SxuICCNkZoz8kJn2OyuXvw&s",Top News LIVE
-http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1  tvg-id="Charge!" group-title="Shqipëria" tvg-logo="N/A",Charge!
-https://video-weaver.lhr08.hls.ttvnw.net/v1/playlist/CvIFf64AkmlHJDYUkt9Ar1N3zGdrqJekK3QFWFY6OSWq1hzZnmre9gl1QmuDiKffTZ9_-kKAA8ow5KrTcRnTXyr6mOoULzsPuTZuU41726-r_LFmcq-2mlfW31125xmMEJuJRRt5Erw9QqbP6zSxD6AcnqxevhijVvBq0FavQP35ZEuQ8SNW4y4Vn2JJfTUYEG1B1N91e8DcLx16pNWKL2rlErBTYijz2PIn-68IfnGEyDtRZ_2BX5dcJPpC3e3M7J4flxjZ6Dvmw5Tau33jHsT1Big6CTygT89XU81MKIn5LrLh4ItPUxXjq-WAsCeOUZk6AL0hJa0PIlPtSOPb-5uZwErbujNxqkebyawg2y9KOqfeMHtwgrCxPzt244PFsSPJJgqj8kmkcCWsvFSp4VoI4TXWjH6FwG6CAg4EXBcsdKztWbUJlTfqRmBD82Be_Bx3xl_e7vrDpprZpoyCvNiBZ4N9iELvkdNyHEdNmTYzh8xPjGIRLGkIt4J_94CqXi5vDo93aPjy1xtZ7nwpzN7Bg8RUqOr3z_77v5dln-CC79GbDnm5BnyvVsl8BPEHzjxbf2KoMIM3ymySm1aialu4YstgmLNAa4ps_wkx2IP8gY8KzubSSEIakxnHKkN3J_FWpHKdO5W-Kqup9eX6IBTzHoIJyAabkJevMrwLyVWhKG1Vmzc0lob_kBFdkLguFxgD1wSdyCIplFXVvym0HkusSJr_B8FrUMIuhRyEgtXLfIq4iEFkJzleBjesGs2Y-2i0WcMh3lID3OCnmcqz8HMaMZGL6SqEPwid2TuSsP-cM00dMH8YUtCbbV3Q0dO1h_vYoe7OAW_gAEYy7H9__PiqmhV6_pJJhwzW4MUs_IQ8F0wYjsxt5ZhaL4QFEOOQ05WFMHqIBlMvcbBgQi1Np-f02tqE7ZfbL7RbKeYLuEWlo4QkV8agwstGcFpPyb1t7FZDOqxX07lOw2jBs1fZcziSWbKNZonSeMs-5L33bopYnqzDzRoMoUrAihDaYpR5WPhOIAEqCWV1LXdlc3QtMTDcBQ.m3u8
-#EXTINF:-1  tvg-id="" group-title="" tvg-logo="",
+https://video-weaver.lhr08.hls.ttvnw.net/v1/playlist/CvMFBtvywZTKcRpPLOBtSlGuh7ePlOVT3Ca4jNz5HlUO37Gmo7-QeW1eWidSdToDPl4owxP3w70iIB4z3287d5DljxInt3OWGBduahayKKgaqCZQmdJswHmFKv6ALZ6LAhvj0hrh3Hmd2ynnESdOUQAJy23l0aEaRPAFqeVjqbZS8H8-YlETADLGQ1N5Jjakc_WXyL-Q1gex9Llnt8i_uOUCTexyghZ2Ke-RDsaTu2-t953r_gH9ypAF_7I-VsVlaAXYL1UXCEmuRG0t4WeGUVfti2nTmqWy_W9TWpT94qImhSBkV4pulhSfk-2jNhjo90FSOvk9OGqATxYtS-Aq3J1BO2MD8SmBZHBqH_kJXH_9wgyb75ZT7gigvuiVQwtNfqwZpLeFzUnf6sMAbGheAcneuv_koUEc44TTWqny94c0QcGgZ8iGqINfR75oGQklQRqbCV4UwIjh3liGF1TLxHnWCF3T0ZUE89TKNj-9OakoslDZTqlbtFn_761-mrmwfxapspqXZxSGPOwlTAyqwMOvvivNFYa1rJBszHvr02I0k3tny3-jUGQkWnjPDY6mHZry3c30HRxNN7KyIyzM9xXyvg8xAohmwO_xxvI-QPJaIg2Aqrf1HUdO9CkfcZdU-6Jh5ye0E4N-8YQ9mXkGs6FGGJnFCtOjnKw-lkM0LFLz-Lb0cMpCPXB0qUM9AXbuJ_IXpNnS3hUZRlrCMJfE1noXnQFV9wSOyUDiLObJqqY3hOHpymGPe1Uyf0bj3F0ahr9TARxAqElnmdj7diXI_r3xOxNhYzHded2ywfGmvBVSZTlqCO5_YgZCRl9WwaE5yvlKBYZiTPywlCqtFEnFbrp6prHamCtSGUHgfjr_qqnmFxjesqzQw2Ly8NTKaSFaJIU-IABEH4hd-rLrvCZRrVueoQGIcyzotL65w0oRjqwAuFvYEkGhtDlJdcdUkcmyFiUfOAn7SlSVXBJzubuE4KBVQodA4h6jUm7KuTKOe7MhaVqEG5YaDDu239lNy5IKavBAVyABKglldS13ZXN0LTEwnwY.m3u8
+#EXTINF:-1  tvg-id="Saudi Thaqafiya TV" group-title="Shqipëria" tvg-logo="https://artv.watch/cdn/channel/SaudiThaqafiyaTV.sa?width=50",Saudi Thaqafiya TV
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_2.m3u8
+#EXTINF:-1  tvg-id="CineLife" group-title="Shqipëria" tvg-logo="https://artv.watch/cdn/channel/CineLife.us?width=50",CineLife
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_2.m3u8
+#EXTINF:-1  tvg-id="Cine Sony" group-title="Shqipëria" tvg-logo="https://artv.watch/cdn/channel/CineSony.us?width=50",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1  tvg-id="Diva" group-title="Shqipëria" tvg-logo="https://artv.watch/cdn/channel/Diva.za?width=50",Diva
+https://origin3.afxp.telemedia.co.za/PremiumFree/diva/abr_satellitechannel/satch_diva_720p/chunks.m3u8
+#EXTINF:-1  tvg-id="Sony Movies" group-title="Shqipëria" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50",Sony Movies
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1  tvg-id="Grand Cinema" group-title="Group Title" tvg-logo="https://artv.watch/cdn/channel/GrandCinema.tr?width=50",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1  tvg-id="Cinema One" group-title="Group Title" tvg-logo="https://artv.watch/cdn/channel/CinemaOne.ph?width=50",Cinema One
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
