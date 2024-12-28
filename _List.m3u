@@ -35,7 +35,7 @@ https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/trw-ffi-21k-buh/tracks-v4a1/mono.m3u8
 #EXTINF:-1  tvg-id="Tropoja TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TropojaTv_logo_6633e0572e449_thumb.jpg",Tropoja TV
 https://live.prostream.al/al/smil:tropojatv.smil/chunklist_w995027007_b162800_sleng.m3u8
-#EXTINF:-1  tvg-id="Fieri TV" group-title="Group Title" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FieriTv_logo_66d22a142029c_thumb.jpg",Fieri TV
+#EXTINF:-1  tvg-id="Fieri TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FieriTv_logo_66d22a142029c_thumb.jpg",Fieri TV
 https://fl1002.bozztv.com/ssh101/nakotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Flutura Tv " group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FluturaTv_logo_6081f2aa4ecc1_thumb.jpg",Flutura Tv 
 https://ssh101-fl.bozztv.com/ssh101/fluturatv/tracks-v1a1/mono.m3u8
