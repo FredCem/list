@@ -7,13 +7,11 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/g7t-zdp-y08-eig/index.
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/ume-3p1-sao-ssa/index.m3u8
 #EXTINF:-1  tvg-id="RTK 4 LIVE" group-title="Shqipëria" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk4.png",RTK 4 LIVE
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/o9w-k53-7pb-m78/index.m3u8
-#EXTINF:-1  tvg-id="Korça +" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Kor%C3%A7a+_logo_6025a41ad25de_thumb.jpg",Korça +
-http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:-1  tvg-id="Korça + BACKUP" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Kor%C3%A7a+_logo_6025a41ad25de_thumb.jpg",Korça +
-https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591
-#EXTINF:-1  tvg-id="BBVIP1" group-title="Shqipëria" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg"
+#EXTINF:-1  tvg-id="Korça +" group-title="Shqipëria" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591",Korça +
+https://stream.gia.tv/giatv/giatv-korcaplustv/korcaplustv/playlist.m3u8
+#EXTINF:-1  tvg-id="BBVIP1" group-title="Shqipëria" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg", BBVIP1
 https://hls.robotstreamer.com/tv/9027.m3u8?token=cWF6aW1sYWNpMzZAZ21haWwuY29t
-#EXTINF:-1  tvg-id="BBVIP1" group-title="Shqipëria" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg"
+#EXTINF:-1  tvg-id="BBVIP2" group-title="Shqipëria" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg", BBVIP2
 https://fra1.angelthump.com/hls/MjAyNC0xMi0yN1QwODo1NToyNi42MTBaYmFob25peG8=_bahonixo/index.m3u8
 #EXTINF:-1  tvg-id="ABC News (720p)" group-title="Shqipëria" tvg-logo="https://abcnews.al/wp-content/uploads/2023/12/cropped-logo-festa-1024.png",ABC News (720p)
 https://usher.ttvnw.net/api/channel/hls/abcnewsal.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=128.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=118216&parent_domains=twitchplayer&platform=web&play_session_id=1c905a9356f45f951823fd680d19ba97&player_backend=mediaplayer&player_version=1.32.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=40269efc9811b1a266434197eb511f7e28a3672d&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22abcnewsal%22%2C%22channel_id%22%3A897294670%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e886b1b559ab4e2d%22%2C%22expires%22%3A1725618375%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22185.241.164.100%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
