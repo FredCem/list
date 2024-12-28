@@ -161,9 +161,7 @@ http://m.live.net.sa:1935/live/sunnah/chunklist_w364295954.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1  tvg-id="Al Sunnah (Medina)" group-title="Shqipëria" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png",Al Sunnah (Medina)
 http://m.live.net.sa:1935/live/sunnah/chunklist_w364295954.m3u8
-#EXTINF:-1  tvg-id="alb uk" group-title="Shqipëria" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/f265fceb-5180-40d2-9844-60ef7af4f4d0/3766815201/iptv-tv-shqip-screenshot.png",alb uk
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1  tvg-id="alb uk" group-title="Shqipëria" tvg-logo="N/A",alb uk
+#EXTINF:-1  tvg-id="ALBUK TV LIVE" group-title="Shqipëria" tvg-logo="https://albuk.tv/wp-content/uploads/2022/06/big-logo-albuk-tv-1024x199.jpg",ALBUK TV LIVE
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="Albania Culture Tv ALb" group-title="Shqipëria" tvg-logo="http://www.shikotv.eu/uploads/tv_image/sm/albania-culture-tv-alb.jpg",Albania Culture Tv ALb
 http://46.99.146.236/0.m3u8
