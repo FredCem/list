@@ -220,7 +220,7 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1  tvg-id="Beach TV CSULB" group-title="Shqipëria" tvg-logo="https://i.imgur.com/LqGSdNg.png",Beach TV CSULB
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="BESA-RTV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/L3sBZoh.png",BESA-RTV
-https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/zztyzt480/index.m3u8
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/index.m3u8
 #EXTINF:-1  tvg-id="BigLife TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/n3ZnSk5.png",BigLife TV
 https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="BigLife TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/GmM19zu.png",BigLife TV
@@ -8041,6 +8041,8 @@ http://yerelmedya.tv:1935/kanalv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1  tvg-id="Kanali7.al" group-title="General" tvg-logo="https://i.imgur.com/rL2v9pM.png",Kanali 7 (576p)
 https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1  tvg-id="Kanali7.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/rL2v9pM.png",Kanali 7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/rewind-14400.m3u8
 #EXTINF:-1  tvg-id="KandelaTV.ve" group-title="General" tvg-logo="https://i.imgur.com/cCFxyIp.jpg",KandelaTV (480p)
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1  tvg-id="KanizsaTV.hu" group-title="General" tvg-logo="https://i.imgur.com/l02znlE.png",Kanizsa TV (400p)
@@ -16135,8 +16137,8 @@ http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1  tvg-id="T5Satelital.ar" group-title="General" tvg-logo="https://i.imgur.com/ZcD0rUP.png",T5 Satelital (720p)
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
-#EXTINF:-1  tvg-id="T7.xk" group-title="General" tvg-logo="https://i.imgur.com/b7FvSJj.png",T7 (1080p)
-https://ub1doy938d.gjirafa.net/live/mtAOO7iGIzVAs3PFPnAFubierryMwW3V/yzg0yt.m3u8
+#EXTINF:-1  tvg-id="T7 - Drejtpërdrejt" group-title="Shqipëria" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/t7.jpg",T7 - Drejtpërdrejt
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/rewind-14400.m3u8
 #EXTINF:-1  tvg-id="T9.it" group-title="General" tvg-logo="https://i.imgur.com/kQKzpYj.png",T9 (288p)
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
 #EXTINF:-1  tvg-id="T13.cl" group-title="General" tvg-logo="https://i.imgur.com/PktzDCH.png",T13 (720p)
