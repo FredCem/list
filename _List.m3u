@@ -19,7 +19,7 @@ https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/chunklist_w1944226422_b2128
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/8846f6ff-fb02-4d5f-9355-e553912672be/2.m3u8
 #EXTINF:-1  tvg-id="ABC News (720p)" tvg-logo="https://abcnews.al/wp-content/uploads/2023/12/cropped-logo-festa-1024.png" group-title="Shqipëria",ABC News (720p)
 https://usher.ttvnw.net/api/channel/hls/abcnewsal.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMTdkYjAzYWEtYTY0Yi00NmQ4LTk4MzEtY2M1ZGVjMTQ4NTVlIn0%3D&allow_source=true&browser_family=chrome&browser_version=131.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=1660841&parent_domains=twitchplayer&platform=web&play_session_id=938fdbe819c9894b19c77f9884f97f9c&player_backend=mediaplayer&player_version=1.35.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=37546964d5692be6ea6897c81d9c6ee2da6a4f97&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22abcnewsal%22%2C%22channel_id%22%3A897294670%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22d02f7af7ae06d2ad%22%2C%22expires%22%3A1735495471%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22185.241.166.85%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
-#EXTINF:-1  tvg-id="ABC News (720p)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="Shqipëria",ABC News USA
+#EXTINF:-1  tvg-id="ABC News USA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="Shqipëria",ABC News USA
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1  tvg-id="Abu Dhabi Sports 2" tvg-logo="http://www.maxtvs.net/admin/img/channel/3c74624b6168888ef09c.jpg" group-title="Shqipëria",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
@@ -37,7 +37,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x43
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="AFV" tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="Shqipëria",AFV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1  tvg-id="AFV Family" tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="Shqipëria",AFV Family
+#EXTINF:-1  tvg-id=" MBC 2 TV " tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="Shqipëria", MBC 2 TV 
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-id="Akaku 53 Hawaii" tvg-logo="https://i.imgur.com/8jjHm3a.png" group-title="Shqipëria",Akaku 53 Hawaii
 https://akaku.vod.castus.tv/live/ch1.m3u8
@@ -221,8 +221,8 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-l
 https://stream.gia.tv/giatv/giatv-korcaplustv/korcaplustv/playlist.m3u8
 #EXTINF:-1  tvg-id="News 24" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëria",News 24
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1  tvg-id="NTV Europe (720p) [Not 24/7]" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Shqipëria",NTV Europe (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="HBO TV" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/hbo-logo-optimized.jpg?x53049" group-title="Shqipëria",HBO TV
+https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="ORA News (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png" group-title="Shqipëria",ORA News (720p)
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1  tvg-id="Peace TV Albanian (360p)" tvg-logo="https://i.imgur.com/cK3KATX.png" group-title="Shqipëria",Peace TV Albanian (360p)
@@ -245,8 +245,8 @@ https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
 https://rtvmir.info/MIR/index.m3u8
 #EXTINF:-1  tvg-id="RTV Zik TV Live" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RTVZik_logo_5ac430053dbba_thumb.jpg" group-title="Shqipëria",RTV Zik TV Live
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/tracks-v4a1/mono.m3u8
-#EXTINF:-1  tvg-id="Saudi Thaqafiya TV" tvg-logo="https://artv.watch/cdn/channel/SaudiThaqafiyaTV.sa?width=50" group-title="Shqipëria",Saudi Thaqafiya TV
-https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_2.m3u8
+#EXTINF:-1  tvg-id="Hallmark Movies" tvg-logo="https://babaktv.com/wp-content/uploads/2024/09/Hallmark-Movies-More-optimized.jpg?x53049" group-title="Shqipëria",Hallmark Movies
+https://pass.iranvids.com/https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/3321280/playlist.m3u8?terminate=false&sid=d246104c-10bc-495e-b5a0-be3376eb25db&deviceDNT=0&deviceModel=web&deviceVersion=unknown&serverSideAds=true&appName=web&deviceId=0eecd88e-e621-11ee-9398-d82dce95b9ac&appVersion=unknown&deviceType=web&deviceMake=Chrome
 #EXTINF:-1  tvg-id="Sony Movies" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="Syri TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/8WboFWj.png" group-title="Shqipëria",Syri TV (720p) [Not 24/7]
