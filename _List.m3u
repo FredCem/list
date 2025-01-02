@@ -10,9 +10,9 @@ https://5a1178b42cc03.streamlock.net/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1  tvg-id="Shqiponja TV " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg" group-title="Shqipëria",Shqiponja TV 
 https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
 #EXTINF:-1  tvg-id="Tv News AL" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/tv_logo_64d4c0570f0aa_thumb.jpg" group-title="Shqipëria",Tv News ALB
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/tracks-v4a1/mono.m3u8
-#EXTINF:-1  tvg-id="Report TV" tvg-logo="https://i.imgur.com/C9lM1KP.png" group-title="Shqipëria",Report TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/js0-h8f-ifx-29f/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-id="Report TV" tvg-logo="https://i.imgur.com/C9lM1KP.png" group-title="Shqipëria",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1  tvg-id="RTK 1 LIVE" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria",RTK 1 LIVE
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
 #EXTINF:-1  tvg-id="RTK 2 LIVE" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="Shqipëria",RTK 2 LIVE
