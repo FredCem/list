@@ -63,6 +63,8 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 http://144.76.100.109/femije/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Ilirida Dokumentar" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/IliridaTvFemije_logo_6274207ea2145_thumb.jpg" group-title="Shqipëria",Ilirida Dokumentar
 https://t1.tvmak.com/tv/rtviliridaDokumentar.m3u8?obq463h9d0
+#EXTINF:-1  tvg-id="FxMedia Film" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FxmediaFilm_logo_6712efbe7ec20_thumb.jpg" group-title="Shqipëria",FxMedia Film
+https://protokolldns.xyz/fxmediaweb5548/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="ISLAM CHANNEL TV" tvg-logo="https://portal.simplestreamcdn.com/172/642f780c-islamtv.png" group-title="Shqipëria",ISLAM CHANNEL TV
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1  tvg-id="Syri TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/8WboFWj.png" group-title="Shqipëria",Syri TV (720p) [Not 24/7]
@@ -173,10 +175,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812bfbe4
 http://185.226.88.3:1036/live/backup/backup/149.m3u8
 #EXTINF:-1  tvg-id="CBS News" tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="Shqipëria",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1  tvg-id="CCX Media Minnesota" tvg-logo="https://i.imgur.com/DJG1KGR.png" group-title="Shqipëria",CCX Media Minnesota
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
-#EXTINF:-1  tvg-id="CGTN" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="Shqipëria",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1  tvg-id="Shqiponja TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg" group-title="Shqipëria",Shqiponja TV
+https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
+#EXTINF:-1  tvg-id="Fieri TV " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FieriTv_logo_66d22a142029c_thumb.jpg" group-title="Shqipëria",Fieri TV 
+https://fl1002.bozztv.com/ssh101/nakotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Chaîne Nord Africaine" tvg-logo="https://i.imgur.com/BB7h5QR.png" group-title="Shqipëria",Chaîne Nord Africaine
 https://live.creacast.com/cna/smil:cna.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="Elbasani TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ElbasaniTV_logo_623264aada12b_thumb.jpg" group-title="Shqipëria",Elbasani TV
@@ -189,8 +191,8 @@ https://bashk.tv/hls/chunklist_w1376885922.m3u8
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1  tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="Shqipëria",SBS CJB (540p) [Not 24/7]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1  tvg-id="News 24" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëria",News 24
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1  tvg-id="News 24" tvg-logo="https://www.news24.al/wp-content/uploads/2024/01/logo-256-70.png" group-title="Shqipëria",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1  tvg-id="ORA News (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png" group-title="Shqipëria",ORA News (720p)
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1  tvg-id="Tirana TV " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TiranaTv_logo_667dbce0506c3_thumb.jpg" group-title="Shqipëria",Tirana TV
