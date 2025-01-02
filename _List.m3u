@@ -5,8 +5,8 @@ https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/rewind-14400.m3u8
 #EXTINF:-1  tvg-id="Korça +" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça +
 https://stream.gia.tv/giatv/giatv-korcaplustv/korcaplustv/playlist.m3u8
-#EXTINF:-1  tvg-id="OPOJA TV" tvg-logo="https://opoja.tv/wp-content/uploads/2020/09/LOGO_HEADER.png" group-title="Shqipëria",OPOJA TV
-https://5a1178b42cc03.streamlock.net/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1  tvg-id="Partizani Channel " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/PartizaniChannel_logo_6712f4ecdc217_thumb.jpg" group-title="Shqipëria",Partizani Channel 
+https://vs.sednastream.com:1936/partizanitv/partizanitv/chunklist_w1822966256.m3u8
 #EXTINF:-1  tvg-id="Shqiponja TV " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg" group-title="Shqipëria",Shqiponja TV 
 https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
 #EXTINF:-1  tvg-id="Tv News AL" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/tv_logo_64d4c0570f0aa_thumb.jpg" group-title="Shqipëria",Tv News ALB
