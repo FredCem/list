@@ -10561,32 +10561,6 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1  tvg-name="ZZTV.rs" tvg-id="ZZTV.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="General",Muzzik ZZ TV (720p)
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1  tvg-name="RTRS PLUS Ⓢ" tvg-id="RTRSplus.ba" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="Bosnia and Herzegovina",RTRS PLUS Ⓢ
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-#EXTINF:-1  tvg-name="RTV HB Ⓢ" tvg-id="RTVHB.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png" group-title="Bosnia and Herzegovina",RTV HB Ⓢ
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1  tvg-name="RTV BN" tvg-id="BNTV.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="Bosnia and Herzegovina",RTV BN
-https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1  tvg-name="Televizija 5" tvg-id="Televizija5.ba" tvg-logo="https://i.imgur.com/znpvJys.png" group-title="Bosnia and Herzegovina",Televizija 5
-https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1  tvg-name="SuperTV" tvg-id="SuperTV.ba" tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="Bosnia and Herzegovina",SuperTV
-https://mirtv.club/live/mirtv/index.m3u8
-#EXTINF:-1  tvg-name="Neon TV" tvg-id="ntv.ba" tvg-logo="https://i.imgur.com/thC9NFp.png" group-title="Bosnia and Herzegovina",Neon TV
-rtsp://185.50.56.16:554/neontelvizija
-#EXTINF:-1  tvg-name="RTV ZE Ⓢ" tvg-id="RTVZenica.ba" tvg-logo="https://i.imgur.com/TKUaflB.png" group-title="Bosnia and Herzegovina",RTV ZE Ⓢ
-https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1  tvg-name="CPAC (EN)" tvg-id="CPACEnglish.ca" tvg-logo="https://i.imgur.com/AbdFD0S.png" group-title="Canada",CPAC (EN)
-https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1  tvg-name="ICI RDI" tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" group-title="Canada",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1  tvg-name="ICI Télé HD Ⓖ" tvg-logo="https://i.imgur.com/HsSi3NV.png" group-title="Canada",ICI Télé HD Ⓖ
-https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
-#EXTINF:-1  tvg-name="TVA Ⓖ" tvg-logo="https://i.imgur.com/1GR8Szn.png" group-title="Canada",TVA Ⓖ
-https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
-#EXTINF:-1  tvg-name="Télé Québec" tvg-id="CIVMDT.ca" tvg-logo="https://i.imgur.com/8grBWK9.png" group-title="Canada",Télé Québec
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1  tvg-name="ICI Montreal" tvg-id="CBFTDT.ca" tvg-logo="https://i.imgur.com/Z1b2TJD.png" group-title="Canada",ICI Montreal
-https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1  tvg-name="Rai 1 Ⓖ" tvg-id="Rai1.it" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="Italy",Rai 1 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1  tvg-name="Rai 2 Ⓖ" tvg-id="Rai2.it" tvg-logo="https://i.imgur.com/zA0PTcs.png" group-title="Italy",Rai 2 Ⓖ
