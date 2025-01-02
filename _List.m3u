@@ -61,6 +61,8 @@ https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1  tvg-id="Ilirida TV Femije" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/IliridaTvFemije_logo_6274207ea2145_thumb.jpg" group-title="Shqipëria",Ilirida TV Femije
 http://144.76.100.109/femije/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="Ilirida Dokumentar" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/IliridaTvFemije_logo_6274207ea2145_thumb.jpg" group-title="Shqipëria",Ilirida Dokumentar
+https://t1.tvmak.com/tv/rtviliridaDokumentar.m3u8?obq463h9d0
 #EXTINF:-1  tvg-id="ISLAM CHANNEL TV" tvg-logo="https://portal.simplestreamcdn.com/172/642f780c-islamtv.png" group-title="Shqipëria",ISLAM CHANNEL TV
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1  tvg-id="Syri TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/8WboFWj.png" group-title="Shqipëria",Syri TV (720p) [Not 24/7]
