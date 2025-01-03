@@ -3,6 +3,8 @@
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 #EXTINF:-1  tvg-name="Kanali7.al" tvg-id="Kanali7.al" tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="Shqipëria",Kanali 7
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/rewind-14400.m3u8
+#EXTINF:-1  tvg-name="TV Syri Vision " tvg-id="TV Syri Vision " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/SyriVision_logo_5ac43026a3074_thumb.jpg" group-title="Shqipëria",TV Syri Vision 
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/tracks-v3a1/mono.m3u8
 #EXTINF:-1  tvg-name="Korça +.al" tvg-id="Korça +.al" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
 https://stream.gia.tv/giatv/giatv-korcaplustv/korcaplustv/playlist.m3u8
 #EXTINF:-1  tvg-name="Partizani Channel" tvg-id="Partizani Channel " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/PartizaniChannel_logo_6712f4ecdc217_thumb.jpg" group-title="Shqipëria",Partizani Channel
