@@ -11295,20 +11295,18 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="BBC World News Ⓢ" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK",BBC World News Ⓢ
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1  tvg-name="Në kuadër të dashurisë" tvg-id="Në kuadër të dashurisë" tvg-logo="https://filma365.cc/uploads/poster/12-2024/EAD8RegLNq.jpg" group-title="VOD Movies (EN)",Në kuadër të dashurisë
+#EXTINF:-1  tvg-name="VOD Movies (EN)" tvg-id="VOD Movies (EN)" tvg-logo="https://filma365.cc/uploads/poster/12-2024/EAD8RegLNq.jpg" group-title="VOD Movies (EN)",Në kuadër të dashurisë
 https://be4242.rcr52.ams03.cdn255.com/hls2/01/05173/xi2oenk8bo69_h/index-v1-a1.m3u8?t=imrT5fi1hilTO8Px6MD1klPGitUhPJr_VBYDufYJLxE&s=1735931605&e=10800&f=25867879&srv=20&asn=201838&sp=4000&p=
-#EXTINF:-1  tvg-name="Mufasa: The Lion King" tvg-id="Mufasa: The Lion King" tvg-logo="https://filma365.cc/uploads/poster/01-2025/9Llb8NItPk.jpg" group-title="VOD Movies (EN)",Mufasa: The Lion King
+#EXTINF:-1  tvg-name="VOD Movies (EN)" tvg-id="VOD Movies (EN)" tvg-logo="https://filma365.cc/uploads/poster/01-2025/9Llb8NItPk.jpg" group-title="VOD Movies (EN)",Mufasa: The Lion King
 https://be4235.rcr32.ams02.cdn255.com/hls2/01/07751/g02z0j2ntpgj_x/index-v1-a1.m3u8?t=zVX15pqDH54mH25P7kqlE0M3yzuvotjl_SnuGRrQdd4&s=1735931724&e=10800&f=38759426&srv=32&asn=201838&sp=5500&p=
-#EXTINF:-1  tvg-name="Werewolves" tvg-id="Werewolves" tvg-logo="https://filma365.cc/uploads/poster/01-2025/qSNmNqOr7t.jpg" group-title="VOD Movies (EN)",Werewolves
+#EXTINF:-1  tvg-name="VOD Movies (EN)" tvg-id="VOD Movies (EN)" tvg-logo="https://filma365.cc/uploads/poster/01-2025/qSNmNqOr7t.jpg" group-title="VOD Movies (EN)",Werewolves
 https://be6721.rcr72.waw04.cdn255.com/hls2/01/07736/ge40bqirsxr3_x/index-v1-a1.m3u8?t=StU9CFs-l0Y6BkJ1Hn0HlHVNq6sN6hmhGAaqNrOTSRA&s=1735931781&e=10800&f=38681820&srv=03&asn=201838&sp=5500&p=
-#EXTINF:-1  tvg-name="Gladiator II" tvg-id="Gladiator II" tvg-logo="https://filma365.cc/uploads/poster/12-2024/0DurGZWAwb.jpg" group-title="VOD Movies (EN)",Gladiator II
+#EXTINF:-1  tvg-name="VOD Movies (EN)" tvg-id="VOD Movies (EN)" tvg-logo="https://filma365.cc/uploads/poster/12-2024/0DurGZWAwb.jpg" group-title="VOD Movies (EN)",Gladiator II
 https://be4242.rcr52.ams03.cdn255.com/hls2/01/07599/gr098gke713o_x/index-v1-a1.m3u8?t=XkBCPezTpfj6rvFpy-VNAcrulv-juekkm4399TOnKUY&s=1735931915&e=10800&f=37998396&srv=28&asn=201838&sp=5500&p=
-#EXTINF:-1  tvg-name="Borderlands" tvg-id="Borderlands" tvg-logo="https://filma365.cc/uploads/poster/12-2024/q79nkFTRh1.jpg" group-title="VOD Movies (EN)",Borderlands
+#EXTINF:-1  tvg-name="VOD Movies (EN)" tvg-id="VOD Movies (EN)" tvg-logo="https://filma365.cc/uploads/poster/12-2024/q79nkFTRh1.jpg" group-title="VOD Movies (EN)",Borderlands
 https://be4235.rcr32.ams02.cdn255.com/hls2/04/06797/15asldkusjdu_h/index-a1.m3u8?t=I1pXjsLCKJH0A118JFGC5_BCeoSrC05fgSYPlGcU96E&s=1735932016&e=10800&f=33988512&srv=53&asn=201838&sp=4000&p=
-#EXTINF:-1  tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/B9srooj.png" group-title="VOD Movies (EN)",Pluto TV Drama
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1  tvg-name="Pluto TV Fantastic" tvg-logo="https://i.imgur.com/dOfXc5w.png" group-title="VOD Movies (EN)",Pluto TV Fantastic
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-name="VOD Movies (EN)" tvg-id="VOD Movies (EN)" tvg-logo="https://image.tmdb.org/t/p/w780/mubt4bnVfpJ5lBMq93DidEuMkJr.jpg" group-title="VOD Movies (EN)",Sonic the Hedgehog 3 (2024)
+https://tralvoxmoon.xyz/file2/jgbrqyVkAa56Ai3pB9M4vHpN0vgtUmH8SALuFZ0~yXsHThFNMk1AHpH73+6ORTCoC5SY4pYbyYqUl9TCmCFzK9RIgjwt~CrDPBvMdDBzaAKrt+mSBRmXx6hwASIUxn3QzuJ1GG7ef5G~XJo2PrWru7RIvUzlhJAbm5MrxfCB3jA=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
 #EXTINF:-1  tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/j6livg0.png" group-title="VOD Movies (EN)",Pluto TV Romance
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1  tvg-name="Pluto TV Crime Movies" tvg-logo="https://i.imgur.com/PlAQrIb.png" group-title="VOD Movies (EN)",Pluto TV Crime Movies
@@ -11345,3 +11343,5 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d5
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1  tvg-name="Film Detective" tvg-logo="https://i.imgur.com/4aFLH9g.png" group-title="VOD Movies (EN)",Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1  tvg-name="Sonic the Hedgehog 3 (2024)" tvg-id="Sonic the Hedgehog 3 (2024)" tvg-logo="https://i.imgur.com/B9srooj.png" group-title="VOD Movies (EN)",Pluto TV Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
