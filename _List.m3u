@@ -3,8 +3,10 @@
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 #EXTINF:-1  tvg-name="Kanali7.al" tvg-id="Kanali7.al" tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="Shqipëria",Kanali 7
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/rewind-14400.m3u8
-#EXTINF:-1  tvg-name="TV Syri Vision " tvg-id="TV Syri Vision " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/SyriVision_logo_5ac43026a3074_thumb.jpg" group-title="Shqipëria",TV Syri Vision 
+#EXTINF:-1  tvg-name="TV Syri Vision" tvg-id="TV Syri Vision" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/SyriVision_logo_5ac43026a3074_thumb.jpg" group-title="Shqipëria",TV Syri Vision
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-name="Syri TV" tvg-id="Syri TV" tvg-logo="https://bashk.tv/storage/uploads/users/images/channel_logos/55ea20ae81_logo_61c8c3129c141_thumb.jpg" group-title="Shqipëria",Syri TV
+https://stream.syritv.al/SyriTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="Korça +.al" tvg-id="Korça +.al" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
 https://stream.gia.tv/giatv/giatv-korcaplustv/korcaplustv/playlist.m3u8
 #EXTINF:-1  tvg-name="Partizani Channel" tvg-id="Partizani Channel " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/PartizaniChannel_logo_6712f4ecdc217_thumb.jpg" group-title="Shqipëria",Partizani Channel
@@ -79,10 +81,10 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 https://rtvmir.info/MIR/index.m3u8
 #EXTINF:-1  tvg-name="RTV Zik TV Live" tvg-id="RTV Zik TV Live" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RTVZik_logo_5ac430053dbba_thumb.jpg" group-title="Shqipëria",RTV Zik TV Live
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/tracks-v4a1/mono.m3u8
-#EXTINF:-1  tvg-name="Clarity 4K" tvg-id="Clarity 4K" tvg-logo="https://artv.watch/cdn/channel/Clarity4K.us?width=50" group-title="Shqipëria",Clarity 4K
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1  tvg-name="ALBKANALE Live" tvg-id="ALBKANALE Live" tvg-logo="http://albkanale.com/images/appicon.png" group-title="Shqipëria",ALBKANALE Live
-https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1  tvg-name="AYOZAT TV" tvg-id="AYOZAT TV" tvg-logo="https://www.ayozat.com/static/media/ayozat_logo.1961f874e17ff316b09c08ecbbce30d4.svg" group-title="Shqipëria",AYOZAT TV
+https://cdn.rtmp1.vodhosting.com/hls/AyozatTV.m3u8
+#EXTINF:-1  tvg-name="MilitaryChannel" tvg-id="MilitaryChannel" tvg-logo="https://www.ayozat.com/static/media/ayozat_logo.1961f874e17ff316b09c08ecbbce30d4.svg" group-title="Shqipëria",MilitaryChannel
+https://cdn.rtmp1.vodhosting.com/hls/MilitaryChannel.m3u8
 #EXTINF:-1  tvg-name="AlbKanale Music TV" tvg-id="AlbKanale Music TV" tvg-logo="https://albportal.net/images/albkanalemusictv3.png" group-title="Shqipëria",AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1  tvg-name="ALBUK TV LIVE" tvg-id="ALBUK TV LIVE" tvg-logo="https://albuk.tv/wp-content/uploads/2022/06/big-logo-albuk-tv-1024x199.jpg" group-title="Shqipëria",ALBUK TV LIVE
@@ -117,7 +119,7 @@ https://albportal.net/albkanalemusic.m3u8
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1  tvg-name="Euronews Albania Ⓨ" tvg-id="EuronewsAlbania.al" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Shqipëria",Euronews Albania Ⓨ
 https://www.youtube.com/@EuronewsAlbania/live
-#EXTINF:-1  tvg-name="News 24 Ⓢ" tvg-id="News24.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" group-title="Shqipëria",News 24 Ⓢ
+#EXTINF:-1  tvg-name="News 24 Ⓢ" tvg-id="News24.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" group-title="Shqipëria",News 24 HD
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1  tvg-name="Ora News" tvg-id="OraNews.al" tvg-logo="https://i.imgur.com/ILZY5bJ.png" group-title="Shqipëria",Ora News
 https://live1.mediadesk.al/oranews.m3u8
@@ -317,7 +319,7 @@ https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1  tvg-name="48Hours.us" tvg-id="48Hours.us" tvg-logo="https://i.imgur.com/Q7THHhX.png" group-title="General",48 Hours
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176f39e709f160007ec61c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263250-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c0b95c9-8da8-4149-8f7a-ba568202266f
-#EXTINF:-1  tvg-name="4DmasNoticiasTV.py" tvg-id="4DmasNoticiasTV.py" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="General",4DmásNoticias TV 
+#EXTINF:-1  tvg-name="4DmasNoticiasTV.py" tvg-id="4DmasNoticiasTV.py" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="General",4DmásNoticias TV
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1  tvg-name="4E.gr" tvg-id="4E.gr" tvg-logo="https://i.imgur.com/Na0UCV7.png" group-title="General",4E (720p)
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
