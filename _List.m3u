@@ -187,8 +187,8 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8
 https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
 #EXTINF:-1  tvg-name="Fieri TV" tvg-id="Fieri TV " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FieriTv_logo_66d22a142029c_thumb.jpg" group-title="Shqipëria",Fieri TV
 https://fl1002.bozztv.com/ssh101/nakotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="Chaîne Nord Africaine" tvg-id="Chaîne Nord Africaine" tvg-logo="https://i.imgur.com/BB7h5QR.png" group-title="Shqipëria",Chaîne Nord Africaine
-https://live.creacast.com/cna/smil:cna.smil/chunklist.m3u8
+#EXTINF:-1  tvg-name="BRT2" tvg-id="BRT2" tvg-logo="https://i.imgur.com/BB7h5QR.png" group-title="Shqipëria",BRT2
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist_w809853832.m3u8
 #EXTINF:-1  tvg-name="Fashion TV (1080p)" tvg-id="Fashion TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Shqipëria",Fashion TV (1080p)
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="HLDFDTV.kr" tvg-id="HLDFDTV.kr" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="Shqipëria",SBS TJB (1080p) [Not 24/7]
