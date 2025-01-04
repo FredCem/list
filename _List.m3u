@@ -33,6 +33,8 @@ https://ssh101.bozztv.com/ssh101/rtvarberia5/chunks.m3u8
 https://yayin30.haber100.com/live/rtvarberia/chunklist_w365778652.m3u8
 #EXTINF:-1  tvg-name="PanoramaTV.al" tvg-id="PanoramaTV.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png" group-title="Shqipëria",Panorama TV
 http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1  tvg-name="BBVIP1" tvg-id="BBVIP1" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",BBVIP1
+https://hls.robotstreamer.com/tv/9027.m3u8?token=cWF6aW1sYWNpMzZAZ21haWwuY29t
 #EXTINF:-1  tvg-name="Zjarr TV" tvg-id="Zjarr TV" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Shqipëria",Zjarr TV
 https://zjarr.develop.al/hls/playlist.m3u8
 #EXTINF:-1  tvg-name="Zico HD" tvg-id="Zico HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n_HXWpv5iIssTrFY7_a5MdSr9HAKPuq3sjKPBb1ONEAJA=s160-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Zico HD
@@ -79,8 +81,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1  tvg-name="RTV MIR TV" tvg-id="RTV MIR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjM3K1pgXekOuUZl_dpgnFN8pkXHIhKNK_nw&s" group-title="Shqipëria",RTV Mir TV
 https://rtvmir.info/MIR/index.m3u8
-#EXTINF:-1  tvg-name="RTV Zik TV Live" tvg-id="RTV Zik TV Live" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RTVZik_logo_5ac430053dbba_thumb.jpg" group-title="Shqipëria",RTV Zik TV Live
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/tracks-v4a1/mono.m3u8
+#EXTINF:-1  tvg-name="Dielli TV HD" tvg-id="Dielli TV HD" tvg-logo="http://radio.vipotv.com/wp-content/uploads/2023/05/tv-dielli.png" group-title="Shqipëria",Dielli TV HD
+http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:-1  tvg-name="AYOZAT TV" tvg-id="AYOZAT TV" tvg-logo="https://www.ayozat.com/static/media/ayozat_logo.1961f874e17ff316b09c08ecbbce30d4.svg" group-title="Shqipëria",AYOZAT TV
 https://cdn.rtmp1.vodhosting.com/hls/AyozatTV.m3u8
 #EXTINF:-1  tvg-name="MilitaryChannel" tvg-id="MilitaryChannel" tvg-logo="https://www.ayozat.com/static/media/ayozat_logo.1961f874e17ff316b09c08ecbbce30d4.svg" group-title="Shqipëria",MilitaryChannel
@@ -130,7 +132,7 @@ https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1  tvg-name="Syri" tvg-id="Syri.al" tvg-logo="https://i.imgur.com/4zVyj1M.png" group-title="Shqipëria",Syri
 https://stream.syritv.al/SyriTV/index.m3u8
 #EXTINF:-1  tvg-name="Top News Ⓣ" tvg-id="TopNews.al" tvg-logo="https://i.imgur.com/tBAXkOW.png" group-title="Shqipëria",Top News Ⓣ
-https://www.twitch.tv/topnewsal
+https://usher.ttvnw.net/api/channel/hls/topmedia_topnews.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMTdkYjAzYWEtYTY0Yi00NmQ4LTk4MzEtY2M1ZGVjMTQ4NTVlIn0%3D&allow_source=true&browser_family=chrome&browser_version=131.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=3036331&parent_domains=twitchplayer&platform=web&play_session_id=fdb8f56856c587a0d3585b698d8cb87a&player_backend=mediaplayer&player_version=1.35.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=ae8398a427249f087a84db6102598970fcd705b7&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22topmedia_topnews%22%2C%22channel_id%22%3A216850353%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22b38cd038aa2390bb%22%2C%22expires%22%3A1736030664%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22185.241.166.85%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:-1  tvg-name="Tropoja" tvg-id="TropojaTelevizion.al" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Shqipëria",Tropoja
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="Vizion Plus" tvg-id="VizionPlus.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="Shqipëria",Vizion Plus
@@ -147,8 +149,6 @@ https://glb.bozztv.com/glb/ssh101/atvchicago/playlist.m3u8
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 #EXTINF:-1  tvg-name="BBC World News" tvg-id="BBC World News" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="Shqipëria",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
-#EXTINF:-1  tvg-name="BBVIP1" tvg-id="BBVIP1" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",BBVIP1
-https://hls.robotstreamer.com/tv/9027.m3u8?token=cWF6aW1sYWNpMzZAZ21haWwuY29t
 #EXTINF:-1  tvg-name="Beach TV - 30A" tvg-id="Beach TV - 30A" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="Shqipëria",Beach TV - 30A
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1  tvg-name="Beach TV - Panama City" tvg-id="Beach TV - Panama City" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="Shqipëria",Beach TV - Panama City
