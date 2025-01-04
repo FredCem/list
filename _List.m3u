@@ -189,12 +189,16 @@ https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
 https://fl1002.bozztv.com/ssh101/nakotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="BRT2" tvg-id="BRT2" tvg-logo="https://i.imgur.com/BB7h5QR.png" group-title="Shqipëria",BRT2
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist_w809853832.m3u8
+#EXTINF:-1  tvg-name="Kung Fu Movies" tvg-id="Kung Fu Movies" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/v_220701210914_v1a90/v_220701210914_v1a90_thumbsV2_jpg.webp?cache=1692252698_1735332246" group-title="Shqipëria",Kung Fu Movies
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/052a6e5f-d7a2-4a93-a425-8780f1f8a4de/4.m3u8
+#EXTINF:-1  tvg-name="a-z Action" tvg-id="a-z Action" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/v_221204080444_va7c4/v_221204080444_va7c4_thumbsV2_jpg.webp?cache=1696859371_1735332246" group-title="Shqipëria",a-z Action
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/3bbfa210-3c03-4eb2-bd72-f95e5cbab34a/4.m3u8
+#EXTINF:-1  tvg-name="a-z Asian Flix" tvg-id="a-z Asian Flix" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/v_221204075951_v3e50/v_221204075951_v3e50_thumbsV2_jpg.webp?cache=1696859371_1735332247" group-title="Shqipëria",a-z Asian Flix
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/4d68ec3c-d9b3-4fe9-adda-f14b9bf2220f/4.m3u8
 #EXTINF:-1  tvg-name="Fashion TV (1080p)" tvg-id="Fashion TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Shqipëria",Fashion TV (1080p)
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="HLDFDTV.kr" tvg-id="HLDFDTV.kr" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="Shqipëria",SBS TJB (1080p) [Not 24/7]
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1  tvg-name="HLDRDTV.kr" tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="Shqipëria",SBS CJB (540p) [Not 24/7]
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1  tvg-name="AbsintheTV" tvg-id="AbsintheTV" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/linkvideo_241224200742_v6487/linkvideo_241224200742_v6487_thumbsV2_jpg.webp?cache=1735100391_1735332246" group-title="Shqipëria",AbsintheTV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/9b61d69a-3892-438d-a94d-751c64f74fea/4.m3u8
 #EXTINF:-1  tvg-name="News 24" tvg-id="News 24" tvg-logo="https://www.news24.al/wp-content/uploads/2024/01/logo-256-70.png" group-title="Shqipëria",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1  tvg-name="ORA News (720p)" tvg-id="ORA News (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png" group-title="Shqipëria",ORA News (720p)
@@ -11291,3 +11295,5 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1  tvg-name="Sonic the Hedgehog 3 (2024)" tvg-id="Sonic the Hedgehog 3 (2024)" tvg-logo="https://i.imgur.com/B9srooj.png" group-title="VOD Movies (EN)",Pluto TV Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-name="AbsintheTV" tvg-id="AbsintheTV" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="Shqipëria",AbsintheTV
+http://1.245.74.5:1935/live/tv/.m3u8
