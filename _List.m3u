@@ -137,8 +137,10 @@ https://usher.ttvnw.net/api/channel/hls/topmedia_topnews.m3u8?acmb=eyJBcHBWZXJza
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="Vizion Plus" tvg-id="VizionPlus.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="Shqipëria",Vizion Plus
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
-#EXTINF:-1  tvg-name="Arirang" tvg-id="Arirang" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="Shqipëria",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="In Tv Folk Mk" tvg-id="In Tv Folk Mk" tvg-logo="http://radio.vipotv.com/wp-content/uploads/2023/12/In-Tv-Folk-Mk-live-vipotv-macedonia-min.png" group-title="Shqipëria",In Tv Folk Mk
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1  tvg-name="MyTV Channel" tvg-id="MyTV Channel" tvg-logo="http://radio.vipotv.com/wp-content/uploads/2023/05/mytv-channel-live-vipotv.png" group-title="Shqipëria",MyTV Channel
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
 #EXTINF:-1  tvg-name="Arta News Live" tvg-id="Arta News Live" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/yt1q1x/thumbnails/retina.jpg" group-title="Shqipëria",Arta News Direkt
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 #EXTINF:-1  tvg-name="Atlanta Channel" tvg-id="Atlanta Channel" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="Shqipëria",Atlanta Channel
