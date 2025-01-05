@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-name="VizionPlus.al" tvg-id="VizionPlus.al" tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria",Vizion Plus
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+#EXTINF:-1  tvg-name="KlanHD.al" tvg-id="Klan.HD.al" tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria",KLAN HD
+http://520258745.dynahost.ovh:80/abdelouahi2087/215719145837/99079
 #EXTINF:-1  tvg-name="Kanali7.al" tvg-id="Kanali7.al" tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="Shqipëria",Kanali 7
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/rewind-14400.m3u8
 #EXTINF:-1  tvg-name="TV Syri Vision" tvg-id="TV Syri Vision" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/SyriVision_logo_5ac43026a3074_thumb.jpg" group-title="Shqipëria",TV Syri Vision
@@ -115,8 +117,8 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 https://dai2.xumo.com/xumocdn/p=roku&rdid=38477a90-292c-585f-9529-4b8a68a221ab&coppa=false&is_roku_lat=1&platform=web&content=6da9bbae6fca51b290bd1dadbbcc33e4&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=conde_nast&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&studio_id=conde_nast&channelstore=us&bmodel=Dbm1&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8
 #EXTINF:-1  tvg-name="ARI TV - Zvicer" tvg-id="ARI TV - Zvicer" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Shqipëria",ARI TV - Zvicer
 http://stream.logic-ks.net:6969/live/ari/tv/1.ts
-#EXTINF:-1  tvg-name="Kanali 7 Ⓢ" tvg-id="Kanali7.al" tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="Shqipëria",Kanali 7 Ⓢ
-https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1  tvg-name="SkyShowtime 1 4K" tvg-id="SkyShowtime 1 4K" tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="Shqipëria",SkyShowtime 1 4K
+http://520258745.dynahost.ovh:80/abdelouahi2087/215719145837/204177
 #EXTINF:-1  tvg-name="A2 CNN Albania" tvg-id="A2CNN.al" tvg-logo="https://i.imgur.com/TgO3Lzi.png" group-title="Shqipëria",A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="ABC News Albania Ⓣ" tvg-id="ABCNewsAlbania.al" tvg-logo="https://i.imgur.com/aObcudw.png" group-title="Shqipëria",ABC News Albania Ⓣ
