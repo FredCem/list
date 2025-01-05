@@ -41,6 +41,8 @@ https://zjarr.develop.al/hls/playlist.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 #EXTINF:-1  tvg-name="MBC 2 HD" tvg-id="MBC 2 HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC 2 HD
 http://520258745.dynahost.ovh:80/abdelouahi2087/215719145837/74936
+#EXTINF:-1  tvg-name="MBC 2 HD" tvg-id="MBC 2 HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC 2 HD
+http://520258745.dynahost.ovh:80/abdelouahi2087/215719145837/120861
 #EXTINF:-1  tvg-name="MBC ACTION HD" tvg-id="MBC ACTION HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC ACTION HD
 http://520258745.dynahost.ovh:80/abdelouahi2087/215719145837/63591
 #EXTINF:-1  tvg-name="MBC MAX HD" tvg-id="MBC MAX HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC MAX HD
