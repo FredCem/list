@@ -199,6 +199,10 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/4c422dcf-5c35-4b7c-80b8-fca1b491f897/4.m3u8
 #EXTINF:-1  tvg-name="Fashion TV (1080p)" tvg-id="Fashion TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Shqipëria",Fashion TV (1080p)
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Fancy A Movie" tvg-id="Fancy A Movie" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/linkvideo_240727125744_vc2db/linkvideo_240727125744_vc2db_thumbsV2_jpg.webp?cache=1722122977_1735332246" group-title="Shqipëria",Fancy A Movie
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/2f7843f4-8499-46f4-a779-1f3b2b72ca25/4.m3u8
+#EXTINF:-1  tvg-name="AMPD TV" tvg-id="AMPD TV" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/linkvideo_241224174336_v94f3/linkvideo_241224174336_v94f3_thumbsV2_jpg.webp?cache=1735099056_1735332246" group-title="Shqipëria",AMPD TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/fbaf0ad6-ad10-41d0-bec3-593d89571bf9/4.m3u8
 #EXTINF:-1  tvg-name="AbsintheTV" tvg-id="AbsintheTV" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/linkvideo_241224200742_v6487/linkvideo_241224200742_v6487_thumbsV2_jpg.webp?cache=1735100391_1735332246" group-title="Shqipëria",AbsintheTV
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/9b61d69a-3892-438d-a94d-751c64f74fea/4.m3u8
 #EXTINF:-1  tvg-name="Skull Bound TV" tvg-id="Skull Bound TV" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/v_221204080830_vaac1/v_221204080830_vaac1_thumbsV2_jpg.webp?cache=1696859371_1735332246" group-title="Shqipëria",Skull Bound TV
