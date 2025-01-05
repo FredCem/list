@@ -3849,32 +3849,8 @@ https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8
 https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="IFMTV.tn" tvg-id="IFMTV.tn" tvg-logo="https://i.imgur.com/9oEaZ9Y.png" group-title="Shqipëria",IFM TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
-#EXTINF:-1  tvg-name="IglesiaDelCamino.gt" tvg-id="IglesiaDelCamino.gt" tvg-logo="https://i.imgur.com/vHfb3Z4.png" group-title="Shqipëria",Iglesia Del Camino (480p) [Not 24/7]
-http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
-#EXTINF:-1  tvg-name="IIPCTV.ca" tvg-id="IIPCTV.ca" tvg-logo="https://i.imgur.com/mIih39Y.png" group-title="Shqipëria",IIPC TV (480p) [Geo-blocked]
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="IlBancodeiPugni.it" tvg-id="IlBancodeiPugni.it" tvg-logo="https://i.imgur.com/NZDUlME.png" group-title="Shqipëria",Il Banco dei Pugni Italy (720p)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1  tvg-name="ILCECanal15SummaSaberes.mx" tvg-id="ILCECanal15SummaSaberes.mx" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Shqipëria",Canal 15 ILCE Summa Sabres (720p)
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-#EXTINF:-1  tvg-name="ILTV.fr" tvg-id="ILTV.fr" tvg-logo="https://i.imgur.com/fVhrJHK.png" group-title="Shqipëria",ILTV (720p)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="ImagenFM1051.hn" tvg-id="ImagenFM1051.hn" tvg-logo="https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg" group-title="Shqipëria",Radio Imagen 105.1 FM (720p) [Not 24/7]
-https://streaming.imagenfm105-1.com/hls/stream.m3u8
-#EXTINF:-1  tvg-name="ImagenTV.mx" tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="Shqipëria",Imagen TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 #EXTINF:-1  tvg-name="ImagenUniversalTV.do" tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Shqipëria",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1  tvg-name="ImamAliTV.iq" tvg-id="ImamAliTV.iq" tvg-logo="https://i.imgur.com/3ljuok7.png" group-title="Shqipëria",Imam Ali TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCiE5ev_voWCwuIKfc0k2hOA.m3u8
-#EXTINF:-1  tvg-name="ImamHusseinTV1.iq" tvg-id="ImamHusseinTV1.iq" tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="Shqipëria",Imam Hussein TV 1 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih1.m3u8
-#EXTINF:-1  tvg-name="ImamHusseinTV2.iq" tvg-id="ImamHusseinTV2.iq" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Shqipëria",Imam Hussein TV 2 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:-1  tvg-name="ImamHusseinTV3.iq" tvg-id="ImamHusseinTV3.iq" tvg-logo="https://i.imgur.com/emQRHQZ.png" group-title="Shqipëria",Imam Hussein TV 3 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:-1  tvg-name="ImamHusseinTV4.iq" tvg-id="ImamHusseinTV4.iq" tvg-logo="https://i.imgur.com/0UYcylY.png" group-title="Shqipëria",Imam Hussein TV 4 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1  tvg-name="ImediTV.ge" tvg-id="ImediTV.ge" tvg-logo="https://i.imgur.com/94hNyxZ.png" group-title="Shqipëria",Imedi TV (1080p)
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1  tvg-name="ImpactoTelevision.pe" tvg-id="ImpactoTelevision.pe" tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="Shqipëria",Impacto Televisión (360p) [Not 24/7]
