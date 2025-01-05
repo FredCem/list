@@ -3883,18 +3883,10 @@ https://ythls.armelin.one/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="InfinitaTV.ec" tvg-id="InfinitaTV.ec" tvg-logo="https://i.imgur.com/1nHxdkR.png" group-title="Shqipëria",Infinita TV (1080p)
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
-#EXTINF:-1  tvg-name="InfoWars.us" tvg-id="InfoWars.us" tvg-logo="https://i.imgur.com/a7h9epj.png" group-title="Shqipëria",InfoWars Network (1080p)
-https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
-#EXTINF:-1  tvg-name="IngenioFM.ar" tvg-id="IngenioFM.ar" tvg-logo="https://yt3.ggpht.com/8Mqa9VCxk9ijWdeq2Y7hfMn6953MyVo8IQ8qCVpbxRMTYMfC8REhe75PcDlF2ntsyldJFvJT=s400-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Ingenio FM (720p) [Not 24/7]
-https://panel.dattalive.com/8064/8064/playlist.m3u8
-#EXTINF:-1  tvg-name="INH24x7.in" tvg-id="INH24x7.in" tvg-logo="https://i.imgur.com/Es3QiVx.png" group-title="Shqipëria",INH 24x7 (360p)
-https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
 #EXTINF:-1  tvg-name="InkMaster.us" tvg-id="InkMaster.us" tvg-logo="https://i.imgur.com/DiBojYh.png" group-title="Shqipëria",Ink Master
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60807fd5db701400078219c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ebedec3d-689a-4150-a2fd-4e2e34eb982c
 #EXTINF:-1  tvg-name="INPOTV.co" tvg-id="INPOTV.co" tvg-logo="https://i.imgur.com/m7IRKFH.jpg" group-title="Shqipëria",INPO TV (720p)
 https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
-#EXTINF:-1  tvg-name="InsightTV.nl" tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Shqipëria",Insight TV (1080p)
-https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="InspectorGadget.de" tvg-id="InspectorGadget.de" tvg-logo="https://i.imgur.com/ArXd1xM.png" group-title="Shqipëria",Inspector Gadget
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc2d1ce10f0b0009e6cf9e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f15-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=63479ffd-d7d9-473f-9f9f-753a49f5d5d1
 #EXTINF:-1  tvg-name="InspiraTV.id" tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="Shqipëria",Inspira TV (720p) [Not 24/7]
