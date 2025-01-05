@@ -11319,5 +11319,5 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1  tvg-name="Sonic the Hedgehog 3 (2024)" tvg-id="Sonic the Hedgehog 3 (2024)" tvg-logo="https://i.imgur.com/B9srooj.png" group-title="VOD Movies (EN)",Pluto TV Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1  tvg-name="AbsintheTV" tvg-id="AbsintheTV" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="Shqipëria",AbsintheTV
-http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1  tvg-name="Wicked Part I 2024 English" tvg-id="Wicked Part I 2024 English" tvg-logo="https://imgurworld.top/images/2024/11/25/06fc8f18396efd993e98299267be2779.jpg" group-title="VOD Movies (EN)",Wicked Part I 2024 English
+https://7f12638xuzfg.premilkyway.com/hls2/01/07631/ykng2g3sx15s_n/index-v1-a1.m3u8?t=thNh5zpbu9tNd4FlpxJz-PE2byWh-feNT7gbxCcMgfs&s=1736037323&e=129600&f=38157428&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=201838
