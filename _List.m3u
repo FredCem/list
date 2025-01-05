@@ -217,6 +217,8 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/75cb8505-0606-473f-9afe-31bd5180df4e/2.m3u8
 #EXTINF:-1  tvg-name="Urban Action Channel" tvg-id="Urban Action Channel" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/v_220630171139_v3fa1/v_220630171139_v3fa1_thumbsV2_jpg.webp?cache=1692239353_1735332246" group-title="Shqipëria",Urban Action Channel
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/cc975096-3008-4bbd-a3d1-1f3e5c3a7138/4.m3u8
+#EXTINF:-1  tvg-name="Old West TV" tvg-id="Old West TV" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/v_230414151320_vadef/v_230414151320_vadef_thumbsV2_jpg.webp?cache=1696859370_1735332247" group-title="Shqipëria",Old West TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/bf0a2175-911b-45da-9c19-13c9f1696779/4.m3u8
 #EXTINF:-1  tvg-name="News 24" tvg-id="News 24" tvg-logo="https://www.news24.al/wp-content/uploads/2024/01/logo-256-70.png" group-title="Shqipëria",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1  tvg-name="ORA News (720p)" tvg-id="ORA News (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png" group-title="Shqipëria",ORA News (720p)
