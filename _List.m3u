@@ -187,10 +187,14 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8
 https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
 #EXTINF:-1  tvg-name="Fieri TV" tvg-id="Fieri TV " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FieriTv_logo_66d22a142029c_thumb.jpg" group-title="Shqipëria",Fieri TV
 https://fl1002.bozztv.com/ssh101/nakotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="BRT2" tvg-id="BRT2" tvg-logo="https://i.imgur.com/BB7h5QR.png" group-title="Shqipëria",BRT2
+#EXTINF:-1  tvg-name="BRT2" tvg-id="BRT2" tvg-logo="https://www.oklivetv.com/wp-content/uploads/media/8abc3d503ed77bed56fbe43e59178939.jpeg" group-title="Shqipëria",BRT2
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist_w809853832.m3u8
+#EXTINF:-1  tvg-name="Dark Matter TV" tvg-id="Dark Matter TV" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/v_240221175901_v2e88/v_240221175901_v2e88_thumbsV2_jpg.webp?cache=1708727982_1735332247" group-title="Shqipëria",Dark Matter TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/ba7e7def-2151-4e40-806e-f6d0b2dcdce2/4.m3u8
 #EXTINF:-1  tvg-name="Kung Fu Movies" tvg-id="Kung Fu Movies" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/v_220701210914_v1a90/v_220701210914_v1a90_thumbsV2_jpg.webp?cache=1692252698_1735332246" group-title="Shqipëria",Kung Fu Movies
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/052a6e5f-d7a2-4a93-a425-8780f1f8a4de/4.m3u8
+#EXTINF:-1  tvg-name="Hollywood Classic Movies" tvg-id="Hollywood Classic Movies" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/v_220924093631_v5ddb/v_220924093631_v5ddb_thumbsV2_jpg.webp?cache=1696859449_1735332246" group-title="Shqipëria",Hollywood Classic Movies
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7e9ba3f5-5e84-465b-9d7c-067bae80de90/4.m3u8
 #EXTINF:-1  tvg-name="a-z Action" tvg-id="a-z Action" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/v_221204080444_va7c4/v_221204080444_va7c4_thumbsV2_jpg.webp?cache=1696859371_1735332246" group-title="Shqipëria",a-z Action
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/3bbfa210-3c03-4eb2-bd72-f95e5cbab34a/4.m3u8
 #EXTINF:-1  tvg-name="a-z Asian Flix" tvg-id="a-z Asian Flix" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/v_221204075951_v3e50/v_221204075951_v3e50_thumbsV2_jpg.webp?cache=1696859371_1735332247" group-title="Shqipëria",a-z Asian Flix
