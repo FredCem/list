@@ -38,7 +38,9 @@ http://198.244.188.94/panorama/livestream/playlist.m3u8
 #EXTINF:-1  tvg-name="BBVIP1" tvg-id="BBVIP1" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",BBVIP1
 https://hls.robotstreamer.com/tv/9027.m3u8?token=cWF6aW1sYWNpMzZAZ21haWwuY29t
 #EXTINF:-1  tvg-name="BBVIP2" tvg-id="BBVIP2" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",BBVIP2
-https://kanali1.livetrasmiterstoday.org/hls/0/stream.m3u8?cachebust=b4cb2b83
+https://5fcdcb63d0591c4e4cd8b99519a56968.angelthump.com/hls/MjAyNS0wMS0xMlQxODoxNDozMC40OTlaZ3Vsb2Rlank=_gulodejy/index.m3u8
+#EXTINF:-1  tvg-name="BBVIP2" tvg-id="BBVIP2" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",BBVIP2
+https://hls.robotstreamer.com/tv/9027.m3u8?token=aXQuZm9uZGliZXNhQGdtYWlsLmNvbQ==
 #EXTINF:-1  tvg-name="Zjarr TV" tvg-id="Zjarr TV" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Shqipëria",Zjarr TV
 https://zjarr.develop.al/hls/playlist.m3u8
 #EXTINF:-1  tvg-name="Zico HD" tvg-id="Zico HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n_HXWpv5iIssTrFY7_a5MdSr9HAKPuq3sjKPBb1ONEAJA=s160-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Zico HD
