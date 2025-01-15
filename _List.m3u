@@ -48,11 +48,11 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 #EXTINF:-1  tvg-name="MBC 2 HD" tvg-id="MBC 2 HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC 2 HD
 http://520258745.dynahost.ovh:80/abdelouahi2087/215719145837/74936
 #EXTINF:-1  tvg-name="MBC 2 HD" tvg-id="MBC 2 HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC 2 HD
-http://520258745.dynahost.ovh:80/abdelouahi2087/215719145837/120861
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_3.m3u8
 #EXTINF:-1  tvg-name="MBC ACTION HD" tvg-id="MBC ACTION HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC ACTION HD
 http://520258745.dynahost.ovh:80/abdelouahi2087/215719145837/63591
 #EXTINF:-1  tvg-name="MBC MAX HD" tvg-id="MBC MAX HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC MAX HD
-http://520258745.dynahost.ovh:80/abdelouahi2087/215719145837/74939
+https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
 #EXTINF:-1  tvg-name="T7 - Drejtpërdrejt" tvg-id="T7 - Drejtpërdrejt" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/t7.jpg" group-title="Shqipëria",T7 - Drejtpërdrejt
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/rewind-14400.m3u8
 #EXTINF:-1  tvg-name="ABCNewsLive.al" tvg-id="ABCNewsLive.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="Shqipëria",ABC News Live
