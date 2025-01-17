@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-name="VizionPlus.al" tvg-id="VizionPlus.al" tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria",Vizion Plus
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
-#EXTINF:-1  tvg-name="KlanHD.al" tvg-id="Klan.HD.al" tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria",KLAN HD
-http://520258745.dynahost.ovh:80/abdelouahi2087/215719145837/99079
+#EXTINF:-1  tvg-name="Folklorit TV" tvg-id="Folklorit TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FolkloritTv_logo_65c50ad860458_thumb.jpg" group-title="Shqipëria",Folklorit TV
+https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
 #EXTINF:-1  tvg-name="Kanali7.al" tvg-id="Kanali7.al" tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="Shqipëria",Kanali 7
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/rewind-14400.m3u8
 #EXTINF:-1  tvg-name="TV Syri Vision" tvg-id="TV Syri Vision" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/SyriVision_logo_5ac43026a3074_thumb.jpg" group-title="Shqipëria",TV Syri Vision
