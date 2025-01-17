@@ -45,13 +45,13 @@ https://hls.robotstreamer.com/tv/9027.m3u8?token=aXQuZm9uZGliZXNhQGdtYWlsLmNvbQ=
 https://zjarr.develop.al/hls/playlist.m3u8
 #EXTINF:-1  tvg-name="Zico HD" tvg-id="Zico HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n_HXWpv5iIssTrFY7_a5MdSr9HAKPuq3sjKPBb1ONEAJA=s160-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Zico HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
-#EXTINF:-1  tvg-name="MBC 2 HD" tvg-id="MBC 2 HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC 2 HD
-http://520258745.dynahost.ovh:80/abdelouahi2087/215719145837/74936
+#EXTINF:-1  tvg-name="MBC 2 HD" tvg-id="MBC 2 HD" tvg-logo="https://distrokid.imgix.net/http%3A%2F%2Fs3.amazonaws.com%2Fgather.fandalism.com%2Favatar-1831CD23-BF3A-4684-A90ABC7B76139A03.png?fm=jpg&q=75&w=600&s=04736922761418c5ddc572e4a747aa4c" group-title="Shqipëria",TV Kopliku Live
+https://t2.tvmak.com/tv/TVKOPLIKU.m3u8?oGzSUw8C3H
 #EXTINF:-1  tvg-name="MBC 2 HD" tvg-id="MBC 2 HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC 2 HD
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_3.m3u8
 #EXTINF:-1  tvg-name="MBC ACTION HD" tvg-id="MBC ACTION HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC ACTION HD
 http://520258745.dynahost.ovh:80/abdelouahi2087/215719145837/63591
-#EXTINF:-1  tvg-name="MBC MAX HD" tvg-id="MBC MAX HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC MAX HD
+#EXTINF:-1  tvg-name="MBC MAX HD" tvg-id="MBC MAX HD" tvg-logo="https://artv.watch/cdn/channel/SonyMovies.us?width=50" group-title="Shqipëria",MBC 5 HD
 https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
 #EXTINF:-1  tvg-name="T7 - Drejtpërdrejt" tvg-id="T7 - Drejtpërdrejt" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/t7.jpg" group-title="Shqipëria",T7 - Drejtpërdrejt
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/rewind-14400.m3u8
