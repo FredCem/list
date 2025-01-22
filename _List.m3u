@@ -31,13 +31,13 @@ https://gjvideo-live-xk.gjirafa.net/gjvideo-livestream/o9w-k53-7pb-m78/index.m3u
 https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
 #EXTINF:-1  tvg-name="Rtv Arberia Film" tvg-id="Rtv Arberia Film" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg" group-title="Shqipëria",Rtv Arberia Film
 https://ssh101.bozztv.com/ssh101/rtvarberia5/chunks.m3u8
-#EXTINF:-1  tvg-id="Tv Prizreni" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvPrizreni_logo_6472a11e028a7_thumb.jpg",Tv Prizreni
+#EXTINF:-1  tvg-name="Tv Prizreni" tvg-id="Tv Prizreni" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvPrizreni_logo_6472a11e028a7_thumb.jpg" group-title="Shqipëria",Tv Prizreni
 https://bashk.tv/hls/index.m3u8
 #EXTINF:-1  tvg-name="Tv Arberia 1" tvg-id="Tv Arberia 1" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg" group-title="Shqipëria",Tv Arberia 1
 https://yayin30.haber100.com/live/rtvarberia/chunklist_w365778652.m3u8
 #EXTINF:-1  tvg-name="PanoramaTV.al" tvg-id="PanoramaTV.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png" group-title="Shqipëria",Panorama TV
 http://198.244.188.94/panorama/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shqipëria",00s Replay
+#EXTINF:-1  tvg-name="00s Replay" tvg-id="00s Replay" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/9/9c/00sReplay.svg/revision/latest?cb=20220914001115" group-title="Shqipëria",00s Replay
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
 #EXTINF:-1  tvg-name="BBVIP1" tvg-id="BBVIP1" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",BBVIP1
 https://ams1.angelthump.com/hls/MjAyNS0wMS0xNFQxNjozMTowOS42ODBaM3dsZGdpb20ya2o1_3wldgiom2kj5/index.m3u8
