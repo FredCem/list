@@ -40,7 +40,7 @@ http://198.244.188.94/panorama/livestream/playlist.m3u8
 #EXTINF:-1  tvg-name="00s Replay" tvg-id="00s Replay" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/9/9c/00sReplay.svg/revision/latest?cb=20220914001115" group-title="Shqipëria",00s Replay
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
 #EXTINF:-1  tvg-name="BBVIP1" tvg-id="BBVIP1" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",BBVIP1
-https://ams1.angelthump.com/hls/MjAyNS0wMS0xNFQxNjozMTowOS42ODBaM3dsZGdpb20ya2o1_3wldgiom2kj5/index.m3u8
+https://kanali1.livetrasmiterstoday.org/hls/0/stream.m3u8?cachebust=7656c0dd
 #EXTINF:-1  tvg-name="BBVIP2" tvg-id="BBVIP2" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",BBVIP2
 https://b2.kanalet.xyz/hls/212283.m3u8
 #EXTINF:-1  tvg-name="BBVIP2" tvg-id="BBVIP2" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",BBVIP2
