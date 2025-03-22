@@ -423,8 +423,6 @@ https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/play
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1  tvg-name="TheCraftStore.uk" tvg-id="TheCraftStore.uk" tvg-logo="https://i.imgur.com/Nf0vaAF.png" group-title="Shqipëria",The Craft Store (720p)
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
-#EXTINF:-1  tvg-name="Create & Craft" tvg-id="CreateandCraft.uk" tvg-logo="https://i.imgur.com/n65sk4L.png" group-title="UK",Create & Craft
-https://live-hochanda.simplestreamcdn.com/live2/hochanda/bitrate1.isml/live.m3u8
 #EXTINF:-1  tvg-name="Trivision36.cr" tvg-id="Trivision36.cr" tvg-logo="https://i.imgur.com/aadWnIx.jpg" group-title="Shqipëria",Trivisión 36 (1080p)
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 #EXTINF:-1  tvg-name="Bloomberg Television (Opt-1)" tvg-id="Bloomberg Television (Opt-1)" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="Shqipëria",Bloomberg Television (Opt-1)
