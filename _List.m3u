@@ -639,8 +639,6 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1  tvg-name="TVSuldeMinas.br" tvg-id="TVSuldeMinas.br" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="Shqipëria",TV Sul de Minas (720p)
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:-1  tvg-name="TVSurCanal9.cr" tvg-id="TVSurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="Shqipëria",TV Sur Canal 9 (620p) [Not 24/7]
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1  tvg-name="TV Syri Vision" tvg-id="TV Syri Vision" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/SyriVision_logo_5ac43026a3074_thumb.jpg" group-title="Shqipëria",TV Syri Vision
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/tracks-v3a1/mono.m3u8
 #EXTINF:-1  tvg-name="TV5Monde Europe (1080p)" tvg-id="TV5Monde Europe (1080p)" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="Shqipëria",TV5Monde Europe (1080p)
@@ -693,5 +691,5 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 https://zjarr.develop.al/hls/playlist.m3u8
 #EXTINF:-1  tvg-name="Tivikom.ru" tvg-id="Tivikom.ru" tvg-logo="https://i.imgur.com/qcJ4EBl.png" group-title="Shqipëria",Тивиком (Улан-Удэ) (1080p) [Not 24/7]
 http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
-#EXTINF:-1  tvg-name="TKR.ru" tvg-id="TKR.ru" tvg-logo="https://i.imgur.com/VqtPB7L.png" group-title="Shqipëria",ТКР (Рязань) (1080p) [Not 24/7]
-http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1  tvg-name="Canal 1" tvg-id="Canal 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJ7oxBFQJMbgsSV0UOtoJ6ZomFFsv90v8OU16Grk44-rJsYsLy7ddavE&usqp=CAE&s" group-title="Shqipëria",Canal 1
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
