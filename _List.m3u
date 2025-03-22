@@ -477,8 +477,6 @@ https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1  tvg-name="13T.cl" tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Shqipëria",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1  tvg-name="13C.cl" tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="Shqipëria",13C (1080p)
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1  tvg-name="13Festival.cl" tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Shqipëria",13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1  tvg-name="13P.cl" tvg-id="13P.cl" tvg-logo="https://i.imgur.com/R6D228s.png" group-title="Shqipëria",13 Prime (720p)
@@ -499,14 +497,10 @@ https://protokolldns.xyz/fxmediaweb5548/tracks-v1a1/mono.m3u8
 https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 #EXTINF:-1  tvg-name="TimesNowNavbharat.in" tvg-id="TimesNowNavbharat.in" tvg-logo="https://i.imgur.com/kSCozXg.png" group-title="Shqipëria",Times Now Navbharat [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
-#EXTINF:-1  tvg-name="TheGuardian.uk" tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="Shqipëria",The Guardian
-https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="ThessaliaTV.gr" tvg-id="ThessaliaTV.gr" tvg-logo="https://i.imgur.com/BqPnIiy.png" group-title="Shqipëria",Thessalia TV (720p) [Not 24/7]
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/thessaliatv.m3u8
 #EXTINF:-1  tvg-name="TMC.fr" tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="Shqipëria",TMC (720p) [Geo-blocked]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1  tvg-name="4DmasNoticiasTV.py" tvg-id="4DmasNoticiasTV.py" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="Shqipëria",4DmásNoticias TV
-https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1  tvg-name="Trece.py" tvg-id="Trece.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/512px-Logotrececanal.png" group-title="Shqipëria",Trece Paraguay (1080p) [Not 24/7]
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 #EXTINF:-1  tvg-name="AccessSacramentoChannel17.us" tvg-id="AccessSacramentoChannel17.us" tvg-logo="https://i.imgur.com/j0UC4ke.png" group-title="Shqipëria",Access Sacramento Channel 17
@@ -562,7 +556,7 @@ https://stream.a1mediagroep.nl/hls/a1tv.m3u8
 #EXTINF:-1  tvg-name="ToonGoggles.us" tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Shqipëria",Toon Goggles en Espanol
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1  tvg-name="Korça +.al" tvg-id="Korça +.al" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
-https://stream.gia.tv/giatv/giatv-korcaplustv/korcaplustv/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/korcaplus/playlist.m3u8
 #EXTINF:-1  tvg-name="Trece.co" tvg-id="Trece.co" tvg-logo="https://i.imgur.com/nEBsIlf.png" group-title="Shqipëria",Trece (720p)
 https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="TrecePlus.co" tvg-id="TrecePlus.co" tvg-logo="https://i.imgur.com/jySvMsw.png" group-title="Shqipëria",Trece + (720p)
