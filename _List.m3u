@@ -347,8 +347,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c49
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1  tvg-name="Pro 1" tvg-id="Pro 1 " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/Pr1_logo_665645426008a_thumb.jpg" group-title="Shqipëria",Pro 1
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/tracks-v3a1/mono.m3u8
-#EXTINF:-1  tvg-name="Report TV" tvg-id="Report TV" tvg-logo="https://i.imgur.com/C9lM1KP.png" group-title="Shqipëria",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1  tvg-name="Report TV" tvg-id="ReportTV.al" tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="Shqipëria",Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1  tvg-name="RTK.al" tvg-id="RTK.al" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria",RTK 1 TV
@@ -359,8 +357,6 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/g7t-zdp-y08-eig/index.
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1  tvg-name="RTK.al" tvg-id="RTK.al" tvg-logo="https://www.rtklive.com/sq/images/logo.png" group-title="Shqipëria",RTK 4 TV
 https://gjvideo-live-xk.gjirafa.net/gjvideo-livestream/o9w-k53-7pb-m78/index.m3u8
-#EXTINF:-1  tvg-name="TodayRadio.lu" tvg-id="TodayRadio.lu" tvg-logo="https://i.imgur.com/O1c6wpt.png" group-title="Shqipëria",RTL Today Radio (720p)
-https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 #EXTINF:-1  tvg-name="Rtv Arberia Film" tvg-id="Rtv Arberia Film" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg" group-title="Shqipëria",Rtv Arberia Film
 https://ssh101.bozztv.com/ssh101/rtvarberia5/chunks.m3u8
 #EXTINF:-1  tvg-name="RTV Arberia Musik" tvg-id="RTV Arberia Musik" tvg-logo="http://vip.worldlivetv.stream/images/blank_square.png" group-title="Shqipëria",RTV Arberia Musik
@@ -609,10 +605,8 @@ http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
 #EXTINF:-1  tvg-name="TropicalMusicTV.us" tvg-id="TropicalMusicTV.us" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="Shqipëria",Tropical Music TV (720p)
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
-#EXTINF:-1  tvg-name="Tropoja" tvg-id="TropojaTelevizion.al" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Shqipëria",Tropoja
+#EXTINF:-1  tvg-name="Tropoja" tvg-id="TropojaTelevizion.al" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Shqipëria",Tropoja TV
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Tropoja TV" tvg-id="Tropoja TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TropojaTv_logo_6633e0572e449_thumb.jpg" group-title="Shqipëria",Tropoja TV
-https://live.prostream.al/al/smil:tropojatv.smil/chunklist_w995027007_b162800_sleng.m3u8
 #EXTINF:-1  tvg-name="TropojaTelevizion.al" tvg-id="TropojaTelevizion.al" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Shqipëria",Tropoja TV (1080p)
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="TrueAfrican.za" tvg-id="TrueAfrican.za" tvg-logo="https://i.imgur.com/nDi2br7.png" group-title="Shqipëria",True African (720p)
@@ -636,7 +630,7 @@ https://t2.tvmak.com/tv/TVKOPLIKU.m3u8?oGzSUw8C3H
 #EXTINF:-1  tvg-name="Tv News AL" tvg-id="Tv News AL" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/tv_logo_64d4c0570f0aa_thumb.jpg" group-title="Shqipëria",Tv News ALB
 https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/js0-h8f-ifx-29f/tracks-v3a1/mono.m3u8
 #EXTINF:-1  tvg-name="Tv Prizreni" tvg-id="Tv Prizreni" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvPrizreni_logo_6472a11e028a7_thumb.jpg" group-title="Shqipëria",Tv Prizreni
-https://bashk.tv/hls/index.m3u8
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
 #EXTINF:-1  tvg-name="TV Prizreni" tvg-id="TV Prizreni" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zy1ztx/thumbnails/retina.jpg" group-title="Shqipëria",TV Prizreni
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/tracks-v4a1/mono.m3u8
 #EXTINF:-1  tvg-name="TVSolidaria.ar" tvg-id="TVSolidaria.ar" tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="Shqipëria",TV Solidaria (576p)
