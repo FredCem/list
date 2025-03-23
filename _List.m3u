@@ -159,28 +159,10 @@ https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 #EXTINF:-1  tvg-name="A2iTV.it" tvg-id="A2iTV.it" tvg-logo="https://i.imgur.com/YlDFir7.jpg" group-title="Shqipëria",A2i TV (1080p)
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:-1  tvg-name="ABC News Albania Ⓣ" tvg-id="ABCNewsAlbania.al" tvg-logo="https://i.imgur.com/aObcudw.png" group-title="Shqipëria",ABC News Albania Ⓣ
-https://www.twitch.tv/abcnewsal
+#EXTINF:-1  tvg-name="ABC News Albania Ⓣ" tvg-id="ABCNewsAlbania.al" tvg-logo="https://i.imgur.com/aObcudw.png" group-title="Shqipëria",ABC News Albania
+https://euw12-0.playlist.ttvnw.net/v1/playlist/CqAGuba9gtH-kju7JZxi0kPHhFIVUCdlnchuoLjoXFGioPnf-C2toxm-8Ka0xS_wegQXc7LHc8D_NNuuKoUw15UEi8b6dp5A802q4h23AYJwX2wu2aD4cAmXXtphROs_3HFAzykwpTOQZRudAWjnmF9TCLMryypKRQU8TJjwVRxN2h2WMiC_tSB8d39smBj83p4VXRn_941D1SYGghDKR_RACgjEqEQPk0Q2m-wcxPZfO6dsq__inpMgjrn0S_kcXOpIDiBXr8q5T2QzHjd9FIFqrfg2o0kqk5jTLHaiLeWEJzmm8DqteMxVcPqTeA4eiionrDbEoW62h27lqOOxF9SdyZ_6KPFJAagzBxSBnSAyDyta2gV-jA5M2mErCRIIJQ20iq6HsYjpv5dLdnGL1IvqLey4boMT6EKevEJqcg1gSa-_XZtkJ8a59Y1zipXX5D4VdvxUp72yfq-CdyV377yF9lJYvjlor5CRSa_1So3XThzG5FBYcnrwVdoQmkFO3IT4p92C-LvRVOM3CSjpoRuk1hQmxWryVtscoHBonELzYrOEXzghByLDRo264PJGQeHnhbGNBg6S15z_uKg3rNYkx0Toz9OmFktUsrjgSP6-_Te9G0QTniQK_a0KWFyfzni6XML8Ipci_Vx-ZfVX1d9Uu2exaTcZxA517ErFOGW6R6asgULLLxEBLawTzA3yve9eJZwzv4FjS20tqRYYZQRJ_2yVvufsvoPM1veJUn3TZMtVex9xEkhEYIp6d-DwDqWRdu8Zqu2cVB2HtTPbD3eY94UbLMi0jQqj2nWFplKlGzT5_eSGCsXMmradyF7q4nwICkwPrqeL7IQb28iQxT2VuTFAj0NFId8IBZnZu8wunLO6v6kQRZVelK8Ll5WFLlSisKZGf0Td4M6EO9ozaxwjQGTUiOwbuA7fD8BFB8AUWoEMuunGDJ2m0V8Tr8CLC8LPjYScaYVoupdx9P1VZYJ33pPUNAZXja7zUy3QPRjp4EqFILFfA1KHA8R05go5L-F6b_yPb3iRx_l3OOywEUKoxc-ah6bg4gIFUg3UDlm7docaDMZ76A0I16sXrBGQwCABKglldS13ZXN0LTIw7ws.m3u8
 #EXTINF:-1  tvg-name="ABCNewsLive.us" tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="Shqipëria",ABC News Live
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
-#EXTINF:-1  tvg-name="ABCTVParaguay.py" tvg-id="ABCTVParaguay.py" tvg-logo="https://i.imgur.com/OqfBMGy.png" group-title="Shqipëria",ABC-TV Paraguay (720p)
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1  tvg-name="ABNAfrica.us" tvg-id="ABNAfrica.us" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",ABN Africa (480p)
-https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
-#EXTINF:-1  tvg-name="ABNBibleMoviesChannel.us" tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="Shqipëria",ABN Bible Movies (720p)
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-#EXTINF:-1  tvg-name="ABNChina.us" tvg-id="ABNChina.us" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="Shqipëria",ABN China (720p)
-https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-#EXTINF:-1  tvg-name="ABNTVIndia.us" tvg-id="ABNTVIndia.us" tvg-logo="https://i.imgur.com/VcZn60X.png" group-title="Shqipëria",ABN TV India (540p)
-https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
-#EXTINF:-1  tvg-name="ABNUrdu.us" tvg-id="ABNUrdu.us" tvg-logo="https://i.imgur.com/Y9ScPIl.png" group-title="Shqipëria",ABN Urdu (540p)
-https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-#EXTINF:-1  tvg-name="ABPGanga.in" tvg-id="ABPGanga.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/512px-ABP_Ganga.svg.png" group-title="Shqipëria",ABP Ganga (1080p)
-https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
-#EXTINF:-1  tvg-name="ABPMajha.in" tvg-id="ABPMajha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png" group-title="Shqipëria",ABP Majha (720p)
-https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
-#EXTINF:-1  tvg-name="ABPNews.in" tvg-id="ABPNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png" group-title="Shqipëria",ABP News (720p)
-https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF:-1  tvg-name="AbuDhabiAloula.ae" tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="Shqipëria",Abu Dhabi Aloula (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1  tvg-name="AbuDhabiEmirates.ae" tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://i.imgur.com/OT6DW3E.png" group-title="Shqipëria",Abu Dhabi Emirates (1080p)
@@ -241,8 +223,6 @@ https://albportal.net/albkanalemusic.m3u8
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1  tvg-name="Amazing Discoveries TV" tvg-id="Amazing Discoveries TV" tvg-logo="https://artv.watch/cdn/channel/AmazingDiscoveriesTV.ca?width=50" group-title="Shqipëria",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1  tvg-name="ISLAM CHANNEL TV" tvg-id="ISLAM CHANNEL TV" tvg-logo="https://portal.simplestreamcdn.com/172/642f780c-islamtv.png" group-title="Shqipëria",ISLAM CHANNEL TV
-https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1  tvg-name="AbsoluteRealitybyWETV.us" tvg-id="AbsoluteRealitybyWETV.us" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Shqipëria",AMC Absolute Reality
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="AMG TV" tvg-id="AMG TV" tvg-logo="https://i.imgur.com/Ocro6qo.png" group-title="Shqipëria",AMG TV
