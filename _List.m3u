@@ -9,12 +9,12 @@ https://dns1.bigliveal.xyz/hls/0/stream.m3u8
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1  tvg-name="RTK.al" tvg-id="RTK.al" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria",RTK 1 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
-#EXTINF:-1  tvg-name="RTK.al" tvg-id="RTK.al" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="Shqipëria",RTK 2 TV
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/g7t-zdp-y08-eig/index.m3u8
+#EXTINF:-1  tvg-name="RTK.al" tvg-id="RTK.al" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zykxz0/thumbnails/standart.jpg" group-title="Shqipëria",RTK 2 TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1  tvg-name="RTK.al" tvg-id="RTK.al" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 3 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
-#EXTINF:-1  tvg-name="RTK.al" tvg-id="RTK.al" tvg-logo="https://www.rtklive.com/sq/images/logo.png" group-title="Shqipëria",RTK 4 TV
-https://gjvideo-live-xk.gjirafa.net/gjvideo-livestream/o9w-k53-7pb-m78/index.m3u8
+#EXTINF:-1  tvg-name="RTK.al" tvg-id="RTK.al" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zykxgt/thumbnails/standart.jpg" group-title="Shqipëria",RTK 4 TV
+https://gjvideo-live-xk.gjirafa.net/gjvideo-livestream/rtk4/index.m3u8
 #EXTINF:-1  tvg-name="Pro 1" tvg-id="Pro 1" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/Pr1_logo_665645426008a_thumb.jpg" group-title="Shqipëria",Pro 1
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/tracks-v3a1/mono.m3u8
 #EXTINF:-1  tvg-name="Report TV" tvg-id="ReportTV.al" tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="Shqipëria",Report TV
