@@ -59,6 +59,10 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/korcaplus/playlist.m3u8
 https://livetv.albswiss.com/Albswiss/live/chunklist_w149053756.m3u8
 #EXTINF:-1  tvg-id="Albi TV" tvg-logo="https://i.imgur.com/MJdY1m3.png" group-title="Shqipëria",Albi TV
 https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8
+#EXTINF:-1  tvg-id="Hi Muzik live" tvg-logo="https://i.imgur.com/MJdY1m3.png" group-title="Shqipëria",Hi Muzik live
+https://ssh101.bozztv.com/ssh101/HiMusicTv/chunks.m3u8
+#EXTINF:-1  tvg-id="Frame TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FrameTv_logo_6061ce6c50fb9_thumb.jpg" group-title="Shqipëria",Frame TV
+https://protokolldns.xyz/frametvapps/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="AlbKanaleMusicTV.al" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="Shqipëria",AlbKanale Music TV Ⓢ
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1  tvg-id="ALBUK TV LIVE" tvg-logo="https://albuk.tv/wp-content/uploads/2022/06/big-logo-albuk-tv-1024x199.jpg" group-title="Shqipëria",ALBUK TV LIVE
