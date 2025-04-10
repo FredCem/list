@@ -21,6 +21,10 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1  tvg-id="Shqiponja TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg",Shqiponja TV
 https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
+
+#EXTINF:-1  tvg-id="ABC Me (720p)" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg",ABC Me (720p)
+https://c.mjh.nz/abc-me.m3u8
+
 #EXTINF:-1  tvg-id="Syri TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/users/images/channel_logos/55ea20ae81_logo_61c8c3129c141_thumb.jpg",Syri TV
 https://stream.syritv.al/SyriTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="T7 - Drejtpërdrejt" group-title="Shqipëria" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/t7.jpg",T7 - Drejtpërdrejt
