@@ -21,10 +21,8 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1  tvg-id="Shqiponja TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg",Shqiponja TV
 https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
-
 #EXTINF:-1  tvg-id="ABC Me (720p)" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg",ABC Me (720p)
 https://c.mjh.nz/abc-me.m3u8
-
 #EXTINF:-1  tvg-id="Syri TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/users/images/channel_logos/55ea20ae81_logo_61c8c3129c141_thumb.jpg",Syri TV
 https://stream.syritv.al/SyriTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="T7 - Drejtpërdrejt" group-title="Shqipëria" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/t7.jpg",T7 - Drejtpërdrejt
@@ -91,40 +89,28 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
 #EXTINF:-1  tvg-id="TV2 Nord" group-title="Shqipëria" tvg-logo="https://play-lh.googleusercontent.com/BzTtwyCZGiq2IR4jd5V1N7GLKqd7l8fXvUXJigps_AHmq4B0xjL5_UqEjAX0HGT7zZE=w240-h480-rw",TV2 Nord
 https://cdnapi.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/1_h9yfe7h2/protocol/https/format/applehttp/a.m3u8
-
 #EXTINF:-1  tvg-id="Action Hollywood Movies" group-title="Shqipëria" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png/900",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
 #EXTINF:-1  tvg-id="Adesso TV (720p)" group-title="Shqipëria" tvg-logo="https://www.adessotv.com.br/redes.png",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-
 #EXTINF:-1  tvg-id="Aeolos TV (1080p)" group-title="Shqipëria" tvg-logo="https://cdn.aeolos.tv/2021/09/logo300.png",Aeolos TV (1080p)
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-
 #EXTINF:-1  tvg-id="Akaku 53 (Hawaii) (1080p)" group-title="Shqipëria" tvg-logo="https://cdn.akaku.org/media/AKAKU-Vertical-Black-e1500948322274.png",Akaku 53 (Hawaii) (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
-
-#EXTINF:-1  tvg-id="Akaku 55 (Hawaii) (1080p)" group-title="Shqipëria" tvg-logo="https://cdn.akaku.org/media/AKAKU-Vertical-Black-e1500948322274.png",Akaku 55 (Hawaii) (1080p)
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
-
 #EXTINF:-1  tvg-id="Akaku 54 (Hawaii) (1080p)" group-title="Shqipëria" tvg-logo="https://cdn.akaku.org/media/AKAKU-Vertical-Black-e1500948322274.png",Akaku 54 (Hawaii) (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
-
+#EXTINF:-1  tvg-id="Akaku 55 (Hawaii) (1080p)" group-title="Shqipëria" tvg-logo="https://cdn.akaku.org/media/AKAKU-Vertical-Black-e1500948322274.png",Akaku 55 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 #EXTINF:-1  tvg-id="AKC TV" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLPq9IAKaYCAvNxg2AWKukgyAtvBbMa9GVZQ&s",AKC TV
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
-
 #EXTINF:-1  tvg-id="Al Sharqiya Min Kabla (1080p)" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Al_Sharqiya.png",Al Sharqiya Min Kabla (1080p)
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-
 #EXTINF:-1  tvg-id="AlbDreams TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/AlbdreamsTv_logo_6025b12f8d21d_thumb.jpg",AlbDreams TV (720p)
 http://live.albavision.net:1123/live/albdreams.m3u8
-
 #EXTINF:-1  tvg-id="Alegre TV (720p)" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrAR1iH0xMPXDah1uo8-aMvzHMU1_CbpFYZA&s",Alegre TV (720p)
 https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
-
 #EXTINF:-1  tvg-id="Anime All Day" group-title="Shqipëria" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/featuredImage.jpg",Anime All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
-
 #EXTINF:-1  tvg-id="Italia 7 live stream" group-title="Shqipëria" tvg-logo="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/474837152_1163763379083293_4855691574694986484_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=cZIpWuet9kAQ7kNvgFM6HT9&_nc_oc=Adny5iPPmM4el4KsQ9ZtgTpgDMu7qdtIvw17apjW2Wyf-BtWLEZW1ShUlDCm4TCLEg5IOZ3CHmAjKcIplZxCsWWp&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=NUVUwhhCTzSA4642_CFgNA&oh=00_AYHa35rmJnxvxq1zszRzxLSlrxgreFN9foxSGhClrOKOiA&oe=67E4AAF6",Italia 7 live stream
 https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
 #EXTINF:-1  tvg-id="Al Jazeera Live" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png",Al Jazeera Live
@@ -407,7 +393,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c49
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1  tvg-id="Rtv Arberia Film" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Rtv Arberia Film
 https://ssh101.bozztv.com/ssh101/rtvarberia5/chunks.m3u8
-#EXTINF:-1  tvg-id="RTV Islam " group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",RTV Islam 
+#EXTINF:-1  tvg-id="RTV Islam" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",RTV Islam
 https://protokolldns.xyz/rtvislamweb554/index.m3u8
 #EXTINF:-1  tvg-id="RTV Arberia Musik" group-title="Shqipëria" tvg-logo="http://vip.worldlivetv.stream/images/blank_square.png",RTV Arberia Musik
 https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
