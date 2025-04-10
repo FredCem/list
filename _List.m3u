@@ -95,6 +95,31 @@ https://cdnapi.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/1_h9yfe7h
 #EXTINF:-1  tvg-id="Action Hollywood Movies" group-title="Shqipëria" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png/900",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
+#EXTINF:-1  tvg-id="Adesso TV (720p)" group-title="Shqipëria" tvg-logo="https://www.adessotv.com.br/redes.png",Adesso TV (720p)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+
+#EXTINF:-1  tvg-id="Aeolos TV (1080p)" group-title="Shqipëria" tvg-logo="https://cdn.aeolos.tv/2021/09/logo300.png",Aeolos TV (1080p)
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+
+#EXTINF:-1  tvg-id="Akaku 53 (Hawaii) (1080p)" group-title="Shqipëria" tvg-logo="https://cdn.akaku.org/media/AKAKU-Vertical-Black-e1500948322274.png",Akaku 53 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+
+#EXTINF:-1  tvg-id="Akaku 55 (Hawaii) (1080p)" group-title="Shqipëria" tvg-logo="https://cdn.akaku.org/media/AKAKU-Vertical-Black-e1500948322274.png",Akaku 55 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+
+#EXTINF:-1  tvg-id="Akaku 54 (Hawaii) (1080p)" group-title="Shqipëria" tvg-logo="https://cdn.akaku.org/media/AKAKU-Vertical-Black-e1500948322274.png",Akaku 54 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+
+#EXTINF:-1  tvg-id="AKC TV" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLPq9IAKaYCAvNxg2AWKukgyAtvBbMa9GVZQ&s",AKC TV
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+
+#EXTINF:-1  tvg-id="Al Sharqiya Min Kabla (1080p)" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Al_Sharqiya.png",Al Sharqiya Min Kabla (1080p)
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-id="Adesso TV (720p)" group-title="Shqipëria" tvg-logo="https://www.adessotv.com.br/redes.png",Adesso TV (720p)
+
+#EXTINF:-1  tvg-id="Adesso TV (720p)" group-title="Shqipëria" tvg-logo="https://www.adessotv.com.br/redes.png",Adesso TV (720p)
+
 #EXTINF:-1  tvg-id="Italia 7 live stream" group-title="Shqipëria" tvg-logo="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/474837152_1163763379083293_4855691574694986484_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=cZIpWuet9kAQ7kNvgFM6HT9&_nc_oc=Adny5iPPmM4el4KsQ9ZtgTpgDMu7qdtIvw17apjW2Wyf-BtWLEZW1ShUlDCm4TCLEg5IOZ3CHmAjKcIplZxCsWWp&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=NUVUwhhCTzSA4642_CFgNA&oh=00_AYHa35rmJnxvxq1zszRzxLSlrxgreFN9foxSGhClrOKOiA&oe=67E4AAF6",Italia 7 live stream
 https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
 #EXTINF:-1  tvg-id="Al Jazeera Live" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png",Al Jazeera Live
