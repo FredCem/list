@@ -119,7 +119,11 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="AlbDreams TV" group-title="Shqipëria" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/AlbdreamsTv_logo_6025b12f8d21d_thumb.jpg",AlbDreams TV (720p)
 http://live.albavision.net:1123/live/albdreams.m3u8
 
-#EXTINF:-1  tvg-id="Adesso TV (720p)" group-title="Shqipëria" tvg-logo="https://www.adessotv.com.br/redes.png",Adesso TV (720p)
+#EXTINF:-1  tvg-id="Alegre TV (720p)" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrAR1iH0xMPXDah1uo8-aMvzHMU1_CbpFYZA&s",Alegre TV (720p)
+https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
+
+#EXTINF:-1  tvg-id="Anime All Day" group-title="Shqipëria" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/featuredImage.jpg",Anime All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
 
 #EXTINF:-1  tvg-id="Italia 7 live stream" group-title="Shqipëria" tvg-logo="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/474837152_1163763379083293_4855691574694986484_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=cZIpWuet9kAQ7kNvgFM6HT9&_nc_oc=Adny5iPPmM4el4KsQ9ZtgTpgDMu7qdtIvw17apjW2Wyf-BtWLEZW1ShUlDCm4TCLEg5IOZ3CHmAjKcIplZxCsWWp&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=NUVUwhhCTzSA4642_CFgNA&oh=00_AYHa35rmJnxvxq1zszRzxLSlrxgreFN9foxSGhClrOKOiA&oe=67E4AAF6",Italia 7 live stream
 https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
