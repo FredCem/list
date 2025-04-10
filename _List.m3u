@@ -13,8 +13,8 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1  tvg-id="RTK.al" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 3 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
-#EXTINF:-1  tvg-id="RTK.al" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zykxgt/thumbnails/standart.jpg" group-title="Shqipëria",RTK 4 TV
-https://gjvideo-live-xk.gjirafa.net/gjvideo-livestream/rtk4/index.m3u8
+#EXTINF:-1  tvg-id="Start Kosova Tv" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zykxgt/thumbnails/standart.jpg" group-title="Shqipëria",Start Kosova Tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/startkosova/playlist.m3u8
 #EXTINF:-1  tvg-id="Pro 1" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/pro1.jpg" group-title="Shqipëria",Pro 1
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
 #EXTINF:-1  tvg-id="ReportTV.al" tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="Shqipëria",Report TV
@@ -77,12 +77,12 @@ https://t1.tvmak.com/tv/rtviliridaDokumentar.m3u8?obq463h9d0
 https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
 #EXTINF:-1  tvg-id="Dukagjini TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RadioDukagjini_logo_5ac42b695d3bf_thumb.jpg" group-title="Shqipëria",Dukagjini TV
 http://157.90.135.165:8081/yWbXvr1S/dukagjini_720p/playlist.m3u8
+#EXTINF:-1  tvg-id="Dielli TV HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mA2MZ_-5DU4iGUSzqJfwO4YQV8N3evH0uRGpqStFbaYA=s900-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Dielli TV HD
+http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:-1  tvg-id="Fieri TV" tvg-logo="https://fieritv.com/wp-content/uploads/2024/04/cropped-120.png" group-title="Shqipëria",Fieri TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/nakotv/playlist.m3u8
 #EXTINF:-1  tvg-id="Dubai One" tvg-logo="X PLUS TV Live" group-title="Shqipëria",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1  tvg-id="Dielli TV HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mA2MZ_-5DU4iGUSzqJfwO4YQV8N3evH0uRGpqStFbaYA=s900-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Dielli TV HD
-http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:-1  tvg-id="TV Apollon" tvg-logo="https://i.imgur.com/wk9Baz9.png" group-title="Shqipëria",TV Apollon
 https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
 #EXTINF:-1  tvg-id="CNA.al" tvg-logo="https://i.imgur.com/X3ukD5t.png" group-title="Shqipëria",CNA
