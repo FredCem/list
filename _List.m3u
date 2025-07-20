@@ -79,6 +79,8 @@ https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
 http://157.90.135.165:8081/yWbXvr1S/dukagjini_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="Dielli TV HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mA2MZ_-5DU4iGUSzqJfwO4YQV8N3evH0uRGpqStFbaYA=s900-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Dielli TV HD
 http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1  tvg-id="CineLife" tvg-logo="https://mma.prnewswire.com/media/973268/CineLife_Entertainment_Logo.jpg" group-title="Shqipëria",CineLife
+https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando/cb573d167e6c678a9ad43e6fd7ef4282847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7abe258448d69a9b1014e902a45fa83439fd401b284d009834b8075f3119490f68e8643d0e42c52937f8ab5a2c54007fbb54ad1a468b8d38e6c3ddc423c470a50f5d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe5ee2ad07c8c5932981beb3dd575337e6b733d1a53d87d2e8cd1449d550f2b0eed47d7598bc7312229b3d89767c6ad995cf65180a84249bc1a69410ac7a7b085b99ae12c370d3c73abd28cfd5fd9b3c0d6066133dbf52b091571648b77785c10928504145e2cf1b94c69169396c4b89974d943d2ff98adbcd8f557bfd69150cbc3b9943533885744d6cf521fcad396ea22f1eca606eac1666d602b49304c18af7a94637bcd5c202d86aecbe059bb621a17f335407fca37f070b1c3380a0364d0378c544f6da85b4245e4ebfa1bf8baa390f0e37135d1b98a2b620e9e9ee1d5d47911d761a377a71b10bd96ed30533700dc10cdca10c34c8461624e8a3304a492ef1ecb4928cc2c554bf1c829faa214edb388123a1a6407c0bed194ea4fb1639d8a0246eb4346f/107/1920x1080_5058864/index.m3u8
 #EXTINF:-1  tvg-id="Fieri TV" tvg-logo="https://fieritv.com/wp-content/uploads/2024/04/cropped-120.png" group-title="Shqipëria",Fieri TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/nakotv/playlist.m3u8
 #EXTINF:-1  tvg-id="Dubai One" tvg-logo="https://yt3.googleusercontent.com/fw3l7B3dFohbaCxcrFVtR0KDs7PADWar-1CflgqqEATrvO3c6hPDXt44mPXmlbDxEnPWAScxD9I=s900-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Dubai One
@@ -103,6 +105,60 @@ https://dritatv.protokolldns.xyz/dritaweb5587989/tracks-v1a1/mono.m3u8
 http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1  tvg-id="Arta News Live" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/yt1q1x/thumbnails/retina.jpg" group-title="Shqipëria",Arta News Direkt
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1  tvg-id="ANTENA-TV SHKODER" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",ANTENA-TV SHKODER
+http://cineapp.org:8000/Fernando/Fernando/9734
+#EXTINF:-1  tvg-id="AlbUK TV" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Shqipëria",AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="Aniplus (Indonesian subtitle) (576p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="Shqipëria",Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:-1  tvg-id="CNBC Arabia (1080p)" tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="Shqipëria",CNBC Arabia (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cnbcarabiaTV/live
+#EXTINF:-1  tvg-id="Eurofilm" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",Eurofilm
+http://cineapp.org:8000/Fernando/Fernando/9619
+#EXTINF:-1  tvg-id="Euronews German" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Shqipëria",Euronews German
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2573
+#EXTINF:-1  tvg-id="Euronews Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Shqipëria",Euronews Russian
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2576
+#EXTINF:-1  tvg-id="AMC+" tvg-logo="https://play-lh.googleusercontent.com/u4Nc-YB3wu-iBm3MaPu6u6_r0yEkNGnz2XW2jQVRTYIRaJzWtXL3rPea4lXUMJqIo_A" group-title="Shqipëria",AMC+
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1  tvg-id="Brat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Brat_TV_logo.png" group-title="Shqipëria",Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="Made In Hollywood" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUUro48_3BtXRiBZasZTy3du4U9jwF6iDaitbLpUAwd0p49iYmQVS4FDhfrLK2gtosn7Z9Cg" group-title="Shqipëria",Made In Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1  tvg-id="KBS World (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="Shqipëria",KBS World (720p)
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="Kinema Aksion MAX" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",Kinema Aksion MAX
+http://cineapp.org:8000/Fernando/Fernando/9718
+#EXTINF:-1  tvg-id="Kinema Classics" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",Kinema Classics
+http://cineapp.org:8000/Fernando/Fernando/9719
+#EXTINF:-1  tvg-id="Medina TV" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",Medina TV
+http://cineapp.org:8000/Fernando/Fernando/9745
+#EXTINF:-1  tvg-id="Mekke TV" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",Mekke TV
+http://cineapp.org:8000/Fernando/Fernando/9746
+#EXTINF:-1  tvg-id="Eman TV" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëria",Eman TV
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/chunks.m3u8?nimblesessionid=875850588
+#EXTINF:-1  tvg-id="News 24" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëria",News 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:-1  tvg-id="News 24" tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Shqipëria",News 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+#EXTINF:-1  tvg-id="Peace TV" tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="Shqipëria",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1  tvg-id="RTK 1" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",RTK 1
+http://cineapp.org:8000/Fernando/Fernando/9653
+#EXTINF:-1  tvg-id="RTSH 1" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",RTSH 1
+http://cineapp.org:8000/Fernando/Fernando/9584
+#EXTINF:-1  tvg-id="Rede Super (432p)" tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="Shqipëria",Rede Super (432p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/10205943
+#EXTINF:-1  tvg-id="TV7" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Shqipëria",TV7
+http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
+#EXTINF:-1  tvg-id="WION (1080p)" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="Shqipëria",WION (1080p)
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
+#EXTINF:-1  tvg-id="WebStar Cinema DE HD" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",WebStar Cinema DE HD
+http://cineapp.org:8000/Fernando/Fernando/44451
+#EXTINF:-1  tvg-id="WebStar Popullore HD" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",WebStar Popullore HD
+http://cineapp.org:8000/Fernando/Fernando/44460
+#EXTINF:-1  tvg-id="X Premium 1 HD" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",X Premium 1 HD
+http://cineapp.org:8000/Fernando/Fernando/9694
 #EXTINF:-1  tvg-id="00s Replay" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/9/9c/00sReplay.svg/revision/latest?cb=20220914001115" group-title="Shqipëria",00s Replay
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
 #EXTINF:-1  tvg-id="Alvin Channel TV" tvg-logo="https://play-lh.googleusercontent.com/BzTtwyCZGiq2IR4jd5V1N7GLKqd7l8fXvUXJigps_AHmq4B0xjL5_UqEjAX0HGT7zZE=w240-h480-rw" group-title="Shqipëria",Alvin Channel TV
@@ -543,8 +599,6 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1  tvg-id="TJC.uk" tvg-logo="https://i.imgur.com/fk5rEje.png" group-title="Shqipëria",TJC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:-1  tvg-id="CineLife" tvg-logo="https://mma.prnewswire.com/media/973268/CineLife_Entertainment_Logo.jpg" group-title="Shqipëria",CineLife
-https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando/cb573d167e6c678a9ad43e6fd7ef4282847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7abe258448d69a9b1014e902a45fa83439fd401b284d009834b8075f3119490f68e8643d0e42c52937f8ab5a2c54007fbb54ad1a468b8d38e6c3ddc423c470a50f5d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe5ee2ad07c8c5932981beb3dd575337e6b733d1a53d87d2e8cd1449d550f2b0eed47d7598bc7312229b3d89767c6ad995cf65180a84249bc1a69410ac7a7b085b99ae12c370d3c73abd28cfd5fd9b3c0d6066133dbf52b091571648b77785c10928504145e2cf1b94c69169396c4b89974d943d2ff98adbcd8f557bfd69150cbc3b9943533885744d6cf521fcad396ea22f1eca606eac1666d602b49304c18af7a94637bcd5c202d86aecbe059bb621a17f335407fca37f070b1c3380a0364d0378c544f6da85b4245e4ebfa1bf8baa390f0e37135d1b98a2b620e9e9ee1d5d47911d761a377a71b10bd96ed30533700dc10cdca10c34c8461624e8a3304a492ef1ecb4928cc2c554bf1c829faa214edb388123a1a6407c0bed194ea4fb1639d8a0246eb4346f/107/1920x1080_5058864/index.m3u8
 #EXTINF:-1  tvg-id="TLTMolise.it" tvg-logo="https://i.imgur.com/4G8fqtn.png" group-title="Shqipëria",TLT Molise (1080p)
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 #EXTINF:-1  tvg-id="TMTV.us" tvg-logo="https://tmlive.tv/wp-content/uploads/2018/07/immigration-consultants-network-en-.png" group-title="Shqipëria",TM TV (720p)
@@ -749,57 +803,3 @@ http://f7c59e6e.ottolok.net/iptv/42NFZWZC6CCCXB/7326/index.m3u8
 http://f7c59e6e.ottolok.net/iptv/42NFZWZC6CCCXB/7327/index.m3u8
 #EXTINF:-1  tvg-id="NHL Network HD US" tvg-logo="https://images.dwncdn.net/images/t_app-icon-s/p/884f8a6f-6f0f-4670-8755-6c896c02f716/688439888/usa-tv-iptv-player-logo" group-title="Shqipëria",NHL Network HD US
 http://f7c59e6e.ottolok.net/iptv/42NFZWZC6CCCXB/7328/index.m3u8
-#EXTINF:-1  tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",ANTENA-TV SHKODER
-http://cineapp.org:8000/Fernando/Fernando/9734
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Shqipëria",AlbUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="Shqipëria",Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
-http://210.210.155.37/dr9445/h/h02/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="Shqipëria",CNBC Arabia (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cnbcarabiaTV/live
-#EXTINF:-1  tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",Eurofilm
-http://cineapp.org:8000/Fernando/Fernando/9619
-#EXTINF:-1  tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Shqipëria",Euronews German
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2573
-#EXTINF:-1  tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Shqipëria",Euronews Russian
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2576
-#EXTINF:-1  tvg-id="AMC+" tvg-logo="https://play-lh.googleusercontent.com/u4Nc-YB3wu-iBm3MaPu6u6_r0yEkNGnz2XW2jQVRTYIRaJzWtXL3rPea4lXUMJqIo_A" group-title="Shqipëria",AMC+
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:-1  tvg-id="Brat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Brat_TV_logo.png" group-title="Shqipëria",Brat TV
-https://brat-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="Made In Hollywood" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUUro48_3BtXRiBZasZTy3du4U9jwF6iDaitbLpUAwd0p49iYmQVS4FDhfrLK2gtosn7Z9Cg" group-title="Shqipëria",Made In Hollywood
-https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="Shqipëria",KBS World (720p)
-https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",Kinema Aksion MAX
-http://cineapp.org:8000/Fernando/Fernando/9718
-#EXTINF:-1  tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",Kinema Classics
-http://cineapp.org:8000/Fernando/Fernando/9719
-#EXTINF:-1  tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",Medina TV
-http://cineapp.org:8000/Fernando/Fernando/9745
-#EXTINF:-1  tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",Mekke TV
-http://cineapp.org:8000/Fernando/Fernando/9746
-#EXTINF:-1  tvg-id="Eman TV" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëria",Eman TV
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/chunks.m3u8?nimblesessionid=875850588
-#EXTINF:-1  tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëria",News 24
-http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Shqipëria",News 24
-https://tv.balkanweb.com/news24/livestream/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="Shqipëria",Peace TV
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1  tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",RTK 1
-http://cineapp.org:8000/Fernando/Fernando/9653
-#EXTINF:-1  tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",RTSH 1
-http://cineapp.org:8000/Fernando/Fernando/9584
-#EXTINF:-1  tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="Shqipëria",Rede Super (432p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/10205943
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Shqipëria",TV7
-http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/tnXba28.png" group-title="Shqipëria",WION (1080p)
-https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
-#EXTINF:-1  tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",WebStar Cinema DE HD
-http://cineapp.org:8000/Fernando/Fernando/44451
-#EXTINF:-1  tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",WebStar Popullore HD
-http://cineapp.org:8000/Fernando/Fernando/44460
-#EXTINF:-1  tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",X Premium 1 HD
-http://cineapp.org:8000/Fernando/Fernando/9694
