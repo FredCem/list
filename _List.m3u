@@ -105,8 +105,8 @@ https://dritatv.protokolldns.xyz/dritaweb5587989/tracks-v1a1/mono.m3u8
 http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1  tvg-id="Arta News Live" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/yt1q1x/thumbnails/retina.jpg" group-title="Shqipëria",Arta News Direkt
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
-#EXTINF:-1  tvg-id="ANTENA-TV SHKODER" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",ANTENA-TV SHKODER
-http://cineapp.org:8000/Fernando/Fernando/9734
+#EXTINF:-1  tvg-id="30A TV Classic Movies" tvg-logo="https://m.yilmaztv.cc/logo/al.png" group-title="Shqipëria",30A TV Classic Movies
+https://30a-tv.com/feeds/720p/52.m3u8
 #EXTINF:-1  tvg-id="AlbUK TV" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Shqipëria",AlbUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="Aniplus (Indonesian subtitle) (576p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="Shqipëria",Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
