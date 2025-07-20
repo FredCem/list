@@ -31,6 +31,8 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-l
 http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="TropojaTelevizion.al" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Shqipëria",Tropoja TV (1080p)
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="Korça +.al" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/korcaplus/playlist.m3u8
 #EXTINF:-1  tvg-id="Tv Arberia 1" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg" group-title="Shqipëria",Tv Arberia 1
 https://yayin30.haber100.com/live/rtvarberia/chunklist_w365778652.m3u8
 #EXTINF:-1  tvg-id="TV Arberia Retro Hits" tvg-logo="http://vip.worldlivetv.stream/images/blank_square.png" group-title="Shqipëria",TV Arberia Retro Hits
@@ -45,16 +47,14 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
 https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
 #EXTINF:-1  tvg-id="Zico HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n_HXWpv5iIssTrFY7_a5MdSr9HAKPuq3sjKPBb1ONEAJA=s160-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Zico HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
-#EXTINF:-1  tvg-id="Zjarr TV" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Shqipëria",Zjarr TV
-https://zjarr.future.al/hls/playlist.m3u8
+#EXTINF:-1  tvg-id="Wonder" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Shqipëria",Wonder
+https://wonder-samsung-uk.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1  tvg-id="Ulqini TV " tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Shqipëria",Ulqini TV
 https://t3.tvmak.com/tv/ULQINITV.m3u8?VASH9QD5Gv
 #EXTINF:-1  tvg-id="Alpo TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/AlpoTv_logo_60229f908d39d_thumb.jpg" group-title="Shqipëria",Alpo TV
 https://vs.sednastream.com:1936/alportv/alportv/chunklist_w56815498.m3u8
 #EXTINF:-1  tvg-id="TopEstradaTV.mk" tvg-logo="https://i.imgur.com/0Dh1FJZ.png" group-title="Shqipëria",TopEstrada TV (720p)
 http://live.topestrada.com/live/topestrada/playlist.m3u8
-#EXTINF:-1  tvg-id="Korça +.al" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/korcaplus/playlist.m3u8
 #EXTINF:-1  tvg-id="Alb’swiss TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Alb%E2%80%99swiss-TV-Live-TV-Online.png?resize=696%2C392&ssl=1" group-title="Shqipëria",Alb’swiss TV
 https://livetv.albswiss.com/Albswiss/live/chunklist_w149053756.m3u8
 #EXTINF:-1  tvg-id="Albi TV" tvg-logo="https://i.imgur.com/MJdY1m3.png" group-title="Shqipëria",Albi TV
