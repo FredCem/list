@@ -7,6 +7,10 @@ https://protokolldns.xyz/fxmediaweb5548/tracks-v1a1/mono.m3u8
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1  tvg-id="OraNews.al" tvg-logo="https://i.imgur.com/ILZY5bJ.png" group-title="Shqipëria",Ora News
 https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1  tvg-id="Channel 4 Live" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria",Channel 4 Live
+https://livetvde.net/channel4/index.m3u8?token=18df9186bde3dc35c0d5936f271e9bde2d503797-1f1465a749f5881dc506536f69b40b02-1753307353-1753296553
+#EXTINF:-1  tvg-id="ITV4 Live" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria",ITV4 Live
+https://livetvde.net/itv4/index.m3u8?token=c04eadcf7001760d0abe03e2d9723a5a3b2c1b8b-79c259300675376f28b883e1683a4987-1753307447-1753296647
 #EXTINF:-1  tvg-id="RTK.al" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria",RTK 1 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
 #EXTINF:-1  tvg-id="RTK.al" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zykxz0/thumbnails/standart.jpg" group-title="Shqipëria",RTK 2 TV
@@ -193,8 +197,10 @@ https://dist7.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQxMjUwMzYzL
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1  tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="Shqipëria",2TV (720p)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1  tvg-id="Big Brother Malta" tvg-logo="https://cdn1.tvmi.mt/images/tvmi-logo-website.svg" group-title="Shqipëria",Big Brother Malta
-https://dist11.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjM1MTgyNDU1LCJhdWQiOiIxODUuMjM4LjIyMC4xNjQiLCJleHAiOjE3NDMzNzQwODF9.rE0fn7fdxtVXfW4iYv_76Kp0D2-OjDACpKNPt5YABys/live/8/0/index.m3u8
+#EXTINF:-1  tvg-id="NPO 1" tvg-logo="https://cdn1.tvmi.mt/images/tvmi-logo-website.svg" group-title="Shqipëria",NPO 1
+https://livetvde.net/npo1/tracks-v1a1/mono.m3u8?token=75e295830d59af091e6342a3f996feb9fab528fa-ae3fd2c9de6af6d0a6722aa5dccb99ff-1753306999-1753296199
+#EXTINF:-1  tvg-id="NPO 2" tvg-logo="https://cdn1.tvmi.mt/images/tvmi-logo-website.svg" group-title="Shqipëria",NPO 2
+https://livetvde.net/npo2/index.m3u8?token=c434d7276467d3872496f943a92e8d13bdc769c9-6903545f1091af57b7dc0f9833367522-1753307118-1753296318
 #EXTINF:-1  tvg-id="TVM+" tvg-logo="https://cdn1.tvmi.mt/images/tvmi-logo-website.svg" group-title="Shqipëria",TVM+
 https://dist11.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjM1MTgyNDU1LCJhdWQiOiIxODUuMjM4LjIyMC4xNjQiLCJleHAiOjE3NDMzNzQwODF9.rE0fn7fdxtVXfW4iYv_76Kp0D2-OjDACpKNPt5YABys/live/3/0/index.m3u8
 #EXTINF:-1  tvg-id="Makkah TV live stream" tvg-logo="https://thumbor.prod.vidiocdn.com/uN-9YSAGB4t2sj1D0nFEqroQ42o=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Shqipëria",Makkah TV live stream
@@ -325,6 +331,8 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parlia
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1  tvg-id="BBC World News" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="Shqipëria",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
+#EXTINF:-1  tvg-id="BBC World News" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="Shqipëria",BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1  tvg-id="Beach TV - 30A" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="Shqipëria",Beach TV - 30A
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1  tvg-id="Beach TV - Panama City" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="Shqipëria",Beach TV - Panama City
