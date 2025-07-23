@@ -46,7 +46,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/tracks-v2
 #EXTINF:-1  tvg-id="Tv Prizreni" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvPrizreni_logo_6472a11e028a7_thumb.jpg" group-title="Shqipëria",Tv Prizreni
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
 #EXTINF:-1  tvg-id="VizionPlus.al" tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria",Vizion Plus
-https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
+https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:-1  tvg-id="Zico HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n_HXWpv5iIssTrFY7_a5MdSr9HAKPuq3sjKPBb1ONEAJA=s160-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Zico HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 #EXTINF:-1  tvg-id="Wonder" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Shqipëria",Wonder
@@ -639,16 +639,12 @@ https://app.viloud.tv/hls/channel/0d984388834adac967a4ec4e69bc8271.m3u8
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1  tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Shqipëria",Travel XP
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="TravelxpNetherlands.in" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Shqipëria",Travelxp Netherlands
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="Ayozat Live TV" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Shqipëria",Ayozat Live TV
+https://cdn.rtmp1.vodhosting.com/hls/971FCTV.m3u8
 #EXTINF:-1  tvg-id="Trece.co" tvg-logo="https://i.imgur.com/nEBsIlf.png" group-title="Shqipëria",Trece (720p)
 https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="TrecePlus.co" tvg-logo="https://i.imgur.com/jySvMsw.png" group-title="Shqipëria",Trece + (720p)
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="Trece.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/512px-Logotrececanal.png" group-title="Shqipëria",Trece Paraguay (1080p) [Not 24/7]
-https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
-#EXTINF:-1  tvg-id="Trece.es" tvg-logo="https://i.imgur.com/Fbti7Ln.png" group-title="Shqipëria",Trece TV (576p)
-https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 #EXTINF:-1  tvg-id="TrendTV.hr" tvg-logo="https://i.imgur.com/4SmNISY.jpg" group-title="Shqipëria",Trend TV (480p)
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1  tvg-id="TrentinoTV.it" tvg-logo="https://i.imgur.com/Xcw3TRB.png" group-title="Shqipëria",Trentino TV (720p) [Not 24/7]
@@ -675,8 +671,6 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-id="TrusoTV.pl" tvg-logo="https://i.imgur.com/GUsauxk.png" group-title="Shqipëria",Truso TV (576p) [Not 24/7]
 https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8
-#EXTINF:-1  tvg-id="TrustTV.ug" tvg-logo="https://i.imgur.com/01k6voZ.png" group-title="Shqipëria",Trust TV (720p)
-https://panel.freedomflixtv.org:3900/hybrid/play.m3u8
 #EXTINF:-1  tvg-id="TV Apollon (720p)" tvg-logo="https://i.imgur.com/gUz2AjM.png" group-title="Shqipëria",TV Apollon (720p)
 https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
 #EXTINF:-1  tvg-id="MBC 2 HD" tvg-logo="https://distrokid.imgix.net/http%3A%2F%2Fs3.amazonaws.com%2Fgather.fandalism.com%2Favatar-1831CD23-BF3A-4684-A90ABC7B76139A03.png?fm=jpg&q=75&w=600&s=04736922761418c5ddc572e4a747aa4c" group-title="Shqipëria",TV Kopliku Live
@@ -730,7 +724,7 @@ https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1  tvg-id="TVSN.au" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="Shqipëria",TVSN (1080p)
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1  tvg-id="VizionPlus.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="Shqipëria",Vizion Plus
-https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:-1  tvg-id="Wicked Part I 2024 English" tvg-logo="https://imgurworld.top/images/2024/11/25/06fc8f18396efd993e98299267be2779.jpg" group-title="Shqipëria",Wicked Part I 2024 English
 https://7f12638xuzfg.premilkyway.com/hls2/01/07631/ykng2g3sx15s_n/index-v1-a1.m3u8?t=thNh5zpbu9tNd4FlpxJz-PE2byWh-feNT7gbxCcMgfs&s=1736037323&e=129600&f=38157428&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=201838
 #EXTINF:-1  tvg-id="Yemen Today TV live" tvg-logo="https://livestreamlinks.net/images/flags/Yemen.png" group-title="Shqipëria",Yemen Today TV live
