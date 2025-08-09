@@ -97,9 +97,9 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 http://dygvideo.dygdigital.com/live/hls/kralpop
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-#EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",TATLISES TV
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/tatlises-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Turkish IPTV",TATLISES TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",DREAM TURK
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKPg_v-CJHc4Old2LPG6_N8aka_s3p52vO_A&s" group-title="Turkish IPTV",DREAM TURK
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",NR 1 TURK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
