@@ -600,10 +600,6 @@ https://hls.tmtv.live/hls/stream.m3u8
 https://helga.iptv2022.com/sh/Tamasheq_TV/index.m3u8
 #EXTINF:-1  tvg-name="TMA (1080p)" tvg-logo="https://i.imgur.com/1iOAl2j.png" group-title="Shqipëria",TMA (1080p)
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1  tvg-name="TMC (720p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="Shqipëria",TMC (720p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1  tvg-name="TMN TV (720p)" tvg-logo="https://i.imgur.com/mTlu5IK.png" group-title="Shqipëria",TMN TV (720p)
-https://v1.tustreaming.cl/tmntv/index.m3u8
 #EXTINF:-1  tvg-name="TNE (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/8QbvXva.png" group-title="Shqipëria",TNE (720p) [Not 24/7]
 https://v2.tustreaming.cl/tnetv/index.m3u8
 #EXTINF:-1  tvg-name="EXTREME TV" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fill/w:80/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vOGE3NDhkZWEtNmJjYi00Yzk3LTg4NTQtYzY1OTg1MGJhZDk5" group-title="Shqipëria",EXTREME TV
@@ -646,12 +642,6 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/in
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8aea-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d3e241b-d6cf-44c2-bfcd-45ca4d693881
 #EXTINF:-1  tvg-name="TR Sport (480p)" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Shqipëria",TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1  tvg-name="TRA Noticias (576p)" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-title="Shqipëria",TRA Noticias (576p)
-https://ssh101.bozztv.com/ssh101/rctvhdtra/chunks.m3u8
-#EXTINF:-1  tvg-name="Tra Vinh TV (720p)" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Shqipëria",Tra Vinh TV (720p)
-https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
-#EXTINF:-1  tvg-name="Tra Vinh TV 2 (720p)" tvg-logo="https://i.imgur.com/uqMu5Fb.png" group-title="Shqipëria",Tra Vinh TV 2 (720p)
-https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1  tvg-name="Trace Sports Stars" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Shqipëria",Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="Trace Urban" tvg-logo="https://i.imgur.com/xRJDVR3.png" group-title="Shqipëria",Trace Urban
@@ -716,42 +706,8 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/tracks-v3a1/
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1  tvg-name="TV7 Bekescsaba (360p)" tvg-logo="https://i.imgur.com/CnUhAlK.png" group-title="Shqipëria",TV7 Bekescsaba (360p)
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
-#EXTINF:-1  tvg-name="TVS Nostalgia (472p)" tvg-logo="https://i.imgur.com/q72FCCQ.png" group-title="Shqipëria",TVS Nostalgia (472p)
-https://bozztv.com/gusa/gusa-nostalgia/index.m3u8
-#EXTINF:-1  tvg-name="TVS Nostalgia Movies (480p)" tvg-logo="https://i.imgur.com/w4fxiKi.png" group-title="Shqipëria",TVS Nostalgia Movies (480p)
-https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
-#EXTINF:-1  tvg-name="TVS Pet Parade Network (360p)" tvg-logo="https://i.imgur.com/oGE1MOP.png" group-title="Shqipëria",TVS Pet Parade Network (360p)
-https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
-#EXTINF:-1  tvg-name="TVS Pinball Network (480p)" tvg-logo="https://i.imgur.com/HHmc14i.png" group-title="Shqipëria",TVS Pinball Network (480p)
-https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
-#EXTINF:-1  tvg-name="TVS Quiz Show Network (720p)" tvg-logo="https://i.imgur.com/5ljQwx2.png" group-title="Shqipëria",TVS Quiz Show Network (720p)
-https://bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
-#EXTINF:-1  tvg-name="TVS Select Network (720p)" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Shqipëria",TVS Select Network (720p)
-https://bozztv.com/gusa/gusa-tvsselect/index.m3u8
-#EXTINF:-1  tvg-name="TVS Sports (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Lwwq62E.png" group-title="Shqipëria",TVS Sports (720p) [Not 24/7]
-https://bozztv.com/gusa/gusa-tvssports/index.m3u8
-#EXTINF:-1  tvg-name="TVS Talk Network (360p)" tvg-logo="https://i.imgur.com/WsaVAhx.png" group-title="Shqipëria",TVS Talk Network (360p)
-https://bozztv.com/gusa/gusa-TVStalk/index.m3u8
-#EXTINF:-1  tvg-name="TVS Tally Ho (360p)" tvg-logo="https://i.imgur.com/JlFwnDD.png" group-title="Shqipëria",TVS Tally Ho (360p)
-https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8
-#EXTINF:-1  tvg-name="TVS Tavern (480p)" tvg-logo="https://i.imgur.com/3GTIs4j.png" group-title="Shqipëria",TVS Tavern (480p)
-https://bozztv.com/gusa/gusa-tavern/index.m3u8
-#EXTINF:-1  tvg-name="TVS Television Network (480p)" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Shqipëria",TVS Television Network (480p)
-https://bozztv.com/gusa/gusa-tvstn/index.m3u8
-#EXTINF:-1  tvg-name="TVS Travel Network (720p)" tvg-logo="https://i.imgur.com/vSFf5Ce.png" group-title="Shqipëria",TVS Travel Network (720p)
-https://bozztv.com/gusa/gusa-tvstravel/index.m3u8
-#EXTINF:-1  tvg-name="TVS Turbo (360p)" tvg-logo="https://i.imgur.com/7zYIbU1.png" group-title="Shqipëria",TVS Turbo (360p)
-https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
-#EXTINF:-1  tvg-name="TVS Vintage Network (360p)" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-vintage-network.jpg" group-title="Shqipëria",TVS Vintage Network (360p)
-https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
-#EXTINF:-1  tvg-name="TVS Western Movie (270p)" tvg-logo="https://i.imgur.com/dwr98qb.png" group-title="Shqipëria",TVS Western Movie (270p)
-https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1  tvg-name="TVS Women Sports (720p)" tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="Shqipëria",TVS Women Sports (720p)
-https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1  tvg-name="TVSN (1080p)" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="Shqipëria",TVSN (1080p)
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
-#EXTINF:-1  tvg-name="Wicked Part I 2024 English" tvg-logo="https://imgurworld.top/images/2024/11/25/06fc8f18396efd993e98299267be2779.jpg" group-title="Shqipëria",Wicked Part I 2024 English
-https://7f12638xuzfg.premilkyway.com/hls2/01/07631/ykng2g3sx15s_n/index-v1-a1.m3u8?t=thNh5zpbu9tNd4FlpxJz-PE2byWh-feNT7gbxCcMgfs&s=1736037323&e=129600&f=38157428&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=201838
 #EXTINF:-1  tvg-name="Yemen Today TV live" tvg-logo="https://livestreamlinks.net/images/flags/Yemen.png" group-title="Shqipëria",Yemen Today TV live
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1  tvg-name="UniMás HD US" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/07/unimas-logo-1.png" group-title="Shqipëria",UniMás HD US
@@ -847,7 +803,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1  tvg-name="TV5" tvg-logo="N/A" group-title="Turkish IPTV",TV5
 https://tv5-live.ercdn.net/tv5/tv5.m3u8
 #EXTINF:-1  tvg-name="FLASH HABER" tvg-logo="N/A" group-title="Turkish IPTV",FLASH HABER
-https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8?md5=t5xP5xZZnvUXA7cCGfQmHw&expires=1755095283
 #EXTINF:-1  tvg-name="TH TURK HABER TV" tvg-logo="N/A" group-title="Turkish IPTV",TH TURK HABER TV
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1  tvg-name="HABER 61" tvg-logo="N/A" group-title="Turkish IPTV",HABER 61
@@ -857,7 +813,7 @@ https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1  tvg-name="EURO D" tvg-logo="N/A" group-title="Turkish IPTV",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1  tvg-name="SHOW TÜRK" tvg-logo="N/A" group-title="Turkish IPTV",SHOW TÜRK
-https://canlitvulusal.xyz/live/showturk/index.m3u8
+https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1755016110&st=JC_v3_wyZ0PVQ451h4uGzg&tv=1
 #EXTINF:-1  tvg-name="SHOW MAX" tvg-logo="N/A" group-title="Turkish IPTV",SHOW MAX
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1  tvg-name="KANAL 7 AVRUPA" tvg-logo="N/A" group-title="Turkish IPTV",KANAL 7 AVRUPA
@@ -1884,8 +1840,8 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48888
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1  tvg-name="NPO 1" tvg-logo="N/A" group-title="Shqipëria",NPO 1
 http://62.131.195.211:8086/12.ts
-#EXTINF:-1  tvg-name="#EXTVLCOPT:network-caching=1000" tvg-logo="N/A" group-title="Turkish IPTV",#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8087/20.ts
+#EXTINF:-1  tvg-name="Movies" tvg-logo="N/A" group-title="Shqipëria",Movies
+https://be2719.rcr22.ams01.i8yz83pn.com/hls2/07/09609/5rt5kqgcahzt_x/index-v1-a1.m3u8?t=dTQ6vQ8bz5AsAMAQpoJM0c2zzVckoJrjkOVn8P6xjBs&s=1755008958&e=10800&f=48046024&srv=1060&asn=201838&sp=5500&p=
 #EXTINF:-1  tvg-name="ZIGGO SPORT" tvg-logo="N/A" group-title="Shqipëria",ZIGGO SPORT
 http://62.131.195.211:8086/0.ts
 #EXTINF:-1  tvg-name="EuroSport 1" tvg-logo="N/A" group-title="Shqipëria",EuroSport 1
