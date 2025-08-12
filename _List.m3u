@@ -1892,9 +1892,13 @@ http://62.131.195.211:8086/0.ts
 http://62.131.195.211:8086/8.ts
 #EXTINF:-1  tvg-name="ESPN" tvg-logo="N/A" group-title="Shqipëria",ESPN
 http://62.131.195.211:8086/4.ts
-#EXTINF:-1  tvg-name="NHL Network HD US" tvg-logo="https://images.dwncdn.net/images/t_app-icon-s/p/884f8a6f-6f0f-4670-8755-6c896c02f716/688439888/usa-tv-iptv-player-logo" group-title="Shqipëria",NHL Network HD US
-http://f7c59e6e.ottolok.net/iptv/42NFZWZC6CCCXB/7328/index.m3u8
+#EXTINF:-1  tvg-name="Fox 2 Detroit Live Stream" tvg-logo="https://images.dwncdn.net/images/t_app-icon-s/p/884f8a6f-6f0f-4670-8755-6c896c02f716/688439888/usa-tv-iptv-player-logo" group-title="Shqipëria",Fox 2 Detroit Live Stream
+https://dcs-live.mp.lura.live/server/play/qAo6JKahebDPuRr0/manifest.m3u8?encp=HsIRJinT-uHZc_9ii7qRvw:lNWTuo7-NYJdNBX0EHSJR2ZBSeMCSdVZZbEIyV1ff9OaPabZNS3hLdrpTaP0W5z58_Vcg-WffQBno-Ogdq_UKlz1zbWyhTSouD7xlJuPyKLIaERYbdkSBOFPufdWvKPuPnIhei4nginz00bcK3TfJUeZRieMSnoHw7GIl-5ZXdexd2xjscKX4BCjs7t_yEvgyoJPwAZ_ycrS75RCLsmla_qDUfsJ6S7ETeFQfxQyoWSOOtt49NnYMm7y_554TJpPs6AmjYr8q2_7LNh8VkIT7YgP8ud2vRiVd72mePvTXOlD8SCaZDiKcO1J3GdZ3V3DpY7nV9EN_JzV6fWZSqqQ7DEd9l9qavi6jhO9oOnuama6EeGL_tkA13EE_KFBRj_npMrp-YzUKiCJu-ehb9fPauvbxHFLjwrku0uJy8cdk1UrM-rTvTfxlyyg7Znkbdm12ty7wT4yIc_urWYMiC1lWbtkinivFmDYLSq1PF1_qpq07UktqoFvpmt7B3bbcW6-njUwcRg8En9Bc8EuMxrIDVpO-FMqOmq41ORWcFjDoUYY9qe3qf80lWJ1qxfnK592a0d2RlkxzwPK1NAQTamrFAfZL1ipUZx3dNTHz9k_pWR5bL-AYkr84aNY6sJUOd3cSOql6EecuL3Z0KwIgNA8YE1RTkWA40wm5cmi3SHduVXxSdx_aQEZ45vG-y34O6szl9y8s4KlGdSp0Ce85qjtGVxuVjevemash5MlMqe6E6vAy96g84O0GhPFDwnT8R0ZjaEDkmOU2beOQOhUdRqlKHYJoM4Pb3cK0C7-8oMqzQOgnxHdsdjv_HNBX6-d5hS5T-8oP3Ky1uoGmgk0kN6l_A&anvtrid=fcc05e72f46f840bccbd0f440f141c3b&anvauth=tb=0~te=1755007264~sgn=f5813d9679eecc08161431b8a89bc3dee9495e9cbb95996836132cb656c7a99c&t=1755007174&_vpng=0
 #EXTINF:-1  tvg-name="Destination Channel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Destination_America_Logo_2012.png/250px-Destination_America_Logo_2012.png" group-title="Shqipëria",Destination Channel TV
 https://link.frontlayer.com/services/hls2/fl482917/index.m3u8
 #EXTINF:-1  tvg-name="ITV4 Live Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/2560px-ITV4.svg.png" group-title="Shqipëria",ITV4 Live Stream
 https://livetvde.net/itv4/index.m3u8?token=558e26ecb01a5127ae87976d2c514e8b36ef3b48-0f8e6cc79e44232de5447576940866e5-1755017517-1755006717
+#EXTINF:-1  tvg-name="Channel 5 Live Stream (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/2560px-ITV4.svg.png" group-title="Shqipëria",Channel 4 Live Stream (UK)
+https://livetvde.net/channel4/index.m3u8?token=8774e9a929bc6668993919211368d87ae6bd7e39-1ec3fc983b73921304bad4771410bfe3-1755018107-1755007307
+#EXTINF:-1  tvg-name="Channel 5 Live Stream (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/2560px-ITV4.svg.png" group-title="Shqipëria",Channel 5 Live Stream (UK)
+https://livetvde.net/channel5/index.m3u8?token=d40811301a80d4b71f55988f6c3ee0d85e42d30d-90e9ebe77071a2150fe0d8aaea33298a-1755018027-1755007227
