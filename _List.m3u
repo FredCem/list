@@ -153,10 +153,10 @@ https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëria",Eman TV
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/chunks.m3u8?nimblesessionid=875850588
-#EXTINF:-1  tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëria",News 24
-http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Shqipëria",News 24
-https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëria",ANT1 Live Stream
+https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_2/chunklist_dvr.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Shqipëria",CNA Live Stream (Singapore)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="Shqipëria",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Shqipëria",TV7
