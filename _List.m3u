@@ -232,8 +232,8 @@ https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 https://livetvde.net/npo1/tracks-v1a1/mono.m3u8?token=75e295830d59af091e6342a3f996feb9fab528fa-ae3fd2c9de6af6d0a6722aa5dccb99ff-1753306999-1753296199
 #EXTINF:-1  tvg-name="NPO 2" tvg-logo="https://cdn1.tvmi.mt/images/tvmi-logo-website.svg" group-title="Shqipëria",NPO 2
 https://livetvde.net/npo2/index.m3u8?token=c434d7276467d3872496f943a92e8d13bdc769c9-6903545f1091af57b7dc0f9833367522-1753307118-1753296318
-#EXTINF:-1  tvg-name="TVM+" tvg-logo="https://cdn1.tvmi.mt/images/tvmi-logo-website.svg" group-title="Shqipëria",TVM+
-https://dist11.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjM1MTgyNDU1LCJhdWQiOiIxODUuMjM4LjIyMC4xNjQiLCJleHAiOjE3NDMzNzQwODF9.rE0fn7fdxtVXfW4iYv_76Kp0D2-OjDACpKNPt5YABys/live/3/0/index.m3u8
+#EXTINF:-1  tvg-name="EMMAN Channel (576p)" tvg-logo="https://cdn1.tvmi.mt/images/tvmi-logo-website.svg" group-title="Shqipëria",EMMAN Channel (576p)
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1  tvg-name="Makkah TV live stream" tvg-logo="https://thumbor.prod.vidiocdn.com/uN-9YSAGB4t2sj1D0nFEqroQ42o=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Shqipëria",Makkah TV live stream
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1  tvg-name="360 TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="Shqipëria",360 TV (720p) [Not 24/7]
