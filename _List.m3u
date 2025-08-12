@@ -1897,4 +1897,4 @@ http://f7c59e6e.ottolok.net/iptv/42NFZWZC6CCCXB/7328/index.m3u8
 #EXTINF:-1  tvg-name="Destination Channel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Destination_America_Logo_2012.png/250px-Destination_America_Logo_2012.png" group-title="Shqipëria",Destination Channel TV
 https://link.frontlayer.com/services/hls2/fl482917/index.m3u8
 #EXTINF:-1  tvg-name="ITV4 Live Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/2560px-ITV4.svg.png" group-title="Shqipëria",ITV4 Live Stream
-https://link.frontlayer.com/services/hls2/fl482917/index.m3u8
+https://livetvde.net/itv4/index.m3u8?token=558e26ecb01a5127ae87976d2c514e8b36ef3b48-0f8e6cc79e44232de5447576940866e5-1755017517-1755006717
