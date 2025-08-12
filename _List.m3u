@@ -9,10 +9,6 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",Localish (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Destination_America_Logo_2012.png/250px-Destination_America_Logo_2012.png" group-title="Shqipëria",Destination Channel TV 
-https://link.frontlayer.com/services/hls2/fl482917/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/2560px-ITV4.svg.png" group-title="Shqipëria",ITV4 Live Stream
-https://link.frontlayer.com/services/hls2/fl482917/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria",RTK 1 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zykxz0/thumbnails/standart.jpg" group-title="Shqipëria",RTK 2 TV
@@ -1897,3 +1893,7 @@ http://62.131.195.211:8086/8.ts
 http://62.131.195.211:8086/4.ts
 #EXTINF:-1  tvg-logo="https://images.dwncdn.net/images/t_app-icon-s/p/884f8a6f-6f0f-4670-8755-6c896c02f716/688439888/usa-tv-iptv-player-logo" group-title="Shqipëria",NHL Network HD US
 http://f7c59e6e.ottolok.net/iptv/42NFZWZC6CCCXB/7328/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Destination_America_Logo_2012.png/250px-Destination_America_Logo_2012.png" group-title="Shqipëria",Destination Channel TV 
+https://link.frontlayer.com/services/hls2/fl482917/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/2560px-ITV4.svg.png" group-title="Shqipëria",ITV4 Live Stream
+https://link.frontlayer.com/services/hls2/fl482917/index.m3u8
