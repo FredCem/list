@@ -1,5 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-name="ISLAM CHANNEL TV" tvg-logo="https://thumbnails.simplestreamcdn.com/islamtv/epg/20250720100500-20250720103500-1025.jpg?width=700&lang=en" group-title="Shqipëria",ISLAM CHANNEL TV
+#EXTINF:-1  tvg-name="ISLAM CHANNEL TV" tvg-logo="https://thumbnails.simplestreamcdn.com/islamtv/epg/20250720100500-20250720103500-1025.jpg?width=700&lang=en" group-title="Shqipëria",ISLAM CHANNEL TV
 #KODIPROP:key=1
 https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
 #EXTINF:-1  tvg-name="FILMA365 TV" tvg-logo="https://filma365.cc/uploads/poster/6PNbNAm5on.png" group-title="Shqipëria",FILMA365 TV
@@ -1840,7 +1841,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48888
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1  tvg-name="NPO 1" tvg-logo="N/A" group-title="Shqipëria",NPO 1
 http://62.131.195.211:8086/12.ts
-#EXTINF:-1  media="The Death of Snow White" tvg-name="The Death of Snow White" tvg-logo="N/A" group-title="Shqipëria",Movies
+#EXTINF:-0 type="playlist", The Death of Snow White
 https://be2719.rcr22.ams01.i8yz83pn.com/hls2/07/09609/5rt5kqgcahzt_x/master.m3u8?t=dTQ6vQ8bz5AsAMAQpoJM0c2zzVckoJrjkOVn8P6xjBs&s=1755008958&e=10800&f=48046024&srv=1060&asn=201838&sp=5500&p=
 #EXTINF:-1  tvg-name="ZIGGO SPORT" tvg-logo="N/A" group-title="Shqipëria",ZIGGO SPORT
 http://62.131.195.211:8086/0.ts
@@ -1854,7 +1855,7 @@ https://dcs-live.mp.lura.live/server/play/qAo6JKahebDPuRr0/manifest.m3u8?encp=Hs
 https://link.frontlayer.com/services/hls2/fl482917/index.m3u8
 #EXTINF:-1  tvg-name="ITV4 Live Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/2560px-ITV4.svg.png" group-title="Shqipëria",ITV4 Live Stream
 https://livetvde.net/itv4/index.m3u8?token=558e26ecb01a5127ae87976d2c514e8b36ef3b48-0f8e6cc79e44232de5447576940866e5-1755017517-1755006717
-#EXTINF:-1  tvg-name="Channel 5 Live Stream (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/2560px-ITV4.svg.png" group-title="Shqipëria",Channel 4 Live Stream (UK)
+#EXTINF:-1  tvg-name="Channel 4 Live Stream (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/2560px-ITV4.svg.png" group-title="Shqipëria",Channel 4 Live Stream (UK)
 https://livetvde.net/channel4/index.m3u8?token=8774e9a929bc6668993919211368d87ae6bd7e39-1ec3fc983b73921304bad4771410bfe3-1755018107-1755007307
 #EXTINF:-1  tvg-name="Channel 5 Live Stream (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/2560px-ITV4.svg.png" group-title="Shqipëria",Channel 5 Live Stream (UK)
 https://livetvde.net/channel5/index.m3u8?token=d40811301a80d4b71f55988f6c3ee0d85e42d30d-90e9ebe77071a2150fe0d8aaea33298a-1755018027-1755007227
