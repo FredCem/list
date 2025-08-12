@@ -1841,7 +1841,7 @@ https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1  tvg-name="NPO 1" tvg-logo="N/A" group-title="Shqipëria",NPO 1
 http://62.131.195.211:8086/12.ts
 #EXTINF:-1  tvg-name="Movies" tvg-logo="N/A" group-title="Shqipëria",Movies
-https://be2719.rcr22.ams01.i8yz83pn.com/hls2/07/09609/5rt5kqgcahzt_x/index-v1-a1.m3u8?t=dTQ6vQ8bz5AsAMAQpoJM0c2zzVckoJrjkOVn8P6xjBs&s=1755008958&e=10800&f=48046024&srv=1060&asn=201838&sp=5500&p=
+https://be2719.rcr22.ams01.i8yz83pn.com/hls2/07/09609/5rt5kqgcahzt_x/master.m3u8?t=dTQ6vQ8bz5AsAMAQpoJM0c2zzVckoJrjkOVn8P6xjBs&s=1755008958&e=10800&f=48046024&srv=1060&asn=201838&sp=5500&p=
 #EXTINF:-1  tvg-name="ZIGGO SPORT" tvg-logo="N/A" group-title="Shqipëria",ZIGGO SPORT
 http://62.131.195.211:8086/0.ts
 #EXTINF:-1  tvg-name="EuroSport 1" tvg-logo="N/A" group-title="Shqipëria",EuroSport 1
