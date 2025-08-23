@@ -37,6 +37,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
 #EXTINF:-1  tvg-name="Vizion Plus" tvg-id="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="Shqipëria",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
+#EXTINF:-1  tvg-name="News 24 HD" tvg-id="News 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" group-title="Shqipëria",News 24 HD
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1  tvg-name="ALBTVUSA Live" tvg-id="ALBTVUSA Live" tvg-logo="https://okteve.com/wp-content/uploads/media/54b7de4048750f1ba408aef3278a35f9-196x126.jpeg" group-title="Shqipëria",ALBTVUSA Live
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI1OGJkMDkxODA4ZGM4MzRhNGRlMDM2OGNmY2ZjZmZjYiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzU1MDYxODk3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.IlktYJRcqx0D7ya7OzITbWHus0NfRn10vD7Cq7a-LPXMMgsGpSZovJU7uHeTJK8oShVulsDmgbwngWq07aL-MX5Qg22dPas73V5BrA_caXwWYbaYLwv3FBUSjS-9gUAt-DD-6w0twQG8JMvsq4M_7m0pH3-adhPh8u1UNzLMWjcwVTcESDr_byy0h7sviStyCf1JbcB7fEWNRC6WTMVO4rTc0sSf3YFIy_G2d97e0vh418v_SQBesVBkxV5h-lAUR3LIyIr5HjS6YwM47MruhTyiFfVmOPoPiaZ-3aQcWepnv7M3XtUI3gthnKnaXnBTpQVCe4ttmRcRLcz2wc7qog/manifest/stream_t1cfc4a24c6e205762c47689e68ee042d_r1160359091.m3u8?llhlsHBs=0.9&CMCD=cid%3D%221755018699604%22%2Cmtp%3D28500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%225edb2748-0594-4f26-b0a9-23cc12061295%22
 #EXTINF:-1  tvg-name="Syri TV" tvg-id="Syri TV" tvg-logo="https://bashk.tv/storage/uploads/users/images/channel_logos/55ea20ae81_logo_61c8c3129c141_thumb.jpg" group-title="Shqipëria",Syri TV
@@ -438,8 +440,6 @@ https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 #EXTINF:-1  tvg-name="MyTV Channel" tvg-id="MyTV Channel" tvg-logo="http://radio.vipotv.com/wp-content/uploads/2023/05/mytv-channel-live-vipotv.png" group-title="Shqipëria",MyTV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
 #EXTINF:-1  tvg-name="News 24" tvg-id="News 24" tvg-logo="https://www.news24.al/wp-content/uploads/2024/01/logo-256-70.png" group-title="Shqipëria",News 24
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1  tvg-name="News 24 HD" tvg-id="News 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" group-title="Shqipëria",News 24 HD
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1  tvg-name="Now 70s" tvg-id="Now 70s" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Shqipëria",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
