@@ -21,6 +21,12 @@ https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="MovieSphere by Lionsgate" tvg-id="MovieSphere by Lionsgate" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",MovieSphere by Lionsgate
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
+#EXTINF:-1  tvg-name="Antena 1" tvg-id="Antena 1" tvg-logo="https://www.tvonline123.com/uploads/logos/152b725afcfd7c88.webp" group-title="Shqipëria",Antena 1
+https://rotvonline.com/6ovmo5b7p0/tracks-v1a1/mono.m3u8?token=1f3a47e786d10652ac8cfc55aa946ba0c57f999d-a798826a6f7b068511952382a0065eda-1757732209-1757721409
+#EXTINF:-1  tvg-name="Cinemax 1" tvg-id="Cinemax 1" tvg-logo="https://www.tvonline123.com/uploads/logos/0a09d46faa99fe7a.webp" group-title="Shqipëria",Cinemax 1
+https://rotvonline.com/hkmrjeid4/index.m3u8?token=fd69dec35b0a8dc1fd0ea6bff33ec717fdd13e94-510d69ca34d07719885df9216788067c-1757732292-1757721492
+#EXTINF:-1  tvg-name="Film Now" tvg-id="Film Now" tvg-logo="https://www.tvonline123.com/uploads/logos/86a899b8cdaca119.webp" group-title="Shqipëria",Film Now
+https://rotvonline.com/h4ulokh/index.m3u8?token=514e24b9f6a8e665609cd904ebc55d097c1b6486-adfde4493cb079a2512953c1d1f84e47-1757732388-1757721588
 #EXTINF:-1  tvg-name="RTK 1 TV" tvg-id="RTK 1 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria",RTK 1 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
 #EXTINF:-1  tvg-name="RTK 2 TV" tvg-id="RTK 2 TV" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zykxz0/thumbnails/standart.jpg" group-title="Shqipëria",RTK 2 TV
