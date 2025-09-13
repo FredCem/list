@@ -7,10 +7,10 @@ https://protokolldns.xyz/fxmediaweb5548/tracks-v1a1/mono.m3u8
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:-1  tvg-id="Discover Films TV" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",Discover Films TV
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1  tvg-id="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" group-title="Shqipëria",Ora News
+#EXTINF:-1  tvg-id="Ora News" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Ora News
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1  tvg-id="Localish (720p)" tvg-logo="https://i.imgur.com/ACEbGD5.png" group-title="Shqipëria",Localish (720p)
-https://rotvonline.com/u92frc/index.m3u8?token=d51cfb5aab82b2ea108ecfbcf173f6f42266e5e7-251d41a916b5d7a92054bf27e246bbab-1757794428-1757783628
+#EXTINF:-1  tvg-id="Filmbox" tvg-logo="https://i.imgur.com/ACEbGD5.png" group-title="Shqipëria",Filmbox
+https://rotvonline.com/z9774shvw/index.m3u8?token=9eb27be2548672699ff31d6d77151663ea5ac401-469a5d8399f28a9f0597f5b80b37ac0e-1757797567-1757786767
 #EXTINF:-1  tvg-id="Korça TV +" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1  tvg-id="Movies Action (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Action_Movies_2022.svg/2560px-Fox_Action_Movies_2022.svg.png" group-title="Shqipëria",Movies Action (1080p)
@@ -36,7 +36,7 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_
 #EXTINF:-1  tvg-id="Film Now" tvg-logo="https://www.tvonline123.com/uploads/logos/86a899b8cdaca119.webp" group-title="Shqipëria",Film Now
 https://rotvonline.com/h4ulokh/tracks-v1a1/mono.m3u8?token=433222c2f8b72ecf88d6cb6fddd5e8a3d028cdff-3d606a1d05ba2db282a508f616433a09-1757794356-1757783556
 #EXTINF:-1  tvg-id="HBO" tvg-logo="https://www.tvonline123.com/uploads/logos/f3bf07ee89ab144d.webp" group-title="Shqipëria",HBO
-https://rotvonline.com/120oczdeso/index.m3u8?token=ce1a699cd4a5e92feebc7e30f3880e8001d5cf69-53df12ac7ba382d5ff61506363e2ed36-1757794474-1757783674
+https://rotvonline.com/120oczdeso/index.m3u8?token=788611a61900febbf5e1b95b1e95bffc4a1cad92-2a6699a1a021183721e630e0f13147e6-1757797510-1757786710
 #EXTINF:-1  tvg-id="HBO 2" tvg-logo="https://www.tvonline123.com/uploads/logos/0290df4613662ed2.webp" group-title="Shqipëria",HBO 2
 https://rotvonline.com/bhs8f/index.m3u8?token=5dfc62dd4283d3d443d4e2cd0206bdb9446a9d56-fe9418f72bb9777f71869a0164cffb86-1757795727-1757784927
 #EXTINF:-1  tvg-id="HBO 3" tvg-logo="https://www.tvonline123.com/uploads/logos/eb6bb1eb4bbb5e2b.webp" group-title="Shqipëria",HBO 3
