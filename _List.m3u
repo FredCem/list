@@ -21,6 +21,8 @@ https://rotvonline.com/s1r13de/index.m3u8?token=b4669d34940f96f221d2fb5c5caac4f0
 https://rotvonline.com/nmq6pqiz/index.m3u8?token=6d076106c7bffc1623e1e720d8d777bfab4f3cef-de9304208ad22c18b8e4d667ad198074-1757798101-1757787301
 #EXTINF:-1  tvg-id="SkyShowTime 2" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",SkyShowTime 2
 https://rotvonline.com/boqjhaxda/index.m3u8?token=6d510cbfd3443a8223f2c478a35ad063b38456d3-a34df63f0a690326432d88f6c4234def-1757798113-1757787313
+#EXTINF:-1  tvg-id="Pro Cinema" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",Pro Cinema
+https://rotvonline.com/be8m9hikg/index.m3u8?token=ff8baabc894b8c7039d82dbfde6cd26214dc37d7-0e43859e227d2616a8324de5610c50cf-1757798202-1757787402
 #EXTINF:-1  tvg-id="Movies Action (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Action_Movies_2022.svg/2560px-Fox_Action_Movies_2022.svg.png" group-title="Shqipëria",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1  tvg-id="Movies Game (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Citytvgreatmovies05.jpeg/revision/latest?cb=20201025003640" group-title="Shqipëria",Movies Game (1080p)
