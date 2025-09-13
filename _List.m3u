@@ -21,7 +21,7 @@ https://rotvonline.com/s1r13de/index.m3u8?token=b4669d34940f96f221d2fb5c5caac4f0
 https://rotvonline.com/nmq6pqiz/index.m3u8?token=6d076106c7bffc1623e1e720d8d777bfab4f3cef-de9304208ad22c18b8e4d667ad198074-1757798101-1757787301
 #EXTINF:-1  tvg-id="SkyShowTime 2" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",SkyShowTime 2
 https://rotvonline.com/boqjhaxda/index.m3u8?token=6d510cbfd3443a8223f2c478a35ad063b38456d3-a34df63f0a690326432d88f6c4234def-1757798113-1757787313
-#EXTINF:-1  tvg-id="Pro Cinema" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",Pro Cinema
+#EXTINF:-1  tvg-id="Pro Cinema" tvg-logo="https://www.tvonline123.com/uploads/logos/649b3ee70378d44f.webp" group-title="Shqipëria",Pro Cinema
 https://rotvonline.com/be8m9hikg/index.m3u8?token=ff8baabc894b8c7039d82dbfde6cd26214dc37d7-0e43859e227d2616a8324de5610c50cf-1757798202-1757787402
 #EXTINF:-1  tvg-id="Movies Action (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Action_Movies_2022.svg/2560px-Fox_Action_Movies_2022.svg.png" group-title="Shqipëria",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
@@ -37,6 +37,8 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
 #EXTINF:-1  tvg-id="Antena 1" tvg-logo="https://www.tvonline123.com/uploads/logos/152b725afcfd7c88.webp" group-title="Shqipëria",Antena 1
 https://rotvonline.com/6ovmo5b7p0/index.m3u8?token=e6cdb7009a159396106cb1feab2c52cca89f06b1-b1f78ddc1c8a27daf7766bc8d5cdb482-1757794403-1757783603
+#EXTINF:-1  tvg-id="Warner TV" tvg-logo="https://www.tvonline123.com/uploads/logos/f5c6d1952c30d039.webp" group-title="Shqipëria",Warner TV
+https://rotvonline.com/en5fk/index.m3u8?token=4296d22c7fbba8e8c86b7bc1319b9773b5abfa1b-912a84c7bfdc15faaa40461981b7e06a-1757798355-1757787555
 #EXTINF:-1  tvg-id="Cinemax 1" tvg-logo="https://www.tvonline123.com/uploads/logos/0a09d46faa99fe7a.webp" group-title="Shqipëria",Cinemax 1
 https://rotvonline.com/hkmrjeid4/index.m3u8?token=fd69dec35b0a8dc1fd0ea6bff33ec717fdd13e94-510d69ca34d07719885df9216788067c-1757732292-1757721492
 #EXTINF:-1  tvg-id="Cinemax 2" tvg-logo="https://www.tvonline123.com/uploads/logos/0a09d46faa99fe7a.webp" group-title="Shqipëria",Cinemax 2
