@@ -9,20 +9,20 @@ https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1  tvg-id="Ora News" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Ora News
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1  tvg-id="FilmBox" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",FilmBox
-https://rotvonline.com/z9774shvw/index.m3u8?token=739425fa3bd733bb641afb21e49a79074c1159dd-ff9f65dec1fa30d996fa73bd39976cf0-1757799037-1757788237
-#EXTINF:-1  tvg-id="FilmBox Premium" tvg-logo="https://www.tvonline123.com/uploads/logos/c73b86798c4ee33f.webp" group-title="Shqipëria",FilmBox Premium
-https://rotvonline.com/TCBkMWCwma/index.m3u8?token=d7a9790bbb281beb0bfc450c91aecaf168160a64-1b3d9035b98ba1271ef4ea467072b4f4-1757797808-1757787008
+#EXTINF:-1  tvg-id="FilmBox" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  tvg-id="FilmBox Premium" tvg-logo="https://www.tvonline123.com/uploads/logos/c73b86798c4ee33f.webp" group-title="Shqipëria",Aurora Media Films (720p)
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1  tvg-id="Korça TV +" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
 http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:-1  tvg-id="Diva" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",Diva
-https://rotvonline.com/s1r13de/index.m3u8?token=b4669d34940f96f221d2fb5c5caac4f0a0fee0dc-f133199b9b8eac04571620714db14903-1757797993-1757787193
-#EXTINF:-1  tvg-id="SkyShowTime 1" tvg-logo="https://www.tvonline123.com/uploads/logos/2349bfaa1dced878.webp" group-title="Shqipëria",SkyShowTime 1
-https://rotvonline.com/nmq6pqiz/index.m3u8?token=6d076106c7bffc1623e1e720d8d777bfab4f3cef-de9304208ad22c18b8e4d667ad198074-1757798101-1757787301
-#EXTINF:-1  tvg-id="SkyShowTime 2" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",SkyShowTime 2
-https://rotvonline.com/boqjhaxda/index.m3u8?token=6d510cbfd3443a8223f2c478a35ad063b38456d3-a34df63f0a690326432d88f6c4234def-1757798113-1757787313
+#EXTINF:-1  tvg-id="Diva" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",Filmgold
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=266c2f61-4ff7-423e-9af5-2d4f8e57bd34
+#EXTINF:-1  tvg-id="SkyShowTime 1" tvg-logo="https://www.tvonline123.com/uploads/logos/2349bfaa1dced878.webp" group-title="Shqipëria",Film4 HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:-1  tvg-id="SkyShowTime 2" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",GEM Film
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemfilm/index-0.m3u8
 #EXTINF:-1  tvg-id="Pro Cinema" tvg-logo="https://www.tvonline123.com/uploads/logos/649b3ee70378d44f.webp" group-title="Shqipëria",Pro Cinema
-https://rotvonline.com/be8m9hikg/index.m3u8?token=ff8baabc894b8c7039d82dbfde6cd26214dc37d7-0e43859e227d2616a8324de5610c50cf-1757798202-1757787402
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1  tvg-id="Movies Action (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Action_Movies_2022.svg/2560px-Fox_Action_Movies_2022.svg.png" group-title="Shqipëria",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1  tvg-id="Movies Game (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Citytvgreatmovies05.jpeg/revision/latest?cb=20201025003640" group-title="Shqipëria",Movies Game (1080p)
