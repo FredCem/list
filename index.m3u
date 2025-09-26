@@ -218,9 +218,9 @@ https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb1
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",BRT 1 KIBRIS
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",KIBRIS ADA
-https://edge.kuzeykibrissmart.tv/kibristv/bant1/playlist.m3u8
+https://edge.kuzeykibrissmart.tv/adatv/bant1/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",KTV  KIBRIS
-https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
+https://edge.kuzeykibrissmart.tv/kibristv/bant1/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",KUZEY KIBRIS
 https://kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",KIBRIS GENÇ TV
