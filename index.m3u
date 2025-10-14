@@ -10,7 +10,7 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/640px-StarTV.svg.png" group-title="Turkish IPTV",STAR TV
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://mo.ciner.com.tr/showtv/iu/400x400/baba-bizi-eversene.jpg?v=1751032852" group-title="Turkish IPTV",SHOW TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logo_KanalD.svg/1200px-Logo_KanalD.svg.png" group-title="Turkish IPTV",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" group-title="Turkish IPTV",KANAL 7
