@@ -17,10 +17,12 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1  tvg-id="Diva" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",Filmgold
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=266c2f61-4ff7-423e-9af5-2d4f8e57bd34
-#EXTINF:-1  tvg-id="SkyShowTime 1" tvg-logo="https://www.tvonline123.com/uploads/logos/2349bfaa1dced878.webp" group-title="Shqipëria",Film4 HD (1080p)
+#EXTINF:-1  tvg-id="Film4 HD (1080p)" tvg-logo="https://www.tvonline123.com/uploads/logos/2349bfaa1dced878.webp" group-title="Shqipëria",Film4 HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTINF:-1  tvg-id="SkyShowTime 2" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",GEM Film
-https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemfilm/index-0.m3u8
+#EXTINF:-1  tvg-id="Showtime 2 East" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",Showtime 2 East
+https://fl7.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1  tvg-id="Showtime East" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",Showtime East
+https://fl7.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1  tvg-id="Pro Cinema" tvg-logo="https://www.tvonline123.com/uploads/logos/649b3ee70378d44f.webp" group-title="Shqipëria",Pro Cinema
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1  tvg-id="Movies Action (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Action_Movies_2022.svg/2560px-Fox_Action_Movies_2022.svg.png" group-title="Shqipëria",Movies Action (1080p)
@@ -35,14 +37,14 @@ https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="MovieSphere by Lionsgate" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",MovieSphere by Lionsgate
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
-#EXTINF:-1  tvg-id="Antena 1" tvg-logo="https://www.tvonline123.com/uploads/logos/152b725afcfd7c88.webp" group-title="Shqipëria",Antena 1
-https://rotvonline.com/6ovmo5b7p0/index.m3u8?token=e6cdb7009a159396106cb1feab2c52cca89f06b1-b1f78ddc1c8a27daf7766bc8d5cdb482-1757794403-1757783603
+#EXTINF:-1  tvg-id="Showtime Next East" tvg-logo="https://www.tvonline123.com/uploads/logos/152b725afcfd7c88.webp" group-title="Shqipëria",Showtime Next East
+https://fl7.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1  tvg-id="Warner TV" tvg-logo="https://www.tvonline123.com/uploads/logos/f5c6d1952c30d039.webp" group-title="Shqipëria",Warner TV
 https://rotvonline.com/en5fk/index.m3u8?token=4296d22c7fbba8e8c86b7bc1319b9773b5abfa1b-912a84c7bfdc15faaa40461981b7e06a-1757798355-1757787555
-#EXTINF:-1  tvg-id="Cinemax 1" tvg-logo="https://www.tvonline123.com/uploads/logos/0a09d46faa99fe7a.webp" group-title="Shqipëria",Cinemax 1
-https://rotvonline.com/hkmrjeid4/index.m3u8?token=fd69dec35b0a8dc1fd0ea6bff33ec717fdd13e94-510d69ca34d07719885df9216788067c-1757732292-1757721492
-#EXTINF:-1  tvg-id="Cinemax 2" tvg-logo="https://www.tvonline123.com/uploads/logos/0a09d46faa99fe7a.webp" group-title="Shqipëria",Cinemax 2
-https://rotvonline.com/s63ais/index.m3u8?token=c61baefddf1def4d0e3c26aa2b7e7b60355577db-b50b9b629886de187c477239e4e6c1d1-1757796763-1757785963
+#EXTINF:-1  tvg-id="Showtime West (1080p)" tvg-logo="https://www.tvonline123.com/uploads/logos/0a09d46faa99fe7a.webp" group-title="Shqipëria",Showtime West (1080p)
+https://fl7.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1  tvg-id="Showtime Women East" tvg-logo="https://www.tvonline123.com/uploads/logos/0a09d46faa99fe7a.webp" group-title="Shqipëria",Showtime Women East
+https://fl7.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1  tvg-id="Dubai One" tvg-logo="https://yt3.googleusercontent.com/fw3l7B3dFohbaCxcrFVtR0KDs7PADWar-1CflgqqEATrvO3c6hPDXt44mPXmlbDxEnPWAScxD9I=s900-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1  tvg-id="Film Now" tvg-logo="https://www.tvonline123.com/uploads/logos/86a899b8cdaca119.webp" group-title="Shqipëria",Film Now
