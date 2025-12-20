@@ -19,8 +19,8 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=266c2f61-4ff7-423e-9af5-2d4f8e57bd34
 #EXTINF:-1  tvg-id="Film4 HD (1080p)" tvg-logo="https://www.tvonline123.com/uploads/logos/2349bfaa1dced878.webp" group-title="Shqipëria",Film4 HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTINF:-1  tvg-id="Showtime 2 East" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",Showtime 2 East
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1  tvg-id="Lifetime East" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",Lifetime East
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-id="Lifetime Movie Network" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",Lifetime Movie Network
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1  tvg-id="Pro Cinema" tvg-logo="https://www.tvonline123.com/uploads/logos/649b3ee70378d44f.webp" group-title="Shqipëria",Pro Cinema
