@@ -45,6 +45,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1  tvg-id="Movies!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",Movies!
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
+#EXTINF:-1  tvg-id="truTV West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",truTV West
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/trutvwest.us.m3u8
+#EXTINF:-1  tvg-id="truTV East (Adaptive)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",truTV East (Adaptive)
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/trutveast.us.m3u8
+#EXTINF:-1  tvg-id="TNT West (Adaptive)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",TNT West (Adaptive)
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tntwest.us.m3u8
+#EXTINF:-1  tvg-id="TCM (Turner Classic Movies) East (Adaptive)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",TCM (Turner Classic Movies) East (Adaptive)
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmeast.us.m3u8
 #EXTINF:-1  tvg-id="ABC East (WOLO) (Columbia):" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",ABC East (WOLO) (Columbia):
 http://fl2.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1  tvg-id="MovieSphere by Lionsgate" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",MovieSphere by Lionsgate
