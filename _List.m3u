@@ -15,8 +15,12 @@ https://afrafhls.wns.live/hls/stream.m3u8
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1  tvg-id="Korça TV +" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
 http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:-1  tvg-id="Diva" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",Filmgold
+#EXTINF:-1  tvg-id="Filmgold" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",Filmgold
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=266c2f61-4ff7-423e-9af5-2d4f8e57bd34
+#EXTINF:-1  tvg-id="TLC East" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",TLC East
+http://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1  tvg-id="DisneyJr East" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",DisneyJr East
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1  tvg-id="Film4 HD (1080p)" tvg-logo="https://www.tvonline123.com/uploads/logos/2349bfaa1dced878.webp" group-title="Shqipëria",Film4 HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1  tvg-id="Lifetime East" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",Lifetime East
