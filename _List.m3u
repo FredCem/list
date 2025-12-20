@@ -30,7 +30,7 @@ http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1  tvg-id="Pro Cinema" tvg-logo="https://www.tvonline123.com/uploads/logos/649b3ee70378d44f.webp" group-title="Shqipëria",Pro Cinema
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1  tvg-id="Starz East" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/hbo-logo-optimized.jpg?x53049" group-title="Shqipëria",Starz East
-https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
+http://fl2.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1  tvg-id="Starz Comedy East" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/hbo-logo-optimized.jpg?x53049" group-title="Shqipëria",Starz Comedy East
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1  tvg-id="Starz Encore Action" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/hbo-logo-optimized.jpg?x53049" group-title="Shqipëria",Starz Encore Action
