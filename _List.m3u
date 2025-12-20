@@ -20,11 +20,19 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #EXTINF:-1  tvg-id="Film4 HD (1080p)" tvg-logo="https://www.tvonline123.com/uploads/logos/2349bfaa1dced878.webp" group-title="Shqipëria",Film4 HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1  tvg-id="Showtime 2 East" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",Showtime 2 East
-https://fl7.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1  tvg-id="Showtime East" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",Showtime East
-https://fl7.moveonjoy.com/SHOWTIME/index.m3u8
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1  tvg-id="Lifetime Movie Network" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",Lifetime Movie Network
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1  tvg-id="Pro Cinema" tvg-logo="https://www.tvonline123.com/uploads/logos/649b3ee70378d44f.webp" group-title="Shqipëria",Pro Cinema
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1  tvg-id="Starz East" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/hbo-logo-optimized.jpg?x53049" group-title="Shqipëria",Starz East
+https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="Starz Comedy East" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/hbo-logo-optimized.jpg?x53049" group-title="Shqipëria",Starz Comedy East
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1  tvg-id="Starz Encore Action" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/hbo-logo-optimized.jpg?x53049" group-title="Shqipëria",Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1  tvg-id="Starz Encore Westerns" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/hbo-logo-optimized.jpg?x53049" group-title="Shqipëria",Starz Encore Westerns
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1  tvg-id="Movies Action (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Action_Movies_2022.svg/2560px-Fox_Action_Movies_2022.svg.png" group-title="Shqipëria",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1  tvg-id="Movies Game (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Citytvgreatmovies05.jpeg/revision/latest?cb=20201025003640" group-title="Shqipëria",Movies Game (1080p)
@@ -47,15 +55,17 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1  tvg-id="Dubai One" tvg-logo="https://yt3.googleusercontent.com/fw3l7B3dFohbaCxcrFVtR0KDs7PADWar-1CflgqqEATrvO3c6hPDXt44mPXmlbDxEnPWAScxD9I=s900-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1  tvg-id="Film Now" tvg-logo="https://www.tvonline123.com/uploads/logos/86a899b8cdaca119.webp" group-title="Shqipëria",Film Now
-https://rotvonline.com/h4ulokh/tracks-v1a1/mono.m3u8?token=433222c2f8b72ecf88d6cb6fddd5e8a3d028cdff-3d606a1d05ba2db282a508f616433a09-1757794356-1757783556
+#EXTINF:-1  tvg-id="Cinemax East" tvg-logo="https://www.tvonline123.com/uploads/logos/86a899b8cdaca119.webp" group-title="Shqipëria",Cinemax East
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1  tvg-id="Cartoon Network / [adult swim]" tvg-logo="https://www.tvonline123.com/uploads/logos/86a899b8cdaca119.webp" group-title="Shqipëria",Cartoon Network / [adult swim]
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-id="HBO" tvg-logo="https://www.tvonline123.com/uploads/logos/f3bf07ee89ab144d.webp" group-title="Shqipëria",HBO
-https://rotvonline.com/120oczdeso/index.m3u8?token=788611a61900febbf5e1b95b1e95bffc4a1cad92-2a6699a1a021183721e630e0f13147e6-1757797510-1757786710
+http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1  tvg-id="HBO 2" tvg-logo="https://www.tvonline123.com/uploads/logos/0290df4613662ed2.webp" group-title="Shqipëria",HBO 2
-https://rotvonline.com/bhs8f/index.m3u8?token=5dfc62dd4283d3d443d4e2cd0206bdb9446a9d56-fe9418f72bb9777f71869a0164cffb86-1757795727-1757784927
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1  tvg-id="HBO 3" tvg-logo="https://www.tvonline123.com/uploads/logos/eb6bb1eb4bbb5e2b.webp" group-title="Shqipëria",HBO 3
-https://rotvonline.com/nbayegvd/index.m3u8?token=7287e374c5f2bb1d9d3d54da6099089b836324bd-66bab8cb4c1166770cf2904f0f70baf8-1757796681-1757785881
-#EXTINF:-1  tvg-id="RTK 4 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 4 TV
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1  tvg-id="RTK 3 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 3 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1  tvg-id="Tropoja TV (1080p)" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Shqipëria",Tropoja TV (1080p)
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
@@ -455,8 +465,6 @@ https://protokolldns.xyz/fxmediaweb5548/tracks-v1a1/mono.m3u8
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1  tvg-id="Grand Cinema" tvg-logo="https://artv.watch/cdn/channel/GrandCinema.tr?width=50" group-title="Shqipëria",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-id="HBO TV" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/hbo-logo-optimized.jpg?x53049" group-title="Shqipëria",HBO TV
-https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Hit TV" tvg-logo="https://i.imgur.com/PCVWtHd.png" group-title="Shqipëria",Hit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1  tvg-id="Ideal World Ⓨ" tvg-logo="https://i.imgur.com/su6GH7i.png" group-title="Shqipëria",Ideal World Ⓨ
