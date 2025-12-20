@@ -9,9 +9,9 @@ https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1  tvg-id="Ora News" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Ora News
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1  tvg-id="FilmBox" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Afra Film
+#EXTINF:-1  tvg-id="Afra Film" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-id="FilmBox Premium" tvg-logo="https://www.tvonline123.com/uploads/logos/c73b86798c4ee33f.webp" group-title="Shqipëria",Aurora Media Films (720p)
+#EXTINF:-1  tvg-id="Aurora Media Films (720p)" tvg-logo="https://www.tvonline123.com/uploads/logos/c73b86798c4ee33f.webp" group-title="Shqipëria",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1  tvg-id="Korça TV +" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
 http://32.shqiptv.org/korca/albplus/index.m3u8
@@ -45,8 +45,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1  tvg-id="Movies!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",Movies!
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
-#EXTINF:-1  tvg-id="MovieSphere (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",MovieSphere (1080p)
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="ABC East (WOLO) (Columbia):" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",ABC East (WOLO) (Columbia):
+http://fl2.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1  tvg-id="MovieSphere by Lionsgate" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/ERGj07CXkAAn5Xl.jpg/revision/latest/scale-to-width-down/250?cb=20200219015916" group-title="Shqipëria",MovieSphere by Lionsgate
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
 #EXTINF:-1  tvg-id="Showtime Next East" tvg-logo="https://www.tvonline123.com/uploads/logos/152b725afcfd7c88.webp" group-title="Shqipëria",Showtime Next East
@@ -409,7 +409,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parlia
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1  tvg-id="BBC World News" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="Shqipëria",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
-#EXTINF:-1  tvg-id="BBC World News" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="Shqipëria",BBC World News HD
+#EXTINF:-1  tvg-id="BBC World News HD" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="Shqipëria",BBC World News HD
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1  tvg-id="Beach TV - 30A" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="Shqipëria",Beach TV - 30A
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
@@ -513,7 +513,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c49
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1  tvg-id="S4C Ⓖ" tvg-logo="https://i.imgur.com/vrcbnBv.png" group-title="Shqipëria",S4C Ⓖ
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:-1  tvg-id="Shqiponja TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg" group-title="Shqipëria",TSC Live Stream (Canada)
+#EXTINF:-1  tvg-id="TSC Live Stream (Canada)" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg" group-title="Shqipëria",TSC Live Stream (Canada)
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/audio_0_eng/audio_0_eng.m3u8
 #EXTINF:-1  tvg-id="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png" group-title="Shqipëria",Sky News
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
@@ -529,7 +529,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
 #EXTINF:-1  tvg-id="The Asylum" tvg-logo="https://i.imgur.com/dx9tt1B.png" group-title="Shqipëria",The Asylum
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ece1a89d79800072510e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e052a62-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1739a4c5-d7e2-41f4-aa40-91bb650267c5
-#EXTINF:-1  tvg-id="The Asylum" tvg-logo="https://i.imgur.com/rOxQfdG.png" group-title="Shqipëria",Atlanta Channel Live Stream from USA
+#EXTINF:-1  tvg-id="Atlanta Channel Live Stream from USA" tvg-logo="https://i.imgur.com/rOxQfdG.png" group-title="Shqipëria",Atlanta Channel Live Stream from USA
 https://5ed325193d4e1.streamlock.net:444/LiveTV/ATLHD/chunklist_w1370900855.m3u8
 #EXTINF:-1  tvg-id="The Boat Show (720p)" tvg-logo="https://i.imgur.com/qlhS2zw.png" group-title="Shqipëria",The Boat Show (720p)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
@@ -1785,7 +1785,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48888
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1  tvg-id="NPO 1" tvg-logo="N/A" group-title="Shqipëria",NPO 1
 http://62.131.195.211:8086/12.ts
-#EXTINF:-1  tvg-id="bonappetit.us" group-title="Shqipëria",bon appétit (720p)
+#EXTINF:-1  tvg-id="bon appétit (720p)" group-title="Shqipëria",bon appétit (720p)
 https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="Jurassic World Rebirth (2025)" tvg-logo="https://wsrv.nl/?url=https://image.tmdb.org/t/p/w780/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg" group-title="VOD",Jurassic World Rebirth (2025)
 https://tgtria1dbw.xyz/file2/eTdA8wcEQWKFgtGaud3QT37ZzJC68oYxz7MSujc4n3HJ5pnKxw73nOZYuA31WgNAwtXE9ZC93ONi2JWI4A9T2YEiCvTqv4tMgnwImwIDDrPcoGStKl+4yeZ2Rz~88hLNRlNmL4XXrJjLYbQf+UHzUlVO0uQLc8UfCGBbCKoPOiM=/cGxheWxpc3QubTN1OA==.m3u8
@@ -1799,119 +1799,121 @@ https://tgtria1dbw.xyz/file2/AduYSRkVO2cuq~b9sJIHXdvL+kjOhVGhwQQc5krv2JiTfaz7Ymg
 https://tgtria1dbw.xyz/file2/FZfULmKFgZT97n~sLeHvS~aoFRm13HqU0ftO6y9lp1sgR~negp9iUcdSM8+Hrei8QciqmP1HuxZ7BUZiYV26kj0no4N3ygpYBMkQ2mCOXmMLYPB4OGpjZ0O0VZYAwRjpRTa6J2bjYWC+OebXmjdebMyrObXD~csmiabJnb3jYQE=/cGxheWxpc3QubTN1OA==.m3u8
 #EXTINF:-1  tvg-id="Nobody 2 (2025)" tvg-logo="https://wsrv.nl/?url=https://image.tmdb.org/t/p/w780/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg" group-title="VOD",Nobody 2 (2025)
 https://nebulavault823.xyz/snowblink22.pro/file2/F6LRix+29VYB8FwvuhNN00jJQWyP9uQRhFHcBYxaDkvrIhcyZnxOV9J~Vz5fbRgv~Eam7XXhRt8zi4MuIdml9hijtn35Nj+9VsI7g+2+kIxrCWAMzhMqA1Nnjc3LAqX47ernTkvVSBy6CdSa4JqilAhwab8i528D0Syy5JnvDKY=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
-#EXTINF:-1  tvg-logo="N/A" group-title="Shqipëria",ZIGGO SPORT
+#EXTINF:-1  tvg-id="ZIGGO SPORT" tvg-logo="N/A" group-title="Shqipëria",ZIGGO SPORT
 http://62.131.195.211:8086/0.ts
-#EXTINF:-1  tvg-logo="N/A" group-title="Shqipëria",EuroSport 1
+#EXTINF:-1  tvg-id="EuroSport 1" tvg-logo="N/A" group-title="Shqipëria",EuroSport 1
 http://62.131.195.211:8086/8.ts
-#EXTINF:-1  tvg-logo="N/A" group-title="Shqipëria",ESPN
+#EXTINF:-1  tvg-id="ESPN" tvg-logo="N/A" group-title="Shqipëria",ESPN
 http://62.131.195.211:8086/4.ts
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kmE9YXP3y3YBDcVdpzQNDIWsQhR3ZIRCrYsxCuGMjgzA=s160-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",AWE Encore (720p)
+#EXTINF:-1  tvg-id="AWE Encore (720p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kmE9YXP3y3YBDcVdpzQNDIWsQhR3ZIRCrYsxCuGMjgzA=s160-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",AWE Encore (720p)
 https://aweencore-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="FoxWeather.us" group-title="Shqipëria",Fox Weather (720p)
+#EXTINF:-1  tvg-id="Fox Weather (720p)" group-title="Shqipëria",Fox Weather (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Weather.m3u8
-#EXTINF:-1  tvg-id="FoxWeather.us" group-title="Shqipëria",Fox Weather (720p)
+#EXTINF:-1  tvg-id="Fox Weather (720p)" group-title="Shqipëria",Fox Weather (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Weather.m3u8
-#EXTINF:-1  tvg-id="KCCIDT1.us" group-title="Shqipëria",KCCI-TV News Des Moines IA (720p)
+#EXTINF:-1  tvg-id="KCCI-TV News Des Moines IA (720p)" group-title="Shqipëria",KCCI-TV News Des Moines IA (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8
-#EXTINF:-1  tvg-id="KCPQDT1.us" group-title="Shqipëria",FOX Q13 Seattle WA (KCPQ) (720p)
+#EXTINF:-1  tvg-id="FOX Q13 Seattle WA (KCPQ) (720p)" group-title="Shqipëria",FOX Q13 Seattle WA (KCPQ) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
-#EXTINF:-1  tvg-id="KCRADT1.us" group-title="Shqipëria",KCRA-TV News Sacramento CA (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="KCRA-TV News Sacramento CA (720p) [Not 24/7]" group-title="Shqipëria",KCRA-TV News Sacramento CA (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8
-#EXTINF:-1  tvg-id="KETVDT1.us" group-title="Shqipëria",ABC 7 Omaha NE (KETV) (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="ABC 7 Omaha NE (KETV) (720p) [Not 24/7]" group-title="Shqipëria",ABC 7 Omaha NE (KETV) (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
-#EXTINF:-1  tvg-id="KHBSDT1.us" group-title="Shqipëria",KHBS-TV News Fort Smith AR (720p)
+#EXTINF:-1  tvg-id="KHBS-TV News Fort Smith AR (720p)" group-title="Shqipëria",KHBS-TV News Fort Smith AR (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8
-#EXTINF:-1  tvg-id="KMBCDT1.us" group-title="Shqipëria",ABC 9 Kansas City MO (KMBC-TV) (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="ABC 9 Kansas City MO (KMBC-TV) (720p) [Not 24/7]" group-title="Shqipëria",ABC 9 Kansas City MO (KMBC-TV) (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
-#EXTINF:-1  tvg-id="KOATDT1.us" group-title="Shqipëria",KOAT-TV News Albuquerque NM (720p)
+#EXTINF:-1  tvg-id="KOAT-TV News Albuquerque NM (720p)" group-title="Shqipëria",KOAT-TV News Albuquerque NM (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
-#EXTINF:-1  tvg-id="KOCODT1.us" group-title="Shqipëria",ABC 5 Oklahoma City OK (KOCO) (576p) [Not 24/7]
+#EXTINF:-1  tvg-id="ABC 5 Oklahoma City OK (KOCO) (576p) [Not 24/7]" group-title="Shqipëria",ABC 5 Oklahoma City OK (KOCO) (576p) [Not 24/7]
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
-#EXTINF:-1  tvg-id="KSBWDT1.us" group-title="Shqipëria",KSBW-TV News Salinas CA (720p)
+#EXTINF:-1  tvg-id="KSBW-TV News Salinas CA (720p)" group-title="Shqipëria",KSBW-TV News Salinas CA (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8
-#EXTINF:-1  tvg-id="Localish.us" group-title="Shqipëria",Localish (720p)
+#EXTINF:-1  tvg-id="Localish (720p)" group-title="Shqipëria",Localish (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8
-#EXTINF:-1  tvg-id="Reelz.us" group-title="Shqipëria",Reelz
+#EXTINF:-1  tvg-id="Reelz" group-title="Shqipëria",Reelz
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
-#EXTINF:-1  tvg-id="WAPTDT1.us" group-title="Shqipëria",WAPT-TV News Jackson MS (720p)
+#EXTINF:-1  tvg-id="WAPT-TV News Jackson MS (720p)" group-title="Shqipëria",WAPT-TV News Jackson MS (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
-#EXTINF:-1  tvg-id="WBALDT1.us" group-title="Shqipëria",WBAL-TV News Baltimore MD (576p)
+#EXTINF:-1  tvg-id="WBAL-TV News Baltimore MD (576p)" group-title="Shqipëria",WBAL-TV News Baltimore MD (576p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
-#EXTINF:-1  tvg-id="WCVBDT1.us" group-title="Shqipëria",WCVB-TV News Boston MA (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="WCVB-TV News Boston MA (720p) [Not 24/7]" group-title="Shqipëria",WCVB-TV News Boston MA (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
-#EXTINF:-1  tvg-id="WDSUDT1.us" group-title="Shqipëria",NBC 6 New Orleans LA (WDSU) (720p)
+#EXTINF:-1  tvg-id="NBC 6 New Orleans LA (WDSU) (720p)" group-title="Shqipëria",NBC 6 New Orleans LA (WDSU) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
-#EXTINF:-1  tvg-id="WESHDT1.us" group-title="Shqipëria",WESH-TV News Orlando FL (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="WESH-TV News Orlando FL (720p) [Not 24/7]" group-title="Shqipëria",WESH-TV News Orlando FL (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8
-#EXTINF:-1  tvg-id="WGALDT1.us" group-title="Shqipëria",WGAL-TV News Lancaster PA (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="WGAL-TV News Lancaster PA (720p) [Not 24/7]" group-title="Shqipëria",WGAL-TV News Lancaster PA (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
-#EXTINF:-1  tvg-id="WISNDT1.us" group-title="Shqipëria",WISN-TV News Milwaukee WI (720p)
+#EXTINF:-1  tvg-id="WISN-TV News Milwaukee WI (720p)" group-title="Shqipëria",WISN-TV News Milwaukee WI (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
-#EXTINF:-1  tvg-id="WJCLDT1.us" group-title="Shqipëria",WJCL-TV News Savannah GA (720p)
+#EXTINF:-1  tvg-id="WJCL-TV News Savannah GA (720p)" group-title="Shqipëria",WJCL-TV News Savannah GA (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
-#EXTINF:-1  tvg-id="WLKYDT1.us" group-title="Shqipëria",WLKY-TV News Louisville KY (720p)
+#EXTINF:-1  tvg-id="WLKY-TV News Louisville KY (720p)" group-title="Shqipëria",WLKY-TV News Louisville KY (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8
-#EXTINF:-1  tvg-id="WLWTDT1.us" group-title="Shqipëria",NBC 5 Cincinnati OH (WLWT) (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="NBC 5 Cincinnati OH (WLWT) (720p) [Not 24/7]" group-title="Shqipëria",NBC 5 Cincinnati OH (WLWT) (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
-#EXTINF:-1  tvg-id="WMORDT1.us" group-title="Shqipëria",WMOR-TV News Lakeland FL (720p)
+#EXTINF:-1  tvg-id="WMOR-TV News Lakeland FL (720p)" group-title="Shqipëria",WMOR-TV News Lakeland FL (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8
-#EXTINF:-1  tvg-id="WMTWDT1.us" group-title="Shqipëria",WMTW-TV News Portland ME (720p)
+#EXTINF:-1  tvg-id="WMTW-TV News Portland ME (720p)" group-title="Shqipëria",WMTW-TV News Portland ME (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8
-#EXTINF:-1  tvg-id="WMURDT1.us" group-title="Shqipëria",ABC 9 Manchester NH (WMUR-TV) (720p)
+#EXTINF:-1  tvg-id="ABC 9 Manchester NH (WMUR-TV) (720p)" group-title="Shqipëria",ABC 9 Manchester NH (WMUR-TV) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
-#EXTINF:-1  tvg-id="WPBFDT1.us" group-title="Shqipëria",WPBF-TV News West Palm Beach FL (720p)
+#EXTINF:-1  tvg-id="WPBF-TV News West Palm Beach FL (720p)" group-title="Shqipëria",WPBF-TV News West Palm Beach FL (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8
-#EXTINF:-1  tvg-id="WPTZDT1.us" group-title="Shqipëria",WPTZ-TV News Plattsburgh NY (720p)
+#EXTINF:-1  tvg-id="WPTZ-TV News Plattsburgh NY (720p)" group-title="Shqipëria",WPTZ-TV News Plattsburgh NY (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8
-#EXTINF:-1  tvg-id="WTAEDT1.us" group-title="Shqipëria",ABC 4 Pittsburg PA (WTAE) (720p)
+#EXTINF:-1  tvg-id="ABC 4 Pittsburg PA (WTAE) (720p)" group-title="Shqipëria",ABC 4 Pittsburg PA (WTAE) (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
-#EXTINF:-1  tvg-id="WVTMDT1.us" group-title="Shqipëria",Very Alabama (576p)
+#EXTINF:-1  tvg-id="Very Alabama (576p)" group-title="Shqipëria",Very Alabama (576p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
-#EXTINF:-1  tvg-id="CBSNews.us" group-title="Shqipëria",CBSN (720p)
+#EXTINF:-1  tvg-id="CBSN (720p)" group-title="Shqipëria",CBSN (720p)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsBayArea.us" group-title="Shqipëria",CBSN Bay Area CA (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="CBSN Bay Area CA (720p) [Not 24/7]" group-title="Shqipëria",CBSN Bay Area CA (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsBoston.us" group-title="Shqipëria",CBSN Boston MA (720p)
+#EXTINF:-1  tvg-id="CBSN Boston MA (720p)" group-title="Shqipëria",CBSN Boston MA (720p)
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsChicago.us" group-title="Shqipëria",CBSN Chicago IL (720p)
+#EXTINF:-1  tvg-id="CBSN Chicago IL (720p)" group-title="Shqipëria",CBSN Chicago IL (720p)
 https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsColorado.us" group-title="Shqipëria",CBSN Denver CO (720p)
+#EXTINF:-1  tvg-id="CBSN Denver CO (720p)" group-title="Shqipëria",CBSN Denver CO (720p)
 https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsDFW.us" group-title="Shqipëria",CBSN Dallas Ft Worth TX (720p)
+#EXTINF:-1  tvg-id="CBSN Dallas Ft Worth TX (720p)" group-title="Shqipëria",CBSN Dallas Ft Worth TX (720p)
 https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsLosAngeles.us" group-title="Shqipëria",CBSN Los Angeles CA (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="CBSN Los Angeles CA (720p) [Not 24/7]" group-title="Shqipëria",CBSN Los Angeles CA (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsMinnesota.us" group-title="Shqipëria",CBSN Minnesota MN (720p)
+#EXTINF:-1  tvg-id="CBSN Minnesota MN (720p)" group-title="Shqipëria",CBSN Minnesota MN (720p)
 https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsNewYork.us" group-title="Shqipëria",CBSN New York NY (720p)
+#EXTINF:-1  tvg-id="CBSN New York NY (720p)" group-title="Shqipëria",CBSN New York NY (720p)
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsPhilly.us" group-title="Shqipëria",CBSN Philly PA (720p)
+#EXTINF:-1  tvg-id="CBSN Philly PA (720p)" group-title="Shqipëria",CBSN Philly PA (720p)
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsPittsburgh.us" group-title="Shqipëria",CBSN Pittsburgh PA (720p)
+#EXTINF:-1  tvg-id="CBSN Pittsburgh PA (720p)" group-title="Shqipëria",CBSN Pittsburgh PA (720p)
 https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
-#EXTINF:-1  tvg-id="CGTN.cn" group-title="Shqipëria",CGTN English (432p) [Not 24/7]
+#EXTINF:-1  tvg-id="CGTN English (432p) [Not 24/7]" group-title="Shqipëria",CGTN English (432p) [Not 24/7]
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
-#EXTINF:-1  tvg-id="Charge.us" group-title="Shqipëria",STIRR Charge! (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRR Charge! (720p) [Not 24/7]" group-title="Shqipëria",STIRR Charge! (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
-#EXTINF:-1  tvg-id="Charge.us" group-title="Shqipëria",Charge! (720p) [Geo-blocked]
+#EXTINF:-1  tvg-id="Charge! (720p) [Geo-blocked]" group-title="Shqipëria",Charge! (720p) [Geo-blocked]
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1  tvg-id="Choppertown.us" group-title="Shqipëria",STIRR Choppertown (720p)
+#EXTINF:-1  tvg-id="STIRR Choppertown (720p)" group-title="Shqipëria",STIRR Choppertown (720p)
 https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
-#EXTINF:-1  tvg-id="CineLife.us" group-title="Shqipëria",STIRR CineLife (1080p)
+#EXTINF:-1  tvg-id="STIRR CineLife (1080p)" group-title="Shqipëria",STIRR CineLife (1080p)
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-#EXTINF:-1  tvg-id="Comet.us" group-title="Shqipëria",Comet (720p) [Geo-blocked]
+#EXTINF:-1  tvg-id="Comet (720p) [Geo-blocked]" group-title="Shqipëria",Comet (720p) [Geo-blocked]
 https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1  tvg-id="ETLive.us" group-title="Shqipëria",ET Live (1080p)
+#EXTINF:-1  tvg-id="ET Live (1080p)" group-title="Shqipëria",ET Live (1080p)
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
-#EXTINF:-1  tvg-id="KidsClick.us" group-title="Shqipëria",KidsClick (720p) [Geo-blocked]
+#EXTINF:-1  tvg-id="KidsClick (720p) [Geo-blocked]" group-title="Shqipëria",KidsClick (720p) [Geo-blocked]
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
-#EXTINF:-1  tvg-id="LIVExLIVE.us" group-title="Shqipëria",LIVExLIVE (1080p)
+#EXTINF:-1  tvg-id="LIVExLIVE (1080p)" group-title="Shqipëria",LIVExLIVE (1080p)
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1  tvg-id="Mobcrush.us" group-title="Shqipëria",Mobcrush (720p)
+#EXTINF:-1  tvg-id="Mobcrush (720p)" group-title="Shqipëria",Mobcrush (720p)
 https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
-#EXTINF:-1  tvg-id="MysteryScienceTheater3000.us" group-title="Shqipëria",STIRR Mystery Science Theater 3000 (1080p)
+#EXTINF:-1  tvg-id="STIRR Mystery Science Theater 3000 (1080p)" group-title="Shqipëria",STIRR Mystery Science Theater 3000 (1080p)
 https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
-#EXTINF:-1  tvg-id="TheArchive.us" group-title="Shqipëria",STIRR The Archive (720p)
+#EXTINF:-1  tvg-id="STIRR The Archive (720p)" group-title="Shqipëria",STIRR The Archive (720p)
 https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
-#EXTINF:-1  tvg-id="TheFilmDetective.us" tvg-logo="https://wsrv.nl/?url=https://image.tmdb.org/t/p/w780/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" group-title="VOD",The Lord of the Rings: The Two Towers (2002)
+#EXTINF:-1  tvg-id="The Lord of the Rings: The Two Towers (2002)" tvg-logo="https://wsrv.nl/?url=https://image.tmdb.org/t/p/w780/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" group-title="VOD",The Lord of the Rings: The Two Towers (2002)
 https://tgtria1dbw.xyz/file2/MHT6IrlPl3POa43jjhPvF5HkFOJ+fAgeO46Pep+yanpLXAQFkxmU1vQIERqGvpuCb~Ff20+9gGDVteGH+1dcrt7vX5jMaxGex1C8N5eBO4B4OwR4eVPS3XynkPNqUrRyByPRqdnLFm4BdTIJigkXsry47OpgXLaXVbSBFyCYlVo=/cGxheWxpc3QubTN1OA==.m3u8
+#EXTINF:-1  tvg-id="1",
+
