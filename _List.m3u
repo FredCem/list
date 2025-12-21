@@ -1,6 +1,10 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-id="ISLAM CHANNEL TV" tvg-logo="https://thumbnails.simplestreamcdn.com/islamtv/epg/20250720100500-20250720103500-1025.jpg?width=700&lang=en" group-title="Shqipëria",ISLAM CHANNEL TV
 https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
+#EXTINF:-1  tvg-id="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="Shqipëria",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1  tvg-id="Shqiponja TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg" group-title="Shqipëria",Shqiponja TV
+https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
 #EXTINF:-1  tvg-id="FILMA365 TV" tvg-logo="https://filma365.cc/uploads/poster/6PNbNAm5on.png" group-title="Shqipëria",FILMA365 TV
 https://protokolldns.xyz/fxmediaweb5548/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="Shqipëria",Vizion Plus
@@ -91,10 +95,6 @@ https://ifood-vizio.amagi.tv/playlist.m3u8
 https://younghollywood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="Pro 1" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/pro1.jpg" group-title="Shqipëria",Pro 1
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
-#EXTINF:-1  tvg-id="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="Shqipëria",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1  tvg-id="Shqiponja TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg" group-title="Shqipëria",Shqiponja TV
-https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
 #EXTINF:-1  tvg-id="BBC News HD" tvg-logo="https://icanlive.tv/pictures/abc-news-al_small.jpg" group-title="Shqipëria",BBC News HD
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
 #EXTINF:-1  tvg-id="RTV 21" tvg-logo="https://i.imgur.com/qcJ4EBl.png" group-title="Shqipëria",RTV 21
@@ -1923,5 +1923,3 @@ https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
 https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
 #EXTINF:-1  tvg-id="The Lord of the Rings: The Two Towers (2002)" tvg-logo="https://wsrv.nl/?url=https://image.tmdb.org/t/p/w780/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" group-title="VOD",The Lord of the Rings: The Two Towers (2002)
 https://tgtria1dbw.xyz/file2/MHT6IrlPl3POa43jjhPvF5HkFOJ+fAgeO46Pep+yanpLXAQFkxmU1vQIERqGvpuCb~Ff20+9gGDVteGH+1dcrt7vX5jMaxGex1C8N5eBO4B4OwR4eVPS3XynkPNqUrRyByPRqdnLFm4BdTIJigkXsry47OpgXLaXVbSBFyCYlVo=/cGxheWxpc3QubTN1OA==.m3u8
-#EXTINF:-1  tvg-id="1",
-
