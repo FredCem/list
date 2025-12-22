@@ -5,20 +5,36 @@ https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrat
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1  tvg-id="Shqiponja TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg" group-title="Shqipëria",Shqiponja TV
 https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
+#EXTINF:-1  tvg-id="RTK 3 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 1 TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF:-1  tvg-id="RTK 3 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 2 TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8
+#EXTINF:-1  tvg-id="RTK 3 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 3 TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1  tvg-id="Tropoja TV (1080p)" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Shqipëria",Tropoja TV (1080p)
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="Star Plus" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2020/12/star-logo.png" group-title="Shqipëria",Star Plus
+https://t3.tvmak.com/tv/STARPLUS.m3u8?9DNwYOEG86
 #EXTINF:-1  tvg-id="FILMA365 TV" tvg-logo="https://filma365.cc/uploads/poster/6PNbNAm5on.png" group-title="Shqipëria",FILMA365 TV
 https://protokolldns.xyz/fxmediaweb5548/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="Shqipëria",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-#EXTINF:-1  tvg-id="Discover Films TV" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",Discover Films TV
-https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1  tvg-id="Pro 1" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/pro1.jpg" group-title="Shqipëria",Pro 1
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
 #EXTINF:-1  tvg-id="Ora News" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Ora News
 https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1  tvg-id="BBVIP_AL1" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL1
+https://cdn-4.bigbrotheral.xyz/memfs/408ce70f-9965-40e1-b87d-6ab22f1fc3c9_output_0.m3u8?session=S7YhWTgezBx7G6XiazERv6
+#EXTINF:-1  tvg-id="BBVIP_AL2" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL2
+https://cdn-4.bigbrotheral.xyz/memfs/408ce70f-9965-40e1-b87d-6ab22f1fc3c9_output_0.m3u8?session=S7YhWTgezBx7G6XiazERv6
 #EXTINF:-1  tvg-id="Afra Film" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
 #EXTINF:-1  tvg-id="Aurora Media Films (720p)" tvg-logo="https://www.tvonline123.com/uploads/logos/c73b86798c4ee33f.webp" group-title="Shqipëria",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1  tvg-id="Korça TV +" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
 http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:-1  tvg-id="Discover Films TV" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",Discover Films TV
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1  tvg-id="Filmgold" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",Filmgold
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=266c2f61-4ff7-423e-9af5-2d4f8e57bd34
 #EXTINF:-1  tvg-id="TLC East" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",TLC East
@@ -81,20 +97,12 @@ http://fl2.moveonjoy.com/HBO/index.m3u8
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1  tvg-id="HBO 3" tvg-logo="https://www.tvonline123.com/uploads/logos/eb6bb1eb4bbb5e2b.webp" group-title="Shqipëria",HBO 3
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1  tvg-id="RTK 3 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 3 TV
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
-#EXTINF:-1  tvg-id="Tropoja TV (1080p)" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Shqipëria",Tropoja TV (1080p)
-https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="Star Plus" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2020/12/star-logo.png" group-title="Shqipëria",Star Plus
-https://t3.tvmak.com/tv/STARPLUS.m3u8?9DNwYOEG86
 #EXTINF:-1  tvg-id="Circle (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Circle_Country_logo.webp" group-title="Shqipëria",Circle (1080p)
 https://circle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="iFood.TV (720p)" tvg-logo="https://image.roku.com/developer_channels/prod/4ed903465d9447d3f1a08db7dd4f5e1de9ad2725e1902c4c5cc0a1246cce2fa1.png" group-title="Shqipëria",iFood.TV (720p)
 https://ifood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="Young Hollywood (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/Young_Hollywood_logo.png" group-title="Shqipëria",Young Hollywood (720p)
 https://younghollywood-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="Pro 1" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/pro1.jpg" group-title="Shqipëria",Pro 1
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
 #EXTINF:-1  tvg-id="BBC News HD" tvg-logo="https://icanlive.tv/pictures/abc-news-al_small.jpg" group-title="Shqipëria",BBC News HD
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
 #EXTINF:-1  tvg-id="RTV 21" tvg-logo="https://i.imgur.com/qcJ4EBl.png" group-title="Shqipëria",RTV 21
