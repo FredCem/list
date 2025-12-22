@@ -33,6 +33,8 @@ https://t3.tvmak.com/tv/RTV21POPULLORE.m3u8?tvS2xkdAcN
 https://t3.tvmak.com/tv/RTV21JUNIOR.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="TV 21 - Maqedoni" tvg-logo="https://tvmak.com/img/tv/tv21-maqedoni.png" group-title="Shqipëria",TV 21 - Maqedoni
 https://t1.tvmak.com/tv/TV21MK.m3u8?tvS2xkdAcN
+#EXTINF:-1  tvg-id="TV ERA" tvg-logo="https://tvmak.com/img/tv/tvera.png" group-title="Shqipëria",TV ERA
+https://t1.tvmak.com/tv/TVERA.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="News 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" group-title="Shqipëria",News 24 HD
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1  tvg-id="ALBTVUSA Live" tvg-logo="https://okteve.com/wp-content/uploads/media/54b7de4048750f1ba408aef3278a35f9-196x126.jpeg" group-title="Shqipëria",ALBTVUSA Live
