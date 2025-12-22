@@ -23,6 +23,16 @@ https://protokolldns.xyz/fxmediaweb5548/tracks-v1a1/mono.m3u8
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:-1  tvg-id="RTV 21" tvg-logo="https://i.imgur.com/qcJ4EBl.png" group-title="Shqipëria",RTV 21
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1  tvg-id="RTV 21 MIX" tvg-logo="https://tvmak.com/img/tv/rtv21mix.png" group-title="Shqipëria",RTV 21 MIX
+https://t1.tvmak.com/tv/RTV21MIX.m3u8?tvS2xkdAcN
+#EXTINF:-1  tvg-id="RTV 21 PLUS" tvg-logo="https://tvmak.com/img/tv/rtv21plus.png" group-title="Shqipëria",RTV 21 PLUS
+https://t1.tvmak.com/tv/RTV21PLUS.m3u8?tvS2xkdAcN
+#EXTINF:-1  tvg-id="RTV 21 POPULLORE" tvg-logo="https://tvmak.com/img/tv/rtv21popullore.png" group-title="Shqipëria",RTV 21 POPULLORE
+https://t3.tvmak.com/tv/RTV21POPULLORE.m3u8?tvS2xkdAcN
+#EXTINF:-1  tvg-id="RTV 21 RTV 21 JUNIOR" tvg-logo="https://tvmak.com/img/tv/rtv21junior.png" group-title="Shqipëria",RTV 21 RTV 21 JUNIOR
+https://t3.tvmak.com/tv/RTV21JUNIOR.m3u8?tvS2xkdAcN
+#EXTINF:-1  tvg-id="TV 21 - Maqedoni" tvg-logo="https://tvmak.com/img/tv/tv21-maqedoni.png" group-title="Shqipëria",TV 21 - Maqedoni
+https://t1.tvmak.com/tv/TV21MK.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="News 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" group-title="Shqipëria",News 24 HD
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1  tvg-id="ALBTVUSA Live" tvg-logo="https://okteve.com/wp-content/uploads/media/54b7de4048750f1ba408aef3278a35f9-196x126.jpeg" group-title="Shqipëria",ALBTVUSA Live
@@ -111,6 +121,10 @@ https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 #EXTINF:-1  tvg-id="Pro 1" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/pro1.jpg" group-title="Shqipëria",Pro 1
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
+#EXTINF:-1  tvg-id="AlbFilm 1" tvg-logo="https://tvmak.com/img/tv/albfilmtv.png" group-title="Shqipëria",AlbFilm 1
+https://t1.tvmak.com/tv/ALBFILMTV1.m3u8?tvS2xkdAcN
+#EXTINF:-1  tvg-id="RTV RED" tvg-logo="https://tvmak.com/img/tv/rtvred.png" group-title="Shqipëria",RTV RED
+https://t3.tvmak.com/tv/RTVRED.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="Ora News" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Ora News
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1  tvg-id="TV Mitrovica" tvg-logo="https://tvmak.com/img/tv/tvmitrovica.png" group-title="Shqipëria",TV Mitrovica
