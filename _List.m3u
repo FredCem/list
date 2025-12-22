@@ -3,17 +3,17 @@
 https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
 #EXTINF:-1  tvg-id="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="Shqipëria",Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1  tvg-id="Shqiponja TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg" group-title="Shqipëria",Shqiponja TV
-https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
-#EXTINF:-1  tvg-id="RTK 3 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 1 TV
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF:-1  tvg-id="BBVIP_AL1" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL1
+https://cdn-4.bigbrotheral.xyz/memfs/408ce70f-9965-40e1-b87d-6ab22f1fc3c9_output_0.m3u8?session=S7YhWTgezBx7G6XiazERv6
+#EXTINF:-1  tvg-id="BBVIP_AL2" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL2
+https://cdn-4.bigbrotheral.xyz/memfs/868e05ea-e9d6-46b7-a158-77dd102a03b0.m3u8
 #EXTINF:-1  tvg-id="RTK 3 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 2 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8
 #EXTINF:-1  tvg-id="RTK 3 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 3 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1  tvg-id="Tropoja TV (1080p)" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Shqipëria",Tropoja TV (1080p)
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="Star Plus" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2020/12/star-logo.png" group-title="Shqipëria",Star Plus
+#EXTINF:-1  tvg-id="Star Plus" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2020/12/star-logo.png" group-title="Shqipëria",Alb Swiss
 https://t3.tvmak.com/tv/STARPLUS.m3u8?9DNwYOEG86
 #EXTINF:-1  tvg-id="FILMA365 TV" tvg-logo="https://filma365.cc/uploads/poster/6PNbNAm5on.png" group-title="Shqipëria",FILMA365 TV
 https://protokolldns.xyz/fxmediaweb5548/tracks-v1a1/mono.m3u8
@@ -65,6 +65,8 @@ https://t3.tvmak.com/tv/rtviliria.m3u8?9DNwYOEG86
 https://ssh101.bozztv.com/ssh101/HiMusicTv/chunks.m3u8
 #EXTINF:-1  tvg-id="Frame TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FrameTv_logo_6061ce6c50fb9_thumb.jpg" group-title="Shqipëria",Frame TV
 https://protokolldns.xyz/frametvapps/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="Zjarr Tv" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FrameTv_logo_6061ce6c50fb9_thumb.jpg" group-title="Shqipëria",Zjarr Tv
+https://t3.tvmak.com/tv/ZJARRTV.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="AlbKanale Music TV Ⓢ" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="Shqipëria",AlbKanale Music TV Ⓢ
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1  tvg-id="ALBUK TV LIVE" tvg-logo="https://albuk.tv/wp-content/uploads/2022/06/big-logo-albuk-tv-1024x199.jpg" group-title="Shqipëria",ALBUK TV LIVE
@@ -97,6 +99,10 @@ https://t2.tvmak.com/tv/DASMATV.m3u8?9DNwYOEG86
 http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
 #EXTINF:-1  tvg-id="TV Apollon" tvg-logo="https://i.imgur.com/wk9Baz9.png" group-title="Shqipëria",TV Apollon
 https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
+#EXTINF:-1  tvg-id="Korça TV +" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
+http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:-1  tvg-id="TV2" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",TV2
+https://t1.tvmak.com/tv/TV2GV.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="Vizion Plus" tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:-1  tvg-id="Zico HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n_HXWpv5iIssTrFY7_a5MdSr9HAKPuq3sjKPBb1ONEAJA=s160-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Zico HD
@@ -105,24 +111,20 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
 #EXTINF:-1  tvg-id="Ora News" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Ora News
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1  tvg-id="BBVIP_AL1" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL1
-https://cdn-4.bigbrotheral.xyz/memfs/408ce70f-9965-40e1-b87d-6ab22f1fc3c9_output_0.m3u8?session=S7YhWTgezBx7G6XiazERv6
-#EXTINF:-1  tvg-id="BBVIP_AL2" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL2
-https://cdn-4.bigbrotheral.xyz/memfs/868e05ea-e9d6-46b7-a158-77dd102a03b0.m3u8
-#EXTINF:-1  tvg-id="Afra Film" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Afra Film
-https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  tvg-id="TV Mitrovica" tvg-logo="https://tvmak.com/img/tv/tvmitrovica.png" group-title="Shqipëria",TV Mitrovica
+https://t3.tvmak.com/tv/tvmitrovica.m3u8?tvS2xkdAcN
+#EXTINF:-1  tvg-id="TV SHENJA" tvg-logo="https://tvmak.com/img/tv/tvshenja.png" group-title="Shqipëria",TV SHENJA
+https://t3.tvmak.com/tv/TVSHENJA.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="Aurora Media Films (720p)" tvg-logo="https://www.tvonline123.com/uploads/logos/c73b86798c4ee33f.webp" group-title="Shqipëria",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1  tvg-id="Korça TV +" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
-http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:-1  tvg-id="Discover Films TV" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",Discover Films TV
-https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1  tvg-id="Filmgold" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",Filmgold
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=266c2f61-4ff7-423e-9af5-2d4f8e57bd34
 #EXTINF:-1  tvg-id="TLC East" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",TLC East
 http://fl2.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1  tvg-id="DisneyJr East" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",DisneyJr East
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1  tvg-id="Discover Films TV" tvg-logo="https://filma365.cc/uploads/poster/uSiNFpdv2D.jpg" group-title="Shqipëria",Discover Films TV
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1  tvg-id="Film4 HD (1080p)" tvg-logo="https://www.tvonline123.com/uploads/logos/2349bfaa1dced878.webp" group-title="Shqipëria",Film4 HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1  tvg-id="Lifetime East" tvg-logo="https://www.tvonline123.com/uploads/logos/787c149665c8668e.webp" group-title="Shqipëria",Lifetime East
@@ -137,6 +139,8 @@ http://fl2.moveonjoy.com/STARZ/index.m3u8
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1  tvg-id="Starz Encore Action" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/hbo-logo-optimized.jpg?x53049" group-title="Shqipëria",Starz Encore Action
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1  tvg-id="Afra Film" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
 #EXTINF:-1  tvg-id="Starz Encore Westerns" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/hbo-logo-optimized.jpg?x53049" group-title="Shqipëria",Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1  tvg-id="Movies Action (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Action_Movies_2022.svg/2560px-Fox_Action_Movies_2022.svg.png" group-title="Shqipëria",Movies Action (1080p)
