@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-id="ISLAM CHANNEL TV" tvg-logo="https://thumbnails.simplestreamcdn.com/islamtv/epg/20250720100500-20250720103500-1025.jpg?width=700&lang=en" group-title="Shqipëria",ISLAM CHANNEL TV
 https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
+#EXTINF:-1  tvg-id="MEKA LIVE" tvg-logo="https://tvmak.com/img/tv/mekalive.png" group-title="Shqipëria",MEKA LIVE
+https://t3.tvmak.com/tv/MEKATV.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="Shqipëria",Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1  tvg-id="BBVIP_AL1" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL1
@@ -115,6 +117,8 @@ https://live1.mediadesk.al/oranews.m3u8
 https://t3.tvmak.com/tv/tvmitrovica.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="TV SHENJA" tvg-logo="https://tvmak.com/img/tv/tvshenja.png" group-title="Shqipëria",TV SHENJA
 https://t3.tvmak.com/tv/TVSHENJA.m3u8?tvS2xkdAcN
+#EXTINF:-1  tvg-id="KLAN Macedonia" tvg-logo="https://tvmak.com/img/tv/klanmk.png" group-title="Shqipëria",KLAN Macedonia
+https://t3.tvmak.com/tv/TVART.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="Aurora Media Films (720p)" tvg-logo="https://www.tvonline123.com/uploads/logos/c73b86798c4ee33f.webp" group-title="Shqipëria",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1  tvg-id="Filmgold" tvg-logo="https://www.tvonline123.com/uploads/logos/7940be39d4a3db64.webp" group-title="Shqipëria",Filmgold
