@@ -71,8 +71,8 @@ https://t3.tvmak.com/tv/ULQINITV.m3u8?VASH9QD5Gv
 https://vs.sednastream.com:1936/alportv/alportv/chunklist_w56815498.m3u8
 #EXTINF:-1  tvg-id="TopEstrada TV (720p)" tvg-logo="https://i.imgur.com/0Dh1FJZ.png" group-title="Shqipëria",TopEstrada TV (720p)
 http://live.topestrada.com/live/topestrada/playlist.m3u8
-#EXTINF:-1  tvg-id="Alb’swiss TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Alb%E2%80%99swiss-TV-Live-TV-Online.png?resize=696%2C392&ssl=1" group-title="Shqipëria",Alb’swiss TV
-https://livetv.albswiss.com/Albswiss/live/chunklist_w149053756.m3u8
+#EXTINF:-1  tvg-id="Zjarr – TV" tvg-logo="https://zjarr.tv/wp-content/uploads/2025/05/zjarrtvlogo-300x169-1.png" group-title="Shqipëria",Zjarr – TV
+https://zjarr.future.al/hls/playlist.m3u8
 #EXTINF:-1  tvg-id="Alb’swiss TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Alb%E2%80%99swiss-TV-Live-TV-Online.png?resize=696%2C392&ssl=1" group-title="Shqipëria",Alb’swiss TV
 https://livetv.albswiss.com/Albswiss/live/playlist.m3u8
 #EXTINF:-1  tvg-id="Iliriatv TV" tvg-logo="http://iliriatv.com/iliria/wp-content/uploads/2014/06/logo_header-1.png" group-title="Shqipëria",Iliriatv TV
