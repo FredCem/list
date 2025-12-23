@@ -96,7 +96,9 @@ https://eun11.playlist.ttvnw.net/v1/playlist/CtYGsloXG7rB6BKyjyY4rr14_Wfes9hRZGA
 #EXTINF:-1  tvg-id="Dukagjini TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RadioDukagjini_logo_5ac42b695d3bf_thumb.jpg" group-title="Shqipëria",Dukagjini TV
 http://157.90.135.165:8081/yWbXvr1S/dukagjini_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="Rtv Arberia Film" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg" group-title="Shqipëria",Rtv Arberia Film
-https://ssh101.bozztv.com/ssh101/rtvarberia5/chunks.m3u8
+https://t3.tvmak.com/tv/tvarberia1.m3u8?Sa5VRmpvYW
+#EXTINF:-1  tvg-id="Turbo Channel" tvg-logo="https://tvmak.com/img/tv/turbochannel.png" group-title="Shqipëria",Turbo Channel
+https://t3.tvmak.com/tv/turbochannel.m3u8?Sa5VRmpvYW
 #EXTINF:-1  tvg-id="RTV Islam" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg" group-title="Shqipëria",RTV Islam
 https://protokolldns.xyz/rtvislamweb554/index.m3u8
 #EXTINF:-1  tvg-id="RTV Arberia Musik" tvg-logo="http://vip.worldlivetv.stream/images/blank_square.png" group-title="Shqipëria",RTV Arberia Musik
