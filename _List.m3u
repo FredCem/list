@@ -15,7 +15,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1  tvg-id="Tropoja TV (1080p)" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Shqipëria",Tropoja TV (1080p)
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="Star Plus" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2020/12/star-logo.png" group-title="Shqipëria",Alb Swiss
+#EXTINF:-1  tvg-id="T HD" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2020/12/star-logo.png" group-title="Shqipëria",T HD
 https://t3.tvmak.com/tv/STARPLUS.m3u8?9DNwYOEG86
 #EXTINF:-1  tvg-id="FILMA365 TV" tvg-logo="https://filma365.cc/uploads/poster/6PNbNAm5on.png" group-title="Shqipëria",FILMA365 TV
 https://protokolldns.xyz/fxmediaweb5548/tracks-v1a1/mono.m3u8
