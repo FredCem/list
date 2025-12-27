@@ -253,8 +253,8 @@ https://brat-samsung-us.amagi.tv/playlist.m3u8
 https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1  tvg-id="KBS World (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="Shqipëria",KBS World (720p)
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="Eman TV" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëria",Eman TV
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/chunks.m3u8?nimblesessionid=875850588
+#EXTINF:-1  tvg-id="Eman TV" tvg-logo="https://www.emanchannel.tv/wp-content/themes/eman-channel/img/logo.svg" group-title="Shqipëria",Eman TV
+https://cd198.anystream.uk:8082/hls/emnhdweb/5_4/index.m3u8?tkn=3776850051
 #EXTINF:-1  tvg-id="ANT1 Live Stream" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëria",ANT1 Live Stream
 https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_2/chunklist_dvr.m3u8
 #EXTINF:-1  tvg-id="CNA Live Stream (Singapore)" tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Shqipëria",CNA Live Stream (Singapore)
