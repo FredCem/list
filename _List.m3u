@@ -60,7 +60,7 @@ https://t2.tvmak.com/tv/rtviliridaHumor.m3u8?obq463h9d0
 #EXTINF:-1  tvg-id="TV Kopliku" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvKopliku_logo_5ac42f31d5d00_thumb.jpg" group-title="Shqipëria",TV Kopliku
 http://157.90.135.165:8081/yWbXvr1S/kopliku/playlist.m3u8
 #EXTINF:-1  tvg-id="BESA TV" tvg-logo="https://rtvbesa.com/wp-content/uploads/2021/10/cropped-BESA-LOGO-NEW.png" group-title="Shqipëria",BESA TV
-https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/tracks-v2a1/mono.ts.m3u8
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/index.m3u8
 #EXTINF:-1  tvg-id="Drita TV HD" tvg-logo="https://i.ytimg.com/vi/CbO3m-b_zC0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB2-EEAQBFzdeINASf06QuL4FXuUw" group-title="Shqipëria",Drita TV HD
 https://dritatv.protokolldns.xyz/dritaweb5587989/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="AlbDreams TV (720p)" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/AlbdreamsTv_logo_6025b12f8d21d_thumb.jpg" group-title="Shqipëria",AlbDreams TV (720p)
