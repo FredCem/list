@@ -79,7 +79,7 @@ http://live.topestrada.com/live/topestrada/playlist.m3u8
 https://zjarr.future.al/hls/playlist.m3u8
 #EXTINF:-1  tvg-id="Alb’swiss TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Alb%E2%80%99swiss-TV-Live-TV-Online.png?resize=696%2C392&ssl=1" group-title="Shqipëria",Alb’swiss TV
 https://livetv.albswiss.com/Albswiss/live/playlist.m3u8
-#EXTINF:-1  tvg-id="Iliriatv TV" tvg-logo="http://iliriatv.com/iliria/wp-content/uploads/2014/06/logo_header-1.png" group-title="Shqipëria",Iliriatv TV
+#EXTINF:-1  tvg-id="Iliriatv TV" tvg-logo="https://rti.tv/wp-content/uploads/2022/05/Logo-RTI-300x169.png" group-title="Shqipëria",Iliriatv TV
 https://t3.tvmak.com/tv/rtviliria.m3u8?9DNwYOEG86
 #EXTINF:-1  tvg-id="Hi Muzik live" tvg-logo="https://i.imgur.com/MJdY1m3.png" group-title="Shqipëria",Hi Muzik live
 https://ssh101.bozztv.com/ssh101/HiMusicTv/chunks.m3u8
