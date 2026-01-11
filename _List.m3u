@@ -13,8 +13,8 @@ https://cdn-4.bigbrotheral.xyz/memfs/868e05ea-e9d6-46b7-a158-77dd102a03b0.m3u8
 https://b3626b.sksktotun.xyz/memfs/edd14522-bcf3-47ba-964a-44b736b60c91_output_0.m3u8?session=LSu2335cw9JgDzZyexdvwS
 #EXTINF:-1  tvg-id="BBVIP_KOS2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5U-_HEHN3JVjktdObsY9LBLmZQUCsS1eQe4rP_5VqlrRtZbCs4m817us37eEok4m4L_6jAh6DcGchoygis1lp361MRfw4Cz8PPodA15bATCxCQgeQ9O9i4gEPVK141A52B_NCCX5qj22Lhi_tpwZ7UkYAqLU0oHDJAnFRS17hk1eBi-NKZ4gwy3txAw/s1600/BB2Live-300x83.png=w276-h76-p-k-no-nu" group-title="Shqipëria",BBVIP_KOS2
 https://vsd115.okcdn.ru/hls/10263423420941.m3u8/sig/pAvDMekzQ3c/expires/1768225072976/srcIp/192.166.208.158/urls/185.226.52.51/clientType/0/srcAg/CHROME/mid/11540110319117/10263423420941_high/index.m3u8
-#EXTINF:-1  tvg-id="RTK 3 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 2 TV
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8
+#EXTINF:-1  tvg-id="RTK 1 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 1 TV
+https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NTM2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ydGsxL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRjMWEzYjgyYmE0YTI4ZGQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.q4iXTkxLiAGPKXIc1iFvZo4sOR6PrA0v_d53SU7zkffF3m3qWF5iY_pNPXgJX0Z55ZGq0ya9qSpi95c9IS-vhw==/live/eds/rtk1/browser-HLS8/rtk1.m3u8
 #EXTINF:-1  tvg-id="RTK 3 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 3 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1  tvg-id="Tropoja TV (1080p)" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Shqipëria",Tropoja TV (1080p)
