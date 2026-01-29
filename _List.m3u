@@ -82,7 +82,7 @@ https://livetv.albswiss.com/Albswiss/live/playlist.m3u8
 #EXTINF:-1  tvg-id="Iliriatv TV" tvg-logo="https://rti.tv/wp-content/uploads/2022/05/Logo-RTI-300x169.png" group-title="Shqipëria",Iliriatv TV
 https://t3.tvmak.com/tv/rtviliria.m3u8?9DNwYOEG86
 #EXTINF:-1  tvg-id="Hi Muzik live" tvg-logo="https://i.imgur.com/MJdY1m3.png" group-title="Shqipëria",Hi Muzik live
-https://ssh101.bozztv.com/ssh101/HiMusicTv/chunks.m3u8
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1  tvg-id="Shqiponja TV " tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FrameTv_logo_6061ce6c50fb9_thumb.jpg" group-title="Shqipëria",Shqiponja TV 
 https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
 #EXTINF:-1  tvg-id="Zjarr Tv" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/FrameTv_logo_6061ce6c50fb9_thumb.jpg" group-title="Shqipëria",Zjarr Tv
