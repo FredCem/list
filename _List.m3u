@@ -826,9 +826,9 @@ http://f7c59e6e.ottolok.net/iptv/42NFZWZC6CCCXB/7326/index.m3u8
 #EXTINF:-1  tvg-id="NBC Sports Network HD US" tvg-logo="https://images.dwncdn.net/images/t_app-icon-s/p/884f8a6f-6f0f-4670-8755-6c896c02f716/688439888/usa-tv-iptv-player-logo" group-title="Shqipëria",NBC Sports Network HD US
 http://f7c59e6e.ottolok.net/iptv/42NFZWZC6CCCXB/7327/index.m3u8
 #EXTINF:-1  tvg-id="BRT 1 KIBRIS" tvg-logo="https://icanlive.tv/pictures/brt-1_small.jpg" group-title="Turkish IPTV",BRT 1 KIBRIS
-https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1  tvg-id="BRT 2 KIBRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png" group-title="Turkish IPTV",BRT 2 KIBRIS
-https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
+https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8
 #EXTINF:-1  tvg-id="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png" group-title="Turkish IPTV",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1  tvg-id="ATV" tvg-logo="https://icanlive.tv/pictures/atv.jpg" group-title="Turkish IPTV",ATV
