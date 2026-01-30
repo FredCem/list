@@ -982,7 +982,7 @@ https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
 #EXTINF:-1  tvg-id="CİNE 6" tvg-logo="N/A" group-title="Turkish IPTV",CİNE 6
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 #EXTINF:-1  tvg-id="CİNEMAX 6" tvg-logo="N/A" group-title="Turkish IPTV",CİNEMAX 6
-https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/medhigh.m3u8
 #EXTINF:-1  tvg-id="TiViTURK" tvg-logo="N/A" group-title="Turkish IPTV",TiViTURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1  tvg-id="DENiZ POSTASI TV" tvg-logo="N/A" group-title="Turkish IPTV",DENiZ POSTASI TV
