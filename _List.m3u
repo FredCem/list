@@ -1044,7 +1044,7 @@ https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb1
 #EXTINF:-1  tvg-id="BRT 1 KIBRIS" tvg-logo="N/A" group-title="Turkish IPTV",BRT 1 KIBRIS
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1  tvg-id="KIBRIS ADA" tvg-logo="N/A" group-title="Turkish IPTV",KIBRIS ADA
-https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/chunklist_w2073141101.m3u8
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8?hash=210e45ab2ae610e35ac73e5ccb0350b9
 #EXTINF:-1  tvg-id="KTV  KIBRIS" tvg-logo="N/A" group-title="Turkish IPTV",KTV  KIBRIS
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 #EXTINF:-1  tvg-id="KUZEY KIBRIS" tvg-logo="N/A" group-title="Turkish IPTV",KUZEY KIBRIS
@@ -1052,7 +1052,7 @@ https://kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1  tvg-id="KIBRIS GENÇ TV" tvg-logo="N/A" group-title="Turkish IPTV",KIBRIS GENÇ TV
 https://yayin1.canlitv.fun/canlitv/genctv.stream/playlist.m3u8?hash=210e45ab2ae610e35ac73e5ccb0350b9
 #EXTINF:-1  tvg-id="KANAL T" tvg-logo="N/A" group-title="Turkish IPTV",KANAL T
-https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/chunklist.m3u8
+https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
 #EXTINF:-1  tvg-id="SİM TV" tvg-logo="N/A" group-title="Turkish IPTV",SİM TV
 https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/chunklis.m3u8
 #EXTINF:-1  tvg-id="TV 2020" tvg-logo="N/A" group-title="Turkish IPTV",TV 2020
