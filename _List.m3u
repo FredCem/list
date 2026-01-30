@@ -976,7 +976,7 @@ https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1  tvg-id="ONS TV" tvg-logo="N/A" group-title="Turkish IPTV",ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 #EXTINF:-1  tvg-id="CİNE 1" tvg-logo="N/A" group-title="Turkish IPTV",CİNE 1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1  tvg-id="CİNE 5" tvg-logo="N/A" group-title="Turkish IPTV",CİNE 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1  tvg-id="CİNE 6" tvg-logo="N/A" group-title="Turkish IPTV",CİNE 6
