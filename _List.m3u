@@ -4,15 +4,11 @@ https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrat
 #EXTINF:-1  tvg-id="MEKA LIVE" tvg-logo="https://tvmak.com/img/tv/mekalive.png" group-title="Shqipëria",MEKA LIVE
 https://t3.tvmak.com/tv/MEKATV.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="Shqipëria",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
+https://deb20stream.duckdns.org/signed/stream.m3u8?ttl=1800
 #EXTINF:-1  tvg-id="BBVIP_AL1" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL1
-https://dmca5112s.sksktotun.xyz/live/livestream.m3u8?hls_ctx=q5z146l2
+https://cdn-1.cdn-g0.xyz/memfs/8e2a324a-a28c-48ae-a79a-9adf396dd895.m3u8?expires=1773089713&session=3WgFx6pPLJM5Ja9TapBbuZ&token=xcif39Gt2K1eQEXQJoch4g
 #EXTINF:-1  tvg-id="BBVIP_AL2" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL2
-https://fvb34v2.sksktotun.xyz/live/livestream.m3u8
-#EXTINF:-1  tvg-id="BBVIP_KOS1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrrvYXarv8oCAXmyKtwyKxX3EkLNRJfTP3qUcjwApUnx_iSqDiDmfv6RoyfwTSfHjjVC0X4n-qffbn86hSFcZD-XnU9QvD1XilwYNW2gNUigCIWS0GozQNnVSzv1R3YJDWLMrz0gbFrempTxJiLZ2TjysGBBr03ogqJgqfvoURCxl__CroVhoPk_m2dw/s1600/BB1Live-300x83.png=w276-h76-p-k-no-nu" group-title="Shqipëria",BBVIP_KOS1
-https://bbb11.sksktotun.xyz/live/livestream.m3u8
-#EXTINF:-1  tvg-id="BBVIP_KOS2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5U-_HEHN3JVjktdObsY9LBLmZQUCsS1eQe4rP_5VqlrRtZbCs4m817us37eEok4m4L_6jAh6DcGchoygis1lp361MRfw4Cz8PPodA15bATCxCQgeQ9O9i4gEPVK141A52B_NCCX5qj22Lhi_tpwZ7UkYAqLU0oHDJAnFRS17hk1eBi-NKZ4gwy3txAw/s1600/BB2Live-300x83.png=w276-h76-p-k-no-nu" group-title="Shqipëria",BBVIP_KOS2
-https://ng1s.krejtutten.xyz/live/livestream.m3u8
+https://vsd123.okcdn.ru/hls/11932158986753.m3u8/sig/6qoiMfB7X8c/expires/1773172690246/srcIp/193.164.22.156/urls/185.226.52.65/clientType/0/srcAg/CHROME/mid/12310673300993/11932158986753_low/index.m3u8
 #EXTINF:-1  tvg-id="RTK 1 TV" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zz0tqy/thumbnails/standart.jpg" group-title="Shqipëria",RTK 1 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1  tvg-id="RTK 3 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 3 TV
