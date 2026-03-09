@@ -43,6 +43,8 @@ https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZ
 https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1  tvg-id="T7 - Drejtpërdrejt" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/t7.jpg" group-title="Shqipëria",T7 - Drejtpërdrejt
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/rewind-14400.m3u8
+#EXTINF:-1  tvg-id="Korça TV +" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
+http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1  tvg-id="Syri i Korça Plus" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/imageedit-1-4941691083_1.png" group-title="Shqipëria",Syri i Korça Plus
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1  tvg-id="Teuta TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TeutaTv_logo_60ea37aaae99c_thumb.jpg" group-title="Shqipëria",Teuta TV
@@ -119,8 +121,6 @@ https://t2.tvmak.com/tv/DASMATV.m3u8?9DNwYOEG86
 http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
 #EXTINF:-1  tvg-id="TV Apollon" tvg-logo="https://i.imgur.com/wk9Baz9.png" group-title="Shqipëria",TV Apollon
 https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
-#EXTINF:-1  tvg-id="Korça TV +" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",Korça TV +
-http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1  tvg-id="TV2" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",TV2
 https://t1.tvmak.com/tv/TV2GV.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="Vizion Plus" tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria",Vizion Plus
