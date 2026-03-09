@@ -6,7 +6,7 @@ https://t3.tvmak.com/tv/MEKATV.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="Shqipëria",Report TV
 https://deb20stream.duckdns.org/signed/stream.m3u8?ttl=1800
 #EXTINF:-1  tvg-id="BBVIP_AL1" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL1
-https://cdn-1.cdn-g0.xyz/memfs/8e2a324a-a28c-48ae-a79a-9adf396dd895.m3u8?expires=1773089713&session=3WgFx6pPLJM5Ja9TapBbuZ&token=xcif39Gt2K1eQEXQJoch4g
+https://vsd115.okcdn.ru/hls/11932142209537.m3u8/sig/ZImEicqEMVg/expires/1773173047846/srcIp/193.164.22.156/urls/185.226.55.73/clientType/0/srcAg/CHROME/mid/12310660324865/11932142209537_lowest/index.m3u8
 #EXTINF:-1  tvg-id="BBVIP_AL2" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL2
 https://vsd123.okcdn.ru/hls/11932158986753.m3u8/sig/6qoiMfB7X8c/expires/1773172690246/srcIp/193.164.22.156/urls/185.226.52.65/clientType/0/srcAg/CHROME/mid/12310673300993/11932158986753_low/index.m3u8
 #EXTINF:-1  tvg-id="RTK 1 TV" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zz0tqy/thumbnails/standart.jpg" group-title="Shqipëria",RTK 1 TV
