@@ -9,7 +9,7 @@ https://deb20stream.duckdns.org/signed/stream.m3u8?ttl=1800
 #EXTINF:-1  tvg-id="Kanali 1 Ferma VIP 3 Live" tvg-logo="https://fermavip.live/wp-content/uploads/2024/03/kanali1.png", Kanali 1 Ferma VIP 3 Live
 https://cdn723.bigliveal.xyz/live/ferma1.m3u8?hls_ctx=76i0r93q
 
-#EXTINF:-1  tvg-id="Kanali 1 Ferma VIP 3 Live" tvg-logo="https://fermavip.live/wp-content/uploads/2024/03/kanali1.png", Kanali 1 Ferma VIP 3 Live
+#EXTINF:-1  tvg-id="Kanali BackUp Ferma VIP 3 Live" tvg-logo="https://fermavip.live/wp-content/uploads/2024/03/kanali1.png", Kanali 1 Ferma VIP 3 Live
 https://cdn723.bigliveal.xyz/live/ferma1.m3u8
 
 #EXTINF:-1  tvg-id="Kanali 2 Ferma VIP 3 Live" tvg-logo="https://fermavip.live/wp-content/uploads/2024/03/kanali2.png", Kanali 2 Ferma VIP 3 Live
