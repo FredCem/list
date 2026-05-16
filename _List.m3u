@@ -15,8 +15,8 @@ https://cdn723.bigliveal.xyz/live/ferma1.m3u8?hls_ctx=3ug1vw68
 #EXTINF:-1  tvg-id="Kanali 2 Ferma VIP 3 Live" tvg-logo="https://fermavip.live/wp-content/uploads/2024/03/kanali2.png" group-title="Shqipëria", Kanali 2 Ferma VIP 3 Live
 https://cdn723.bigliveal.xyz/live/ferma2.m3u8
 
-#EXTINF:-1  tvg-id="BBVIP_AL1" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL1
-https://vsd123.okcdn.ru/hls/12448604949074.m3u8/sig/EB-S6H9Jn6k/expires/1774815129207/srcIp/193.164.22.156/urls/185.226.55.83/clientType/0/srcAg/CHROME/mid/13194931084882/12448604949074_high/index.m3u8
+#EXTINF:-1  tvg-id="v1a1" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",v1a1 EuroVision 2026
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-id="BBVIP_AL2" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",BBVIP_AL2
 https://cdn-2.cdn-g0.xyz/memfs/cd4bc466-f77e-4a7b-9f11-fcae30250140.m3u8?token=PSmtefTB0owmRHXcUzByAQ&expires=1774780964#EXTINF:-1  tvg-id="RTK 1 TV" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zz0tqy/thumbnails/standart.jpg" group-title="Shqipëria",RTK 1 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8
