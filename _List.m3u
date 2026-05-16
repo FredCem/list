@@ -3,6 +3,8 @@
 https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
 #EXTINF:-1  tvg-id="MEKA LIVE" tvg-logo="https://tvmak.com/img/tv/mekalive.png" group-title="Shqipëria",MEKA LIVE
 https://t3.tvmak.com/tv/MEKATV.m3u8?tvS2xkdAcN
+#EXTINF:-1  tvg-id="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="Shqipëria",Vizion Plus
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1  tvg-id="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="Shqipëria",Report TV
 https://deb20stream.duckdns.org/signed/stream.m3u8?ttl=1800
 #EXTINF:-1  tvg-id="EUROVISION 2026" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",EUROVISION 2026
@@ -23,8 +25,6 @@ https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 https://t3.tvmak.com/tv/STARPLUS.m3u8?9DNwYOEG86
 #EXTINF:-1  tvg-id="FILMA365 TV" tvg-logo="https://filma365.cc/uploads/poster/6PNbNAm5on.png" group-title="Shqipëria",FILMA365 TV
 https://protokolldns.xyz/fxmediaweb5548/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="Shqipëria",Vizion Plus
-https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:-1  tvg-id="RTV 21" tvg-logo="https://i.imgur.com/qcJ4EBl.png" group-title="Shqipëria",RTV 21
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
 #EXTINF:-1  tvg-id="RTV 21 MIX" tvg-logo="https://tvmak.com/img/tv/rtv21mix.png" group-title="Shqipëria",RTV 21 MIX
@@ -42,7 +42,7 @@ https://t1.tvmak.com/tv/TVERA.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="News 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" group-title="Shqipëria",News 24 HD
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1  tvg-id="ALBTVUSA Live" tvg-logo="https://okteve.com/wp-content/uploads/media/54b7de4048750f1ba408aef3278a35f9-196x126.jpeg" group-title="Shqipëria",ALBTVUSA Live
-https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI1ZWQxNTJmMjdjNDM1YjE0NGM0ZTRlODBkNzYyOTc4YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzY4MTgyNDYxLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.GuI2mAlor-VOHMh2SdED3wqkejPcb-fon3yHnosT-KQ9iRz3fBNJWyJpnY50H_u_zrGE0B6WdRQi_FdbGtRC94NbROzBomoJ6T6TkQ5UxyGfTAhHi-CR0w07TXPVqxOhRaAZqw049wq8wI-aHJvQEHMcBkUksF1NVEFRNvFf_w4TqLfv_7EYf2RBO60FFVVgU2eJoq3BC-AHUHn74KLEz1mpj3RzzZoKq1qOr6ZItuG0jB4S_e_xXFwCe--kmR1SnwkygLjdZxvDI2-jjBLzI-vEbYwDVlAsM15DlXYjdrfEhWkDXxt_YCzA_sjvU3QgAS125xEL_Bn61NM2KNCAAg/manifest/stream_t98548a7c70b9200bf5472269691f1e96_r1379532625.m3u8?llhlsHBs=0.9&CMCD=cid%3D%221768139287624%22%2Cmtp%3D45000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22bc772400-cb2a-40af-9a64-e6721ce1b98e%22
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI3NWRiZmMzZDhlZjI0ODE0MDg3OGYzMDA1NTBkZjMwZSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzc5MDA3MzI0LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.PspH_7tmq7kA1peuNRXIQKiurB0x0MLPbtU51fHtRMRTV2waLjA0hgfn8GjRM_IoqGVIEz5hjMvF6ME_26o1SPwnoTSweobKXtSRBI47LHNj2uF6DEjqnpjUJQqMrTRKqRyoCAGpgT_QLRkolAoWQfnIU9FZ3WLER6YtTrUZrfgrgUgr89dNSIj74_ZOwdw_CJj0M2XEb-iDjeDn9ahSYbjxhp4dPth5En2TRjR8EfEC8NiPLfHRcWN2nDuYPOou6HRpmIlELR6Jbtyvo1PPXNMJtHUeIW88Xj037AY1tWNLirydsQDOdSvEXaIqPgCV83nvysJWn4yvdPvPjCeDPA/manifest/stream_te1f971746e95cc61e950d3a41dc5f759_r1650592292.m3u8?llhlsHBs=0.9&CMCD=cid%3D%221778964129354%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ec7b3116-0fd8-42b1-a6b2-f5335f1555cf%22%2Csu
 #EXTINF:-1  tvg-id="Syri TV" tvg-logo="https://www.syri.net/public/syri/repository/logo.svg" group-title="Shqipëria",Syri TV
 https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1  tvg-id="T7 - Drejtpërdrejt" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/t7.jpg" group-title="Shqipëria",T7 - Drejtpërdrejt
