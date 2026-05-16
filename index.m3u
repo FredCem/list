@@ -30,13 +30,13 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",TRT BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+https://cdn900.canlitv.me/trtbelgesel.m3u8?tkn=2Qs4JaYLYIJH2_fVvlBGZg&tms=1778975994&hst=www.canlitv.me&ip=2a02:6b6f:e482:6400:b1d2:3f9b:f6e7:a663&utkn=0fc69ed5916eabfbec7ec2d5d6ad7ddf&ch=trtbelgesel-canli-izle
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",DMAX TV
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+https://cdn502.canlitv.me/dmax.m3u8?tkn=rHZsxoHFKP6O7k6qmcf6nw&tms=1778976036&hst=www.canlitv.me&ip=2a02:6b6f:e482:6400:b1d2:3f9b:f6e7:a663&utkn=0fc69ed5916eabfbec7ec2d5d6ad7ddf&ch=dmax-canli-hd
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",NTV
-https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+https://cdn508.canlitv.me/ntv.m3u8?tkn=lkSCyP_4_oOJp5UvCbx4Tg&tms=1778976056&hst=www.canlitv.me&ip=2a02:6b6f:e482:6400:b1d2:3f9b:f6e7:a663&utkn=0fc69ed5916eabfbec7ec2d5d6ad7ddf&ch=ntvcanlihd-izle
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="N/A" group-title="Turkish IPTV",HABERGLOBAL
