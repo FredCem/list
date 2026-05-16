@@ -2,7 +2,7 @@
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://kuzeykibrissmart.tv/tvlogos/256/brt1hd.png?v2" group-title="Turkish IPTV",BRT 1 KIBRIS
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8?hash=575af483b73a7e1874add233dc58aae1
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://kuzeykibrissmart.tv/tvlogos/256/brt2hd.png?v2" group-title="Turkish IPTV",BRT 2 KIBRIS
-https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8?nimblesessionid=10721681
+https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png" group-title="Turkish IPTV",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://icanlive.tv/pictures/atv.jpg" group-title="Turkish IPTV",ATV
