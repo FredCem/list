@@ -60,7 +60,7 @@ https://yayin30.haber100.com/live/rtvarberia/chunklist_w365778652.m3u8
 #EXTINF:-1  tvg-id="TV Arberia Retro Hits" tvg-logo="http://vip.worldlivetv.stream/images/blank_square.png" group-title="Shqipëria",TV Arberia Retro Hits
 https://t2.tvmak.com/tv/rtviliridaHumor.m3u8?obq463h9d0
 #EXTINF:-1  tvg-id="TV Kopliku" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/TvKopliku_logo_5ac42f31d5d00_thumb.jpg" group-title="Shqipëria",TV Kopliku
-http://157.90.135.165:8081/yWbXvr1S/kopliku/playlist.m3u8
+https://t3.tvmak.com/tv/TVKOPLIKU.m3u8?uhAJVCSlcm
 #EXTINF:-1  tvg-id="BESA TV" tvg-logo="https://rtvbesa.com/wp-content/uploads/2021/10/cropped-BESA-LOGO-NEW.png" group-title="Shqipëria",BESA TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/index.m3u8
 #EXTINF:-1  tvg-id="Drita TV HD" tvg-logo="https://i.ytimg.com/vi/CbO3m-b_zC0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB2-EEAQBFzdeINASf06QuL4FXuUw" group-title="Shqipëria",Drita TV HD
@@ -134,7 +134,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 #EXTINF:-1  tvg-id="Pro 1" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/pro1.jpg" group-title="Shqipëria",Pro 1
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
 #EXTINF:-1  tvg-id="AlbFilm 1" tvg-logo="https://tvmak.com/img/tv/albfilmtv.png" group-title="Shqipëria",AlbFilm 1
-https://t1.tvmak.com/tv/ALBFILMTV1.m3u8?tvS2xkdAcN
+https://t3.tvmak.com/tv/ALBFILMTV1.m3u8?uhAJVCSlcm
 #EXTINF:-1  tvg-id="RTV RED" tvg-logo="https://tvmak.com/img/tv/rtvred.png" group-title="Shqipëria",RTV RED
 https://t3.tvmak.com/tv/RTVRED.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="Ora News" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",Ora News
