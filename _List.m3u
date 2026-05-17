@@ -131,11 +131,8 @@ http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
 https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
 #EXTINF:-1  tvg-id="TV2" tvg-logo="https://korcaplus1.weebly.com/uploads/1/2/3/5/123582483/editor/logo-me-tekst-e-bardhe.png?1734441591" group-title="Shqipëria",TV2
 https://t1.tvmak.com/tv/TV2GV.m3u8?tvS2xkdAcN
-#EXTINF:-1  tvg-id="Çiftçi TV" tvg-logo="Çiftçi TV" group-title="Çiftçi TV",Çiftçi TV
-#EXTVLCOPT:http-user-agentÇiftçi TV
-#EXTVLCOPT:network-cachingÇiftçi TV
-#KODIPROP:key=Çiftçi TV
-Çiftçi TV
+#EXTINF:-1  tvg-id="Çiftçi TV" tvg-logo="https://www.ciftcitv.com/assets/images/logo_dark.svg" group-title="Turkish IPTV",Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1  tvg-id="Zico HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n_HXWpv5iIssTrFY7_a5MdSr9HAKPuq3sjKPBb1ONEAJA=s160-c-k-c0x00ffffff-no-rj" group-title="Shqipëria",Zico HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 #EXTINF:-1  tvg-id="Pro 1" tvg-logo="https://g0eylj1rzj.gjirafa.net/storage/images/channel/desktop/pro1.jpg" group-title="Shqipëria",Pro 1
@@ -838,8 +835,8 @@ https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8
 #EXTINF:-1  tvg-id="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png" group-title="Turkish IPTV",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1  tvg-id="ATV" tvg-logo="https://icanlive.tv/pictures/atv.jpg" group-title="Turkish IPTV",ATV
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1  tvg-id="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Turkish IPTV",ATV
+https://trkvz-live.ercdn.net/atvhd/atvhd_360p.m3u8?st=ZeN5rpHVzyQoGunMjkhT2Q&e=1779061199
 #EXTINF:-1  tvg-id="STAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/640px-StarTV.svg.png" group-title="Turkish IPTV",STAR TV
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ppid=21f4b6d9b476b29755530d139c563be3&gdpr=1&gdpr_consent=CQe140AQe140AAcABBTRCQFgAAAAAEPgAChQAAAX3ABMNCogjLIgQCBQMIIEACgrCACgQBAAAkDRAQAmDAhyBgAusJkAIAUAAwQAgABBgACAAASABCIAIACAQAgQCBQABgAQBAQAMDAAGACxEAgABAdAxTAggECwASMyqDTAlAASCAlsqEEoGBBXCEIs8AggREwUAAAIABQAAADwWAhJICViQQBcQTQAAEAAAUQIkCKQswBBUGaLQVgScBkaYBg-YJklOgyAJghIyDIhN-Ew8UhRAghyA2KWYA6eIKAEAAAA.YAAACHwAAAAA
 #EXTINF:-1  tvg-id="SHOW TV" tvg-logo="https://mo.ciner.com.tr/showtv/iu/400x400/baba-bizi-eversene.jpg?v=1751032852" group-title="Turkish IPTV",SHOW TV
