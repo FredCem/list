@@ -1350,7 +1350,7 @@ https://bs.arectv33.sbs/static/bs1.m3u8
 #EXTINF:-1  tvg-id="BEINSPORTS 1 (Mac zamanı)" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Turkish IPTV",BEINSPORTS 1 (Mac zamanı)
 http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8
 #EXTINF:-1  tvg-id="Tv8" tvg-logo="N/A" group-title="Turkish IPTV",Tv8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+https://cdn505.canlitv.me/tv8.m3u8?tkn=Ndf5VT9OAGDwx747fP_A9Q&tms=1779031376&hst=www.canlitv.me&ip=2a02:6b6f:e482:6400:cc7f:d617:e130:f2c9&utkn=0fc69ed5916eabfbec7ec2d5d6ad7ddf&ch=tv8canli-kesintisiz-izle
 #EXTINF:-1  tvg-id="NOW Tv" tvg-logo="N/A" group-title="Turkish IPTV",NOW Tv
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1  tvg-id="Kanal 7" tvg-logo="N/A" group-title="Turkish IPTV",Kanal 7
@@ -1728,7 +1728,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1  tvg-id="TV 100" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="Turkish IPTV",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
 #EXTINF:-1  tvg-id="TVNET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="Turkish IPTV",TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+https://cdn900.canlitv.me/tvnet.m3u8?tkn=G6ceZH1boxITDr9noIaSng&tms=1779031455&hst=www.canlitv.me&ip=2a02:6b6f:e482:6400:cc7f:d617:e130:f2c9&utkn=0fc69ed5916eabfbec7ec2d5d6ad7ddf&ch=tvnet
 #EXTINF:-1  tvg-id="AKIT TV" tvg-logo="https://i.ibb.co/MBwzD2b/akit-tv.png" group-title="Turkish IPTV",AKIT TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1  tvg-id="BENGU TURK" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="Turkish IPTV",BENGU TURK
