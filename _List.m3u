@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-id="ISLAM CHANNEL TV" tvg-logo="https://thumbnails.simplestreamcdn.com/islamtv/epg/20250720100500-20250720103500-1025.jpg?width=700&lang=en" group-title="Shqipëria",ISLAM CHANNEL TV
 https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
+#EXTINF:-1  tvg-id="ISLAM CHANNEL TV" tvg-logo="https://thumbnails.simplestreamcdn.com/islamtv/epg/20250720100500-20250720103500-1025.jpg?width=700&lang=en" group-title="Shqipëria",ISLAM CHANNEL TV - 1
+https://dtfe3weh30eb8.cloudfront.net/out/v1/islamchannel/islamtv-english/hls-ts/index_576.m3u8
 #EXTINF:-1  tvg-id="MEKA LIVE" tvg-logo="https://tvmak.com/img/tv/mekalive.png" group-title="Shqipëria",MEKA LIVE
 https://t3.tvmak.com/tv/MEKATV.m3u8?tvS2xkdAcN
 #EXTINF:-1  tvg-id="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="Shqipëria",Vizion Plus
