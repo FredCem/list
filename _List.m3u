@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U8
 #EXTINF:-0 tvg-id="TRT 1 HD (1080p)" tvg-logo="" group-title="Shqipëria",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-0 tvg-id="ISLAM CHANNEL TV" tvg-logo="https://thumbnails.simplestreamcdn.com/islamtv/epg/20250720100500-20250720103500-1025.jpg" group-title="Shqipëria",ISLAM CHANNEL TV - 1
