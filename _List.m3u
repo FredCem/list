@@ -18,6 +18,9 @@ https://vsd123.okcdn.ru/hls/12326300224144.m3u8/sig/POWhzdAE4mY/expires/17748641
 #EXTINF:-1  tvg-id="v1a1" tvg-logo="https://www.tvonline123.com/uploads/logos/ffda98cb99622f42.webp" group-title="Shqipëria",v1a1 EuroVision 2026
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-id="Tv Festa" tvg-logo="https://tvmak.com/img/tv/tvfesta.png" group-title="Shqipëria",Tv Festa
+https://dtfe3weh30eb8.cloudfront.net/out/v1/islamchannel/islamtv-english/hls-ts/index_576.m3u8
+
+#EXTINF:-1  tvg-id="Tv Festa" tvg-logo="https://tvmak.com/img/tv/tvfesta.png" group-title="Shqipëria",Tv Festa
 http://157.90.135.165:8081/yWbXvr1S/kopliku/playlist.m3u8
 #EXTINF:-1  tvg-id="RTK 3 TV" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria",RTK 3 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
